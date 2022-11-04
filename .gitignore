@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*.tsv
+*.csv
+*.npy
+*.jsonl
+*.npz
+wandb/
+models/
