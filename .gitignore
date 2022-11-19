@@ -6,3 +6,5 @@
 *.npz
 wandb/
 models/
+
+!/generate_test_data/*
