@@ -7,4 +7,4 @@
 wandb/
 models/
 
-!/generate_test_data/*
+!/generate_test_data/*.csv
