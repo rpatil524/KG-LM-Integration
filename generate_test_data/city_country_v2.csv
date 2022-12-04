@@ -1,0 +1,1785 @@
+,city,cityLabel,country,countryLabel
+0,http://www.wikidata.org/entity/Q14903,Voerde,http://www.wikidata.org/entity/Q183,Germany
+1,http://www.wikidata.org/entity/Q14912,Saarlouis,http://www.wikidata.org/entity/Q183,Germany
+2,http://www.wikidata.org/entity/Q14956,Wesseling,http://www.wikidata.org/entity/Q183,Germany
+3,http://www.wikidata.org/entity/Q8356,Valladolid,http://www.wikidata.org/entity/Q29,Spain
+4,http://www.wikidata.org/entity/Q23154,Bristol,http://www.wikidata.org/entity/Q145,United Kingdom
+5,http://www.wikidata.org/entity/Q15174,Shenzhen,http://www.wikidata.org/entity/Q148,People's Republic of China
+6,http://www.wikidata.org/entity/Q15092,Castelló de la Plana,http://www.wikidata.org/entity/Q29,Spain
+7,http://www.wikidata.org/entity/Q15095,Albacete,http://www.wikidata.org/entity/Q29,Spain
+8,http://www.wikidata.org/entity/Q23311,City of London,http://www.wikidata.org/entity/Q145,United Kingdom
+9,http://www.wikidata.org/entity/Q65,Los Angeles,http://www.wikidata.org/entity/Q30,United States of America
+10,http://www.wikidata.org/entity/Q3876,Lilongwe,http://www.wikidata.org/entity/Q1020,Malawi
+11,http://www.wikidata.org/entity/Q15088,Tarragona,http://www.wikidata.org/entity/Q29,Spain
+12,http://www.wikidata.org/entity/Q60,New York City,http://www.wikidata.org/entity/Q30,United States of America
+13,http://www.wikidata.org/entity/Q7436,Gatchina,http://www.wikidata.org/entity/Q159,Russia
+14,http://www.wikidata.org/entity/Q14957,Papenburg,http://www.wikidata.org/entity/Q183,Germany
+15,http://www.wikidata.org/entity/Q8471,Reggio Calabria,http://www.wikidata.org/entity/Q38,Italy
+16,http://www.wikidata.org/entity/Q62,San Francisco,http://www.wikidata.org/entity/Q30,United States of America
+17,http://www.wikidata.org/entity/Q3882,Manama,http://www.wikidata.org/entity/Q398,Bahrain
+18,http://www.wikidata.org/entity/Q1947,Juba,http://www.wikidata.org/entity/Q958,South Sudan
+19,http://www.wikidata.org/entity/Q15420,Granollers,http://www.wikidata.org/entity/Q29,Spain
+20,http://www.wikidata.org/entity/Q15468,Badalona,http://www.wikidata.org/entity/Q29,Spain
+21,http://www.wikidata.org/entity/Q8621,Terni,http://www.wikidata.org/entity/Q38,Italy
+22,http://www.wikidata.org/entity/Q15681,Jaén,http://www.wikidata.org/entity/Q29,Spain
+23,http://www.wikidata.org/entity/Q1963,Khartoum,http://www.wikidata.org/entity/Q1049,Sudan
+24,http://www.wikidata.org/entity/Q23430,Ulaanbaatar,http://www.wikidata.org/entity/Q711,Mongolia
+25,http://www.wikidata.org/entity/Q1960,Dar es Salaam,http://www.wikidata.org/entity/Q924,Tanzania
+26,http://www.wikidata.org/entity/Q3889,Maputo,http://www.wikidata.org/entity/Q1029,Mozambique
+27,http://www.wikidata.org/entity/Q15679,Badajoz,http://www.wikidata.org/entity/Q29,Spain
+28,http://www.wikidata.org/entity/Q8673,Lagos,http://www.wikidata.org/entity/Q1033,Nigeria
+29,http://www.wikidata.org/entity/Q8646,Hong Kong,http://www.wikidata.org/entity/Q148,People's Republic of China
+30,http://www.wikidata.org/entity/Q15471,Sant Adrià de Besòs,http://www.wikidata.org/entity/Q29,Spain
+31,http://www.wikidata.org/entity/Q15639,Sant Feliu de Llobregat,http://www.wikidata.org/entity/Q29,Spain
+32,http://www.wikidata.org/entity/Q2079,Leipzig,http://www.wikidata.org/entity/Q183,Germany
+33,http://www.wikidata.org/entity/Q3881,Lusaka,http://www.wikidata.org/entity/Q953,Zambia
+35,http://www.wikidata.org/entity/Q84,London,http://www.wikidata.org/entity/Q145,United Kingdom
+37,http://www.wikidata.org/entity/Q88,Alexandria,http://www.wikidata.org/entity/Q30,United States of America
+38,http://www.wikidata.org/entity/Q3897,Luanda,http://www.wikidata.org/entity/Q916,Angola
+39,http://www.wikidata.org/entity/Q3883,Catanzaro,http://www.wikidata.org/entity/Q38,Italy
+40,http://www.wikidata.org/entity/Q15855,Bovec,http://www.wikidata.org/entity/Q215,Slovenia
+41,http://www.wikidata.org/entity/Q15858,Brežice,http://www.wikidata.org/entity/Q215,Slovenia
+42,http://www.wikidata.org/entity/Q15860,Cerknica,http://www.wikidata.org/entity/Q215,Slovenia
+43,http://www.wikidata.org/entity/Q3904,Mbabane,http://www.wikidata.org/entity/Q1050,Eswatini
+44,http://www.wikidata.org/entity/Q2028,Verona,http://www.wikidata.org/entity/Q38,Italy
+47,http://www.wikidata.org/entity/Q2055,Whitehorse,http://www.wikidata.org/entity/Q16,Canada
+48,http://www.wikidata.org/entity/Q3892,Curanilahue,http://www.wikidata.org/entity/Q298,Chile
+50,http://www.wikidata.org/entity/Q85,Cairo,http://www.wikidata.org/entity/Q79,Egypt
+51,http://www.wikidata.org/entity/Q3932,São Tomé,http://www.wikidata.org/entity/Q1039,São Tomé and Príncipe
+52,http://www.wikidata.org/entity/Q2135,Winnipeg,http://www.wikidata.org/entity/Q16,Canada
+53,http://www.wikidata.org/entity/Q87,Alexandria,http://www.wikidata.org/entity/Q79,Egypt
+55,http://www.wikidata.org/entity/Q3922,Detmold,http://www.wikidata.org/entity/Q183,Germany
+56,http://www.wikidata.org/entity/Q2096,Edmonton,http://www.wikidata.org/entity/Q16,Canada
+57,http://www.wikidata.org/entity/Q3921,Harare,http://www.wikidata.org/entity/Q954,Zimbabwe
+58,http://www.wikidata.org/entity/Q8684,Seoul,http://www.wikidata.org/entity/Q884,South Korea
+59,http://www.wikidata.org/entity/Q3935,Windhoek,http://www.wikidata.org/entity/Q1030,Namibia
+61,http://www.wikidata.org/entity/Q8693,Coswig,http://www.wikidata.org/entity/Q183,Germany
+63,http://www.wikidata.org/entity/Q2044,Florence,http://www.wikidata.org/entity/Q38,Italy
+64,http://www.wikidata.org/entity/Q3894,Kampala,http://www.wikidata.org/entity/Q1036,Uganda
+65,http://www.wikidata.org/entity/Q2141,Halifax,http://www.wikidata.org/entity/Q16,Canada
+66,http://www.wikidata.org/entity/Q2127,Charlottetown,http://www.wikidata.org/entity/Q16,Canada
+68,http://www.wikidata.org/entity/Q15908,Radeče,http://www.wikidata.org/entity/Q215,Slovenia
+69,http://www.wikidata.org/entity/Q15911,Ravne na Koroškem,http://www.wikidata.org/entity/Q215,Slovenia
+70,http://www.wikidata.org/entity/Q216,Vilnius,http://www.wikidata.org/entity/Q37,Lithuania
+71,http://www.wikidata.org/entity/Q15914,Ruše,http://www.wikidata.org/entity/Q215,Slovenia
+72,http://www.wikidata.org/entity/Q15916,Sežana,http://www.wikidata.org/entity/Q215,Slovenia
+73,http://www.wikidata.org/entity/Q3909,Maseru,http://www.wikidata.org/entity/Q1013,Lesotho
+74,http://www.wikidata.org/entity/Q15870,Grosuplje,http://www.wikidata.org/entity/Q215,Slovenia
+75,http://www.wikidata.org/entity/Q15871,Hrastnik,http://www.wikidata.org/entity/Q215,Slovenia
+76,http://www.wikidata.org/entity/Q174,São Paulo,http://www.wikidata.org/entity/Q155,Brazil
+77,http://www.wikidata.org/entity/Q172,Toronto,http://www.wikidata.org/entity/Q16,Canada
+78,http://www.wikidata.org/entity/Q2061,Yellowknife,http://www.wikidata.org/entity/Q16,Canada
+79,http://www.wikidata.org/entity/Q15867,Dravograd,http://www.wikidata.org/entity/Q215,Slovenia
+81,http://www.wikidata.org/entity/Q3928,Norderstedt,http://www.wikidata.org/entity/Q183,Germany
+82,http://www.wikidata.org/entity/Q2256,Birmingham,http://www.wikidata.org/entity/Q145,United Kingdom
+83,http://www.wikidata.org/entity/Q3992,Liège,http://www.wikidata.org/entity/Q31,Belgium
+84,http://www.wikidata.org/entity/Q2132,Victoria,http://www.wikidata.org/entity/Q16,Canada
+88,http://www.wikidata.org/entity/Q2239,Kongens Lyngby,http://www.wikidata.org/entity/Q35,Denmark
+90,http://www.wikidata.org/entity/Q3929,Port Louis,http://www.wikidata.org/entity/Q1027,Mauritius
+91,http://www.wikidata.org/entity/Q269,Tashkent,http://www.wikidata.org/entity/Q265,Uzbekistan
+92,http://www.wikidata.org/entity/Q2138,Fredericton,http://www.wikidata.org/entity/Q16,Canada
+93,http://www.wikidata.org/entity/Q3901,Moroni,http://www.wikidata.org/entity/Q970,Comoros
+94,http://www.wikidata.org/entity/Q8856,Straelen,http://www.wikidata.org/entity/Q183,Germany
+97,http://www.wikidata.org/entity/Q279,Modena,http://www.wikidata.org/entity/Q38,Italy
+98,http://www.wikidata.org/entity/Q9326,Vientiane,http://www.wikidata.org/entity/Q819,Laos
+100,http://www.wikidata.org/entity/Q3940,Victoria,http://www.wikidata.org/entity/Q1042,Seychelles
+101,http://www.wikidata.org/entity/Q2123,Regina,http://www.wikidata.org/entity/Q16,Canada
+102,http://www.wikidata.org/entity/Q270,Warsaw,http://www.wikidata.org/entity/Q36,Poland
+105,http://www.wikidata.org/entity/Q2734,Skierniewice,http://www.wikidata.org/entity/Q36,Poland
+106,http://www.wikidata.org/entity/Q8969,Cancun,http://www.wikidata.org/entity/Q96,Mexico
+108,http://www.wikidata.org/entity/Q3939,Dinslaken,http://www.wikidata.org/entity/Q183,Germany
+109,http://www.wikidata.org/entity/Q350,Cambridge,http://www.wikidata.org/entity/Q145,United Kingdom
+110,http://www.wikidata.org/entity/Q9427,Timbuktu,http://www.wikidata.org/entity/Q912,Mali
+111,http://www.wikidata.org/entity/Q2634,Naples,http://www.wikidata.org/entity/Q38,Italy
+112,http://www.wikidata.org/entity/Q2751,Siena,http://www.wikidata.org/entity/Q38,Italy
+113,http://www.wikidata.org/entity/Q9270,Thimphu,http://www.wikidata.org/entity/Q917,Bhutan
+114,http://www.wikidata.org/entity/Q9022,Guadalajara,http://www.wikidata.org/entity/Q96,Mexico
+117,http://www.wikidata.org/entity/Q226,Nuuk,http://www.wikidata.org/entity/Q223,Greenland
+118,http://www.wikidata.org/entity/Q9871,Tilburg,http://www.wikidata.org/entity/Q55,Netherlands
+121,http://www.wikidata.org/entity/Q9885,Coimbatore,http://www.wikidata.org/entity/Q668,India
+127,http://www.wikidata.org/entity/Q9279,Bandar Seri Begawan,http://www.wikidata.org/entity/Q921,Brunei
+128,http://www.wikidata.org/entity/Q9863,Salem,http://www.wikidata.org/entity/Q668,India
+132,http://www.wikidata.org/entity/Q2656,Palermo,http://www.wikidata.org/entity/Q38,Italy
+133,http://www.wikidata.org/entity/Q2467,Nassau,http://www.wikidata.org/entity/Q778,The Bahamas
+137,http://www.wikidata.org/entity/Q16258,Maldonado,http://www.wikidata.org/entity/Q77,Uruguay
+138,http://www.wikidata.org/entity/Q4093,Glasgow,http://www.wikidata.org/entity/Q145,United Kingdom
+139,http://www.wikidata.org/entity/Q9783,Roermond,http://www.wikidata.org/entity/Q55,Netherlands
+140,http://www.wikidata.org/entity/Q385,Gdynia,http://www.wikidata.org/entity/Q36,Poland
+141,http://www.wikidata.org/entity/Q4045,Fujairah,http://www.wikidata.org/entity/Q878,United Arab Emirates
+142,http://www.wikidata.org/entity/Q2471,Sanaa,http://www.wikidata.org/entity/Q805,Yemen
+143,http://www.wikidata.org/entity/Q9347,Malé,http://www.wikidata.org/entity/Q826,Maldives
+145,http://www.wikidata.org/entity/Q16010,Esch-sur-Alzette,http://www.wikidata.org/entity/Q32,Luxembourg
+146,http://www.wikidata.org/entity/Q393,Szczecin,http://www.wikidata.org/entity/Q36,Poland
+147,http://www.wikidata.org/entity/Q2790,Udine,http://www.wikidata.org/entity/Q38,Italy
+148,http://www.wikidata.org/entity/Q9824,Erode,http://www.wikidata.org/entity/Q668,India
+150,http://www.wikidata.org/entity/Q4549,Farrukhabad,http://www.wikidata.org/entity/Q668,India
+151,http://www.wikidata.org/entity/Q4629,Surat,http://www.wikidata.org/entity/Q668,India
+152,http://www.wikidata.org/entity/Q4301,Arusha,http://www.wikidata.org/entity/Q924,Tanzania
+156,http://www.wikidata.org/entity/Q16520,Busan,http://www.wikidata.org/entity/Q884,South Korea
+157,http://www.wikidata.org/entity/Q16012,Differdange,http://www.wikidata.org/entity/Q32,Luxembourg
+160,http://www.wikidata.org/entity/Q384,Skopje,http://www.wikidata.org/entity/Q221,North Macedonia
+163,http://www.wikidata.org/entity/Q18125,Manchester,http://www.wikidata.org/entity/Q145,United Kingdom
+164,http://www.wikidata.org/entity/Q439,Wąchock,http://www.wikidata.org/entity/Q36,Poland
+167,http://www.wikidata.org/entity/Q9920,Haarlem,http://www.wikidata.org/entity/Q55,Netherlands
+168,http://www.wikidata.org/entity/Q9888,Ooty,http://www.wikidata.org/entity/Q668,India
+169,http://www.wikidata.org/entity/Q9904,Edappadi,http://www.wikidata.org/entity/Q668,India
+170,http://www.wikidata.org/entity/Q9365,Dushanbe,http://www.wikidata.org/entity/Q863,Tajikistan
+173,http://www.wikidata.org/entity/Q4656,Pula,http://www.wikidata.org/entity/Q224,Croatia
+175,http://www.wikidata.org/entity/Q4709,Barquisimeto,http://www.wikidata.org/entity/Q717,Venezuela
+179,http://www.wikidata.org/entity/Q3001,Paramaribo,http://www.wikidata.org/entity/Q730,Suriname
+181,http://www.wikidata.org/entity/Q10686,Belfast,http://www.wikidata.org/entity/Q145,United Kingdom
+182,http://www.wikidata.org/entity/Q5030,Sagua La Grande,http://www.wikidata.org/entity/Q241,Cuba
+183,http://www.wikidata.org/entity/Q5042,Cruces,http://www.wikidata.org/entity/Q241,Cuba
+184,http://www.wikidata.org/entity/Q5045,Lajas,http://www.wikidata.org/entity/Q241,Cuba
+185,http://www.wikidata.org/entity/Q17895,Palmerston,http://www.wikidata.org/entity/Q408,Australia
+186,http://www.wikidata.org/entity/Q334,Singapore,http://www.wikidata.org/entity/Q334,Singapore
+187,http://www.wikidata.org/entity/Q10014,Kampen,http://www.wikidata.org/entity/Q55,Netherlands
+191,http://www.wikidata.org/entity/Q3043,Belmopan,http://www.wikidata.org/entity/Q242,Belize
+194,http://www.wikidata.org/entity/Q16666,Nanjing,http://www.wikidata.org/entity/Q148,People's Republic of China
+195,http://www.wikidata.org/entity/Q17856,Ballarat,http://www.wikidata.org/entity/Q408,Australia
+196,http://www.wikidata.org/entity/Q588,Katowice,http://www.wikidata.org/entity/Q36,Poland
+197,http://www.wikidata.org/entity/Q580,Łódź,http://www.wikidata.org/entity/Q36,Poland
+198,http://www.wikidata.org/entity/Q585,Oslo,http://www.wikidata.org/entity/Q20,Norway
+199,http://www.wikidata.org/entity/Q4686,Slavonski Brod,http://www.wikidata.org/entity/Q224,Croatia
+200,http://www.wikidata.org/entity/Q2844,Brasília,http://www.wikidata.org/entity/Q155,Brazil
+201,http://www.wikidata.org/entity/Q3037,Kathmandu,http://www.wikidata.org/entity/Q837,Nepal
+202,http://www.wikidata.org/entity/Q18709,Patos,http://www.wikidata.org/entity/Q222,Albania
+203,http://www.wikidata.org/entity/Q18730,Cërrik,http://www.wikidata.org/entity/Q222,Albania
+204,http://www.wikidata.org/entity/Q5112,Adelaide,http://www.wikidata.org/entity/Q408,Australia
+205,http://www.wikidata.org/entity/Q5168,Makhachkala,http://www.wikidata.org/entity/Q159,Russia
+206,http://www.wikidata.org/entity/Q3114,Canberra,http://www.wikidata.org/entity/Q408,Australia
+207,http://www.wikidata.org/entity/Q19344,San Pedro de la Paz,http://www.wikidata.org/entity/Q298,Chile
+208,http://www.wikidata.org/entity/Q10717,Georgetown,http://www.wikidata.org/entity/Q734,Guyana
+210,http://www.wikidata.org/entity/Q10690,Cardiff,http://www.wikidata.org/entity/Q145,United Kingdom
+211,http://www.wikidata.org/entity/Q436,Szczebrzeszyn,http://www.wikidata.org/entity/Q36,Poland
+212,http://www.wikidata.org/entity/Q3070,San José,http://www.wikidata.org/entity/Q800,Costa Rica
+213,http://www.wikidata.org/entity/Q4999,Calimete,http://www.wikidata.org/entity/Q241,Cuba
+214,http://www.wikidata.org/entity/Q5001,Perico,http://www.wikidata.org/entity/Q241,Cuba
+215,http://www.wikidata.org/entity/Q5004,Rodas,http://www.wikidata.org/entity/Q241,Cuba
+216,http://www.wikidata.org/entity/Q5008,Palmira,http://www.wikidata.org/entity/Q241,Cuba
+217,http://www.wikidata.org/entity/Q5029,Colón,http://www.wikidata.org/entity/Q241,Cuba
+218,http://www.wikidata.org/entity/Q5468,Durban,http://www.wikidata.org/entity/Q258,South Africa
+219,http://www.wikidata.org/entity/Q10086,Mysore,http://www.wikidata.org/entity/Q668,India
+220,http://www.wikidata.org/entity/Q2933,Asunción,http://www.wikidata.org/entity/Q733,Paraguay
+221,http://www.wikidata.org/entity/Q9954,Purmerend,http://www.wikidata.org/entity/Q55,Netherlands
+222,http://www.wikidata.org/entity/Q9974,Weesp,http://www.wikidata.org/entity/Q55,Netherlands
+223,http://www.wikidata.org/entity/Q11864,Junagadh,http://www.wikidata.org/entity/Q668,India
+224,http://www.wikidata.org/entity/Q18791,Shijak,http://www.wikidata.org/entity/Q222,Albania
+225,http://www.wikidata.org/entity/Q16869,Constantinople,http://www.wikidata.org/entity/Q2277,Roman Empire
+226,http://www.wikidata.org/entity/Q18780,Likasi,http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo
+227,http://www.wikidata.org/entity/Q18751,Poliçan,http://www.wikidata.org/entity/Q222,Albania
+228,http://www.wikidata.org/entity/Q18768,Laç,http://www.wikidata.org/entity/Q222,Albania
+229,http://www.wikidata.org/entity/Q18772,Librazhd,http://www.wikidata.org/entity/Q222,Albania
+230,http://www.wikidata.org/entity/Q5753,Samarkand,http://www.wikidata.org/entity/Q265,Uzbekistan
+231,http://www.wikidata.org/entity/Q16869,Constantinople,http://www.wikidata.org/entity/Q12544,Byzantine Empire
+233,http://www.wikidata.org/entity/Q16869,Constantinople,http://www.wikidata.org/entity/Q12560,Ottoman Empire
+234,http://www.wikidata.org/entity/Q5687,Jericho,http://www.wikidata.org/entity/Q219060,State of Palestine
+235,http://www.wikidata.org/entity/Q598,Rzeszów,http://www.wikidata.org/entity/Q36,Poland
+236,http://www.wikidata.org/entity/Q11194,Sarajevo,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+237,http://www.wikidata.org/entity/Q18737,Rrëshen,http://www.wikidata.org/entity/Q222,Albania
+238,http://www.wikidata.org/entity/Q18746,Roskovec,http://www.wikidata.org/entity/Q222,Albania
+239,http://www.wikidata.org/entity/Q5776,Bethlehem,http://www.wikidata.org/entity/Q219060,State of Palestine
+241,http://www.wikidata.org/entity/Q18774,Kuçovë,http://www.wikidata.org/entity/Q222,Albania
+242,http://www.wikidata.org/entity/Q18777,Gramsh,http://www.wikidata.org/entity/Q222,Albania
+245,http://www.wikidata.org/entity/Q16869,Constantinople,http://www.wikidata.org/entity/Q178897,Latin Empire
+246,http://www.wikidata.org/entity/Q5724,Anuradhapura,http://www.wikidata.org/entity/Q854,Sri Lanka
+247,http://www.wikidata.org/entity/Q5832,Axum,http://www.wikidata.org/entity/Q115,Ethiopia
+249,http://www.wikidata.org/entity/Q5460,Stellenbosch,http://www.wikidata.org/entity/Q258,South Africa
+250,http://www.wikidata.org/entity/Q5760,Thebes,http://www.wikidata.org/entity/Q41,Greece
+252,http://www.wikidata.org/entity/Q5764,Bukhara,http://www.wikidata.org/entity/Q265,Uzbekistan
+253,http://www.wikidata.org/entity/Q2868,Lima,http://www.wikidata.org/entity/Q419,Peru
+254,http://www.wikidata.org/entity/Q18808,Pyongyang,http://www.wikidata.org/entity/Q423,North Korea
+255,http://www.wikidata.org/entity/Q21166,Skövde,http://www.wikidata.org/entity/Q34,Sweden
+259,http://www.wikidata.org/entity/Q3306,Panama City,http://www.wikidata.org/entity/Q804,Panama
+260,http://www.wikidata.org/entity/Q20835,Hørsholm,http://www.wikidata.org/entity/Q35,Denmark
+261,http://www.wikidata.org/entity/Q3130,Sydney,http://www.wikidata.org/entity/Q408,Australia
+262,http://www.wikidata.org/entity/Q3141,Melbourne,http://www.wikidata.org/entity/Q408,Australia
+263,http://www.wikidata.org/entity/Q11285,Hetauda,http://www.wikidata.org/entity/Q837,Nepal
+264,http://www.wikidata.org/entity/Q11568,Darwin,http://www.wikidata.org/entity/Q408,Australia
+265,http://www.wikidata.org/entity/Q11725,Chongqing,http://www.wikidata.org/entity/Q148,People's Republic of China
+266,http://www.wikidata.org/entity/Q5640,Koprivnica,http://www.wikidata.org/entity/Q224,Croatia
+270,http://www.wikidata.org/entity/Q5992,Kauhajoki,http://www.wikidata.org/entity/Q33,Finland
+271,http://www.wikidata.org/entity/Q6009,Kauhava,http://www.wikidata.org/entity/Q33,Finland
+272,http://www.wikidata.org/entity/Q612,Dubai,http://www.wikidata.org/entity/Q878,United Arab Emirates
+273,http://www.wikidata.org/entity/Q5713,Mary,http://www.wikidata.org/entity/Q874,Turkmenistan
+274,http://www.wikidata.org/entity/Q3183,Perth,http://www.wikidata.org/entity/Q408,Australia
+276,http://www.wikidata.org/entity/Q11739,Lahore,http://www.wikidata.org/entity/Q843,Pakistan
+277,http://www.wikidata.org/entity/Q19583,Gori,http://www.wikidata.org/entity/Q230,Georgia
+278,http://www.wikidata.org/entity/Q5867,Vukovar,http://www.wikidata.org/entity/Q224,Croatia
+280,http://www.wikidata.org/entity/Q6157,Seinäjoki,http://www.wikidata.org/entity/Q33,Finland
+281,http://www.wikidata.org/entity/Q5316,Rovinj,http://www.wikidata.org/entity/Q224,Croatia
+282,http://www.wikidata.org/entity/Q11736,Tianjin,http://www.wikidata.org/entity/Q148,People's Republic of China
+283,http://www.wikidata.org/entity/Q994,Tbilisi,http://www.wikidata.org/entity/Q230,Georgia
+284,http://www.wikidata.org/entity/Q727,Amsterdam,http://www.wikidata.org/entity/Q55,Netherlands
+285,http://www.wikidata.org/entity/Q5980,Alajärvi,http://www.wikidata.org/entity/Q33,Finland
+286,http://www.wikidata.org/entity/Q5981,Alavus,http://www.wikidata.org/entity/Q33,Finland
+290,http://www.wikidata.org/entity/Q21178,Næstved,http://www.wikidata.org/entity/Q35,Denmark
+291,http://www.wikidata.org/entity/Q21179,Sønderborg,http://www.wikidata.org/entity/Q35,Denmark
+293,http://www.wikidata.org/entity/Q6172,Ähtäri,http://www.wikidata.org/entity/Q33,Finland
+294,http://www.wikidata.org/entity/Q19429,Petrovaradin,http://www.wikidata.org/entity/Q403,Serbia
+297,http://www.wikidata.org/entity/Q749,Groningen,http://www.wikidata.org/entity/Q55,Netherlands
+298,http://www.wikidata.org/entity/Q6016,Kurikka,http://www.wikidata.org/entity/Q33,Finland
+299,http://www.wikidata.org/entity/Q644,Sharm el-Sheikh,http://www.wikidata.org/entity/Q79,Egypt
+300,http://www.wikidata.org/entity/Q21176,Viborg,http://www.wikidata.org/entity/Q35,Denmark
+301,http://www.wikidata.org/entity/Q21185,Hjørring,http://www.wikidata.org/entity/Q35,Denmark
+302,http://www.wikidata.org/entity/Q956,Beijing,http://www.wikidata.org/entity/Q148,People's Republic of China
+304,http://www.wikidata.org/entity/Q3370,Zadar,http://www.wikidata.org/entity/Q224,Croatia
+305,http://www.wikidata.org/entity/Q5788,Petra,http://www.wikidata.org/entity/Q810,Jordan
+306,http://www.wikidata.org/entity/Q21181,Fredericia,http://www.wikidata.org/entity/Q35,Denmark
+307,http://www.wikidata.org/entity/Q21184,Køge,http://www.wikidata.org/entity/Q35,Denmark
+309,http://www.wikidata.org/entity/Q6364,Uchkuduk,http://www.wikidata.org/entity/Q265,Uzbekistan
+310,http://www.wikidata.org/entity/Q11711,Siem Reap,http://www.wikidata.org/entity/Q424,Cambodia
+318,http://www.wikidata.org/entity/Q761,Białystok,http://www.wikidata.org/entity/Q36,Poland
+319,http://www.wikidata.org/entity/Q3561,Algiers,http://www.wikidata.org/entity/Q262,Algeria
+320,http://www.wikidata.org/entity/Q11909,Vadodara,http://www.wikidata.org/entity/Q668,India
+328,http://www.wikidata.org/entity/Q22889,Bath,http://www.wikidata.org/entity/Q145,United Kingdom
+333,http://www.wikidata.org/entity/Q5838,Kabul,http://www.wikidata.org/entity/Q889,Afghanistan
+334,http://www.wikidata.org/entity/Q5869,Lhasa,http://www.wikidata.org/entity/Q148,People's Republic of China
+336,http://www.wikidata.org/entity/Q992,Amersfoort,http://www.wikidata.org/entity/Q55,Netherlands
+340,http://www.wikidata.org/entity/Q21197,Chișinău,http://www.wikidata.org/entity/Q217,Moldova
+343,http://www.wikidata.org/entity/Q13077,Hualpén,http://www.wikidata.org/entity/Q298,Chile
+345,http://www.wikidata.org/entity/Q21180,Silkeborg,http://www.wikidata.org/entity/Q35,Denmark
+346,http://www.wikidata.org/entity/Q798,Assen,http://www.wikidata.org/entity/Q55,Netherlands
+347,http://www.wikidata.org/entity/Q23044,San Rafael,http://www.wikidata.org/entity/Q414,Argentina
+348,http://www.wikidata.org/entity/Q6454,Calais,http://www.wikidata.org/entity/Q142,France
+349,http://www.wikidata.org/entity/Q768,Supetar,http://www.wikidata.org/entity/Q224,Croatia
+352,http://www.wikidata.org/entity/Q23551,Mérida,http://www.wikidata.org/entity/Q717,Venezuela
+356,http://www.wikidata.org/entity/Q3476,L’Aquila,http://www.wikidata.org/entity/Q172579,Kingdom of Italy
+359,http://www.wikidata.org/entity/Q3657,Rietavas,http://www.wikidata.org/entity/Q37,Lithuania
+364,http://www.wikidata.org/entity/Q23438,Ashgabat,http://www.wikidata.org/entity/Q874,Turkmenistan
+366,http://www.wikidata.org/entity/Q12994,Bruges,http://www.wikidata.org/entity/Q31,Belgium
+370,http://www.wikidata.org/entity/Q3659,N'Djamena,http://www.wikidata.org/entity/Q657,Chad
+372,http://www.wikidata.org/entity/Q3620,Sapinuwa,http://www.wikidata.org/entity/Q43,Turkey
+373,http://www.wikidata.org/entity/Q6487,Antalya,http://www.wikidata.org/entity/Q43,Turkey
+375,http://www.wikidata.org/entity/Q6647,Lalitpur,http://www.wikidata.org/entity/Q837,Nepal
+379,http://www.wikidata.org/entity/Q25286,Uppsala,http://www.wikidata.org/entity/Q34,Sweden
+381,http://www.wikidata.org/entity/Q25659,Marjayoun,http://www.wikidata.org/entity/Q822,Lebanon
+383,http://www.wikidata.org/entity/Q24231,Nakskov,http://www.wikidata.org/entity/Q35,Denmark
+386,http://www.wikidata.org/entity/Q3579,Tripoli,http://www.wikidata.org/entity/Q1016,Libya
+393,http://www.wikidata.org/entity/Q24149,Arabsiyo,http://www.wikidata.org/entity/Q1045,Somalia
+396,http://www.wikidata.org/entity/Q24341,Talkalakh,http://www.wikidata.org/entity/Q858,Syria
+400,http://www.wikidata.org/entity/Q7024,Lugano,http://www.wikidata.org/entity/Q39,Switzerland
+401,http://www.wikidata.org/entity/Q6616,Poitiers,http://www.wikidata.org/entity/Q142,France
+402,http://www.wikidata.org/entity/Q23564,Podgorica,http://www.wikidata.org/entity/Q236,Montenegro
+404,http://www.wikidata.org/entity/Q25804,Trondheim,http://www.wikidata.org/entity/Q20,Norway
+405,http://www.wikidata.org/entity/Q1335,Montevideo,http://www.wikidata.org/entity/Q77,Uruguay
+406,http://www.wikidata.org/entity/Q43387,Edirne,http://www.wikidata.org/entity/Q43,Turkey
+407,http://www.wikidata.org/entity/Q3602,Andacollo,http://www.wikidata.org/entity/Q298,Chile
+408,http://www.wikidata.org/entity/Q25475,Batumi,http://www.wikidata.org/entity/Q230,Georgia
+409,http://www.wikidata.org/entity/Q3604,Djibouti,http://www.wikidata.org/entity/Q977,Djibouti
+410,http://www.wikidata.org/entity/Q25270,Pristina,http://www.wikidata.org/entity/Q1246,Kosovo
+411,http://www.wikidata.org/entity/Q42956,Harbin,http://www.wikidata.org/entity/Q148,People's Republic of China
+412,http://www.wikidata.org/entity/Q26397,Nitra,http://www.wikidata.org/entity/Q214,Slovakia
+413,http://www.wikidata.org/entity/Q3726,Banjul,http://www.wikidata.org/entity/Q1005,The Gambia
+414,http://www.wikidata.org/entity/Q3674,Niamey,http://www.wikidata.org/entity/Q1032,Niger
+415,http://www.wikidata.org/entity/Q3656,Buin,http://www.wikidata.org/entity/Q298,Chile
+416,http://www.wikidata.org/entity/Q25579,Umeå,http://www.wikidata.org/entity/Q34,Sweden
+417,http://www.wikidata.org/entity/Q1354,Dhaka,http://www.wikidata.org/entity/Q902,Bangladesh
+423,http://www.wikidata.org/entity/Q25797,Žilina,http://www.wikidata.org/entity/Q214,Slovakia
+425,http://www.wikidata.org/entity/Q3739,Bissau,http://www.wikidata.org/entity/Q1007,Guinea-Bissau
+426,http://www.wikidata.org/entity/Q3688,Nouakchott,http://www.wikidata.org/entity/Q1025,Mauritania
+430,http://www.wikidata.org/entity/Q13648,Le Tampon,http://www.wikidata.org/entity/Q142,France
+435,http://www.wikidata.org/entity/Q6397,Avignon,http://www.wikidata.org/entity/Q142,France
+436,http://www.wikidata.org/entity/Q3646,Krasnodar,http://www.wikidata.org/entity/Q159,Russia
+438,http://www.wikidata.org/entity/Q26793,Bergen,http://www.wikidata.org/entity/Q20,Norway
+439,http://www.wikidata.org/entity/Q3642,Asmara,http://www.wikidata.org/entity/Q986,Eritrea
+440,http://www.wikidata.org/entity/Q25409,Košice,http://www.wikidata.org/entity/Q214,Slovakia
+442,http://www.wikidata.org/entity/Q3713,La Calera,http://www.wikidata.org/entity/Q298,Chile
+443,http://www.wikidata.org/entity/Q26175,Trnava,http://www.wikidata.org/entity/Q214,Slovakia
+447,http://www.wikidata.org/entity/Q25282,Da Nang,http://www.wikidata.org/entity/Q881,Vietnam
+448,http://www.wikidata.org/entity/Q3549,Šibenik,http://www.wikidata.org/entity/Q224,Croatia
+449,http://www.wikidata.org/entity/Q44237,Mendoza,http://www.wikidata.org/entity/Q414,Argentina
+450,http://www.wikidata.org/entity/Q1218,Jerusalem,http://www.wikidata.org/entity/Q801,Israel
+452,http://www.wikidata.org/entity/Q27163,Kladovo,http://www.wikidata.org/entity/Q403,Serbia
+454,http://www.wikidata.org/entity/Q26569,Zahlé,http://www.wikidata.org/entity/Q822,Lebanon
+455,http://www.wikidata.org/entity/Q14453,Egilsstaðir,http://www.wikidata.org/entity/Q189,Iceland
+456,http://www.wikidata.org/entity/Q26393,Poprad,http://www.wikidata.org/entity/Q214,Slovakia
+458,http://www.wikidata.org/entity/Q3711,Belgrade,http://www.wikidata.org/entity/Q403,Serbia
+459,http://www.wikidata.org/entity/Q26268,Luleå,http://www.wikidata.org/entity/Q34,Sweden
+460,http://www.wikidata.org/entity/Q26119,Prešov,http://www.wikidata.org/entity/Q214,Slovakia
+461,http://www.wikidata.org/entity/Q3551,Rabat,http://www.wikidata.org/entity/Q1028,Morocco
+462,http://www.wikidata.org/entity/Q3703,Bamako,http://www.wikidata.org/entity/Q912,Mali
+466,http://www.wikidata.org/entity/Q1362,Islamabad,http://www.wikidata.org/entity/Q843,Pakistan
+467,http://www.wikidata.org/entity/Q44206,Resistencia,http://www.wikidata.org/entity/Q414,Argentina
+468,http://www.wikidata.org/entity/Q23725,Byzantium,http://www.wikidata.org/entity/Q1747689,Ancient Rome
+470,http://www.wikidata.org/entity/Q27402,Pinya,http://www.wikidata.org/entity/Q836,Myanmar
+472,http://www.wikidata.org/entity/Q3733,Conakry,http://www.wikidata.org/entity/Q1006,Guinea
+473,http://www.wikidata.org/entity/Q44211,Corrientes,http://www.wikidata.org/entity/Q414,Argentina
+474,http://www.wikidata.org/entity/Q44213,Paraná,http://www.wikidata.org/entity/Q414,Argentina
+475,http://www.wikidata.org/entity/Q27359,Al Majma'ah,http://www.wikidata.org/entity/Q851,Saudi Arabia
+476,http://www.wikidata.org/entity/Q43595,Cotonou,http://www.wikidata.org/entity/Q962,Benin
+477,http://www.wikidata.org/entity/Q3780,Freetown,http://www.wikidata.org/entity/Q1044,Sierra Leone
+481,http://www.wikidata.org/entity/Q3742,Casablanca,http://www.wikidata.org/entity/Q298,Chile
+482,http://www.wikidata.org/entity/Q26906,Ciudad Bolívar,http://www.wikidata.org/entity/Q717,Venezuela
+483,http://www.wikidata.org/entity/Q1489,Mexico City,http://www.wikidata.org/entity/Q96,Mexico
+484,http://www.wikidata.org/entity/Q43509,Guayaquil,http://www.wikidata.org/entity/Q736,Ecuador
+485,http://www.wikidata.org/entity/Q1533,Caracas,http://www.wikidata.org/entity/Q717,Venezuela
+488,http://www.wikidata.org/entity/Q3748,Monrovia,http://www.wikidata.org/entity/Q1014,Liberia
+489,http://www.wikidata.org/entity/Q3751,Praia,http://www.wikidata.org/entity/Q1011,Cape Verde
+492,http://www.wikidata.org/entity/Q1555,Guatemala City,http://www.wikidata.org/entity/Q774,Guatemala
+493,http://www.wikidata.org/entity/Q27001,Martin,http://www.wikidata.org/entity/Q214,Slovakia
+494,http://www.wikidata.org/entity/Q44208,Rawson,http://www.wikidata.org/entity/Q414,Argentina
+495,http://www.wikidata.org/entity/Q44210,Córdoba,http://www.wikidata.org/entity/Q414,Argentina
+497,http://www.wikidata.org/entity/Q27222,Ras Tanura,http://www.wikidata.org/entity/Q851,Saudi Arabia
+498,http://www.wikidata.org/entity/Q27223,Dhurma,http://www.wikidata.org/entity/Q851,Saudi Arabia
+499,http://www.wikidata.org/entity/Q27234,Safwa City,http://www.wikidata.org/entity/Q851,Saudi Arabia
+500,http://www.wikidata.org/entity/Q27242,Al-Ula,http://www.wikidata.org/entity/Q851,Saudi Arabia
+501,http://www.wikidata.org/entity/Q1515,Abidjan,http://www.wikidata.org/entity/Q1008,Ivory Coast
+502,http://www.wikidata.org/entity/Q26958,Layla,http://www.wikidata.org/entity/Q851,Saudi Arabia
+503,http://www.wikidata.org/entity/Q43453,Plzeň,http://www.wikidata.org/entity/Q213,Czech Republic
+505,http://www.wikidata.org/entity/Q44243,San Luis,http://www.wikidata.org/entity/Q414,Argentina
+506,http://www.wikidata.org/entity/Q44217,San Salvador de Jujuy,http://www.wikidata.org/entity/Q414,Argentina
+507,http://www.wikidata.org/entity/Q44236,La Rioja,http://www.wikidata.org/entity/Q414,Argentina
+508,http://www.wikidata.org/entity/Q242059,Andrijevica,http://www.wikidata.org/entity/Q236,Montenegro
+510,http://www.wikidata.org/entity/Q3792,Lomé,http://www.wikidata.org/entity/Q945,Togo
+512,http://www.wikidata.org/entity/Q1519,Abu Dhabi,http://www.wikidata.org/entity/Q878,United Arab Emirates
+513,http://www.wikidata.org/entity/Q43418,Concepción,http://www.wikidata.org/entity/Q419,Peru
+521,http://www.wikidata.org/entity/Q26134,Nabatieh,http://www.wikidata.org/entity/Q822,Lebanon
+522,http://www.wikidata.org/entity/Q26155,Jounieh,http://www.wikidata.org/entity/Q822,Lebanon
+525,http://www.wikidata.org/entity/Q27161,Körfez,http://www.wikidata.org/entity/Q43,Turkey
+526,http://www.wikidata.org/entity/Q27162,Gölcük,http://www.wikidata.org/entity/Q43,Turkey
+527,http://www.wikidata.org/entity/Q27660,Jizan,http://www.wikidata.org/entity/Q851,Saudi Arabia
+529,http://www.wikidata.org/entity/Q3761,Accra,http://www.wikidata.org/entity/Q117,Ghana
+530,http://www.wikidata.org/entity/Q3787,Abuja,http://www.wikidata.org/entity/Q1033,Nigeria
+531,http://www.wikidata.org/entity/Q44401,Cayenne,http://www.wikidata.org/entity/Q142,France
+533,http://www.wikidata.org/entity/Q29042,Akureyri,http://www.wikidata.org/entity/Q189,Iceland
+534,http://www.wikidata.org/entity/Q239107,Edfu,http://www.wikidata.org/entity/Q79,Egypt
+538,http://www.wikidata.org/entity/Q3752,Maykop,http://www.wikidata.org/entity/Q159,Russia
+539,http://www.wikidata.org/entity/Q13666,Messina,http://www.wikidata.org/entity/Q172579,Kingdom of Italy
+540,http://www.wikidata.org/entity/Q45313,Herat,http://www.wikidata.org/entity/Q889,Afghanistan
+541,http://www.wikidata.org/entity/Q239421,Nakuru,http://www.wikidata.org/entity/Q114,Kenya
+542,http://www.wikidata.org/entity/Q241122,Comrat,http://www.wikidata.org/entity/Q217,Moldova
+545,http://www.wikidata.org/entity/Q1640,Osijek,http://www.wikidata.org/entity/Q224,Croatia
+546,http://www.wikidata.org/entity/Q3753,Cañete,http://www.wikidata.org/entity/Q298,Chile
+547,http://www.wikidata.org/entity/Q239266,Višegrad,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+548,http://www.wikidata.org/entity/Q30620,Limón,http://www.wikidata.org/entity/Q800,Costa Rica
+549,http://www.wikidata.org/entity/Q30687,Puntarenas,http://www.wikidata.org/entity/Q800,Costa Rica
+552,http://www.wikidata.org/entity/Q14433,Huechuraba,http://www.wikidata.org/entity/Q298,Chile
+557,http://www.wikidata.org/entity/Q30002,Chengdu,http://www.wikidata.org/entity/Q148,People's Republic of China
+558,http://www.wikidata.org/entity/Q3818,Malabo,http://www.wikidata.org/entity/Q983,Equatorial Guinea
+559,http://www.wikidata.org/entity/Q3766,Damascus,http://www.wikidata.org/entity/Q858,Syria
+560,http://www.wikidata.org/entity/Q239097,Deir ez-Zor,http://www.wikidata.org/entity/Q858,Syria
+561,http://www.wikidata.org/entity/Q30963,Kingston,http://www.wikidata.org/entity/Q408,Australia
+564,http://www.wikidata.org/entity/Q1737,Bregenz,http://www.wikidata.org/entity/Q40,Austria
+565,http://www.wikidata.org/entity/Q243327,Changwon,http://www.wikidata.org/entity/Q884,South Korea
+566,http://www.wikidata.org/entity/Q239580,Kitwe,http://www.wikidata.org/entity/Q953,Zambia
+568,http://www.wikidata.org/entity/Q1647,Rijeka,http://www.wikidata.org/entity/Q224,Croatia
+569,http://www.wikidata.org/entity/Q241122,Comrat,http://www.wikidata.org/entity/Q12560,Ottoman Empire
+571,http://www.wikidata.org/entity/Q241122,Comrat,http://www.wikidata.org/entity/Q15180,Soviet Union
+574,http://www.wikidata.org/entity/Q29888,Aswan,http://www.wikidata.org/entity/Q79,Egypt
+575,http://www.wikidata.org/entity/Q29962,Asyut,http://www.wikidata.org/entity/Q79,Egypt
+576,http://www.wikidata.org/entity/Q3799,Porto-Novo,http://www.wikidata.org/entity/Q962,Benin
+577,http://www.wikidata.org/entity/Q33428,Vinh,http://www.wikidata.org/entity/Q881,Vietnam
+578,http://www.wikidata.org/entity/Q241122,Comrat,http://www.wikidata.org/entity/Q34266,Russian Empire
+579,http://www.wikidata.org/entity/Q244004,Sétif,http://www.wikidata.org/entity/Q262,Algeria
+581,http://www.wikidata.org/entity/Q3838,Kinshasa,http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo
+582,http://www.wikidata.org/entity/Q241122,Comrat,http://www.wikidata.org/entity/Q139319,Russian Republic
+583,http://www.wikidata.org/entity/Q241122,Comrat,http://www.wikidata.org/entity/Q203493,Kingdom of Romania
+584,http://www.wikidata.org/entity/Q3805,Amman,http://www.wikidata.org/entity/Q810,Jordan
+585,http://www.wikidata.org/entity/Q243322,Gujranwala,http://www.wikidata.org/entity/Q843,Pakistan
+587,http://www.wikidata.org/entity/Q241122,Comrat,http://www.wikidata.org/entity/Q964024,Moldavian Democratic Republic
+589,http://www.wikidata.org/entity/Q1764,Reykjavík,http://www.wikidata.org/entity/Q189,Iceland
+590,http://www.wikidata.org/entity/Q243319,Morogoro,http://www.wikidata.org/entity/Q924,Tanzania
+591,http://www.wikidata.org/entity/Q27212,Thatta,http://www.wikidata.org/entity/Q843,Pakistan
+594,http://www.wikidata.org/entity/Q45604,Kandahar,http://www.wikidata.org/entity/Q889,Afghanistan
+595,http://www.wikidata.org/entity/Q46319,Sükhbaatar,http://www.wikidata.org/entity/Q711,Mongolia
+596,http://www.wikidata.org/entity/Q3832,Bangui,http://www.wikidata.org/entity/Q929,Central African Republic
+597,http://www.wikidata.org/entity/Q28911,Lahti,http://www.wikidata.org/entity/Q33,Finland
+598,http://www.wikidata.org/entity/Q27176,Al Bahah,http://www.wikidata.org/entity/Q851,Saudi Arabia
+599,http://www.wikidata.org/entity/Q30985,Hamilton,http://www.wikidata.org/entity/Q23635,Bermuda
+603,http://www.wikidata.org/entity/Q31350,Shibin Al Kawm,http://www.wikidata.org/entity/Q79,Egypt
+605,http://www.wikidata.org/entity/Q47048,Oulu,http://www.wikidata.org/entity/Q33,Finland
+606,http://www.wikidata.org/entity/Q31565,Jerash,http://www.wikidata.org/entity/Q810,Jordan
+607,http://www.wikidata.org/entity/Q45301,Trabzon,http://www.wikidata.org/entity/Q43,Turkey
+609,http://www.wikidata.org/entity/Q243859,Abiko,http://www.wikidata.org/entity/Q17,Japan
+610,http://www.wikidata.org/entity/Q1524,Athens,http://www.wikidata.org/entity/Q41,Greece
+611,http://www.wikidata.org/entity/Q3825,Libreville,http://www.wikidata.org/entity/Q1000,Gabon
+612,http://www.wikidata.org/entity/Q243846,Hillah,http://www.wikidata.org/entity/Q796,Iraq
+616,http://www.wikidata.org/entity/Q1656534,Užventis,http://www.wikidata.org/entity/Q37,Lithuania
+617,http://www.wikidata.org/entity/Q46135,Créteil,http://www.wikidata.org/entity/Q142,France
+620,http://www.wikidata.org/entity/Q3765,Chiguayante,http://www.wikidata.org/entity/Q298,Chile
+621,http://www.wikidata.org/entity/Q244745,San Jose Chinantequilla,http://www.wikidata.org/entity/Q96,Mexico
+622,http://www.wikidata.org/entity/Q45797,Dunkirk,http://www.wikidata.org/entity/Q142,France
+623,http://www.wikidata.org/entity/Q1757,Helsinki,http://www.wikidata.org/entity/Q33,Finland
+625,http://www.wikidata.org/entity/Q242587,Abéché,http://www.wikidata.org/entity/Q657,Chad
+626,http://www.wikidata.org/entity/Q30520,Bulayev,http://www.wikidata.org/entity/Q232,Kazakhstan
+627,http://www.wikidata.org/entity/Q45942,Annaba,http://www.wikidata.org/entity/Q262,Algeria
+630,http://www.wikidata.org/entity/Q246554,Dolisie,http://www.wikidata.org/entity/Q971,Republic of the Congo
+631,http://www.wikidata.org/entity/Q47166,Orsk,http://www.wikidata.org/entity/Q159,Russia
+633,http://www.wikidata.org/entity/Q31572,Al-Karak,http://www.wikidata.org/entity/Q810,Jordan
+634,http://www.wikidata.org/entity/Q31594,Ar Ramtha,http://www.wikidata.org/entity/Q810,Jordan
+635,http://www.wikidata.org/entity/Q31616,Ma'an,http://www.wikidata.org/entity/Q810,Jordan
+638,http://www.wikidata.org/entity/Q244139,Pinar del Río,http://www.wikidata.org/entity/Q241,Cuba
+639,http://www.wikidata.org/entity/Q30616,Heredia,http://www.wikidata.org/entity/Q800,Costa Rica
+640,http://www.wikidata.org/entity/Q30617,Cartago,http://www.wikidata.org/entity/Q800,Costa Rica
+641,http://www.wikidata.org/entity/Q245023,Taichung,http://www.wikidata.org/entity/Q865,Taiwan
+642,http://www.wikidata.org/entity/Q1677956,Maiquetía,http://www.wikidata.org/entity/Q717,Venezuela
+643,http://www.wikidata.org/entity/Q244236,Qabala,http://www.wikidata.org/entity/Q227,Azerbaijan
+645,http://www.wikidata.org/entity/Q244898,New Taipei,http://www.wikidata.org/entity/Q865,Taiwan
+646,http://www.wikidata.org/entity/Q1677434,May Pen,http://www.wikidata.org/entity/Q766,Jamaica
+648,http://www.wikidata.org/entity/Q44948,Krnete,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+649,http://www.wikidata.org/entity/Q44950,Milosavci,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+651,http://www.wikidata.org/entity/Q1675026,Itahari,http://www.wikidata.org/entity/Q837,Nepal
+652,http://www.wikidata.org/entity/Q547479,Dunakeszi,http://www.wikidata.org/entity/Q28,Hungary
+653,http://www.wikidata.org/entity/Q1658420,Yangiyer,http://www.wikidata.org/entity/Q265,Uzbekistan
+654,http://www.wikidata.org/entity/Q1658752,Kagan,http://www.wikidata.org/entity/Q265,Uzbekistan
+655,http://www.wikidata.org/entity/Q244509,Kigoma,http://www.wikidata.org/entity/Q924,Tanzania
+656,http://www.wikidata.org/entity/Q1676159,Izra,http://www.wikidata.org/entity/Q858,Syria
+657,http://www.wikidata.org/entity/Q244230,Bani Walid,http://www.wikidata.org/entity/Q1016,Libya
+658,http://www.wikidata.org/entity/Q546964,Dolores,http://www.wikidata.org/entity/Q77,Uruguay
+659,http://www.wikidata.org/entity/Q1659926,Tikapur,http://www.wikidata.org/entity/Q837,Nepal
+661,http://www.wikidata.org/entity/Q1754,Stockholm,http://www.wikidata.org/entity/Q34,Sweden
+663,http://www.wikidata.org/entity/Q47492,Gaza City,http://www.wikidata.org/entity/Q219060,State of Palestine
+667,http://www.wikidata.org/entity/Q249480,Herakleopolis Magna,http://www.wikidata.org/entity/Q79,Egypt
+668,http://www.wikidata.org/entity/Q1735,Innsbruck,http://www.wikidata.org/entity/Q40,Austria
+669,http://www.wikidata.org/entity/Q30970,Jamestown,http://www.wikidata.org/entity/Q192184,"Saint Helena, Ascension and Tristan da Cunha"
+670,http://www.wikidata.org/entity/Q30996,El Alto,http://www.wikidata.org/entity/Q750,Bolivia
+672,http://www.wikidata.org/entity/Q29585,Migues,http://www.wikidata.org/entity/Q77,Uruguay
+673,http://www.wikidata.org/entity/Q48338,Kayseri,http://www.wikidata.org/entity/Q43,Turkey
+675,http://www.wikidata.org/entity/Q1842,Luxembourg,http://www.wikidata.org/entity/Q32,Luxembourg
+676,http://www.wikidata.org/entity/Q246590,Abu Dis,http://www.wikidata.org/entity/Q219060,State of Palestine
+677,http://www.wikidata.org/entity/Q1854,Ho Chi Minh City,http://www.wikidata.org/entity/Q881,Vietnam
+678,http://www.wikidata.org/entity/Q34126,Funafuti,http://www.wikidata.org/entity/Q672,Tuvalu
+679,http://www.wikidata.org/entity/Q243699,Rosetta,http://www.wikidata.org/entity/Q79,Egypt
+681,http://www.wikidata.org/entity/Q47282,Osh,http://www.wikidata.org/entity/Q813,Kyrgyzstan
+683,http://www.wikidata.org/entity/Q34001,Roubaix,http://www.wikidata.org/entity/Q142,France
+687,http://www.wikidata.org/entity/Q1689268,Jimeta,http://www.wikidata.org/entity/Q1033,Nigeria
+688,http://www.wikidata.org/entity/Q1780,Bratislava,http://www.wikidata.org/entity/Q214,Slovakia
+692,http://www.wikidata.org/entity/Q1693963,Rokiškis,http://www.wikidata.org/entity/Q37,Lithuania
+696,http://www.wikidata.org/entity/Q1703483,Saran,http://www.wikidata.org/entity/Q232,Kazakhstan
+697,http://www.wikidata.org/entity/Q1848,San Marino,http://www.wikidata.org/entity/Q238,San Marino
+698,http://www.wikidata.org/entity/Q1650406,Abbeyleix,http://www.wikidata.org/entity/Q27,Republic of Ireland
+699,http://www.wikidata.org/entity/Q1695650,Mong La,http://www.wikidata.org/entity/Q836,Myanmar
+700,http://www.wikidata.org/entity/Q49218,Rochester,http://www.wikidata.org/entity/Q30,United States of America
+701,http://www.wikidata.org/entity/Q243325,Khulna,http://www.wikidata.org/entity/Q902,Bangladesh
+703,http://www.wikidata.org/entity/Q244154,Holguín,http://www.wikidata.org/entity/Q241,Cuba
+704,http://www.wikidata.org/entity/Q1704346,Outjo,http://www.wikidata.org/entity/Q1030,Namibia
+705,http://www.wikidata.org/entity/Q48814,Strumica,http://www.wikidata.org/entity/Q221,North Macedonia
+706,http://www.wikidata.org/entity/Q3844,Brazzaville,http://www.wikidata.org/entity/Q971,Republic of the Congo
+707,http://www.wikidata.org/entity/Q1650017,Sidi Abdelaziz,http://www.wikidata.org/entity/Q262,Algeria
+708,http://www.wikidata.org/entity/Q1650450,Cotati,http://www.wikidata.org/entity/Q30,United States of America
+715,http://www.wikidata.org/entity/Q48278,Medellín,http://www.wikidata.org/entity/Q739,Colombia
+727,http://www.wikidata.org/entity/Q1688290,Esik,http://www.wikidata.org/entity/Q232,Kazakhstan
+733,http://www.wikidata.org/entity/Q31805,Invercargill,http://www.wikidata.org/entity/Q664,New Zealand
+734,http://www.wikidata.org/entity/Q1656462,Linkuva,http://www.wikidata.org/entity/Q37,Lithuania
+735,http://www.wikidata.org/entity/Q1683958,Madaba,http://www.wikidata.org/entity/Q810,Jordan
+737,http://www.wikidata.org/entity/Q249884,Saint-Pierre,http://www.wikidata.org/entity/Q142,France
+738,http://www.wikidata.org/entity/Q1688290,Esik,http://www.wikidata.org/entity/Q15180,Soviet Union
+743,http://www.wikidata.org/entity/Q47138,Encarnación,http://www.wikidata.org/entity/Q733,Paraguay
+744,http://www.wikidata.org/entity/Q1688290,Esik,http://www.wikidata.org/entity/Q34266,Russian Empire
+745,http://www.wikidata.org/entity/Q33935,Tel Aviv,http://www.wikidata.org/entity/Q801,Israel
+747,http://www.wikidata.org/entity/Q48472,Konye-Urgench,http://www.wikidata.org/entity/Q874,Turkmenistan
+750,http://www.wikidata.org/entity/Q3854,Bujumbura,http://www.wikidata.org/entity/Q967,Burundi
+751,http://www.wikidata.org/entity/Q246069,Rutana,http://www.wikidata.org/entity/Q967,Burundi
+762,http://www.wikidata.org/entity/Q249022,Traralgon,http://www.wikidata.org/entity/Q408,Australia
+770,http://www.wikidata.org/entity/Q546010,Ani,http://www.wikidata.org/entity/Q43,Turkey
+771,http://www.wikidata.org/entity/Q246139,Rwamagana,http://www.wikidata.org/entity/Q1037,Rwanda
+772,http://www.wikidata.org/entity/Q246145,Ruhengeri,http://www.wikidata.org/entity/Q1037,Rwanda
+773,http://www.wikidata.org/entity/Q1863,Andorra la Vella,http://www.wikidata.org/entity/Q228,Andorra
+779,http://www.wikidata.org/entity/Q259272,Gargždai,http://www.wikidata.org/entity/Q37,Lithuania
+780,http://www.wikidata.org/entity/Q548805,El Hiba,http://www.wikidata.org/entity/Q79,Egypt
+781,http://www.wikidata.org/entity/Q545767,Paamiut,http://www.wikidata.org/entity/Q223,Greenland
+782,http://www.wikidata.org/entity/Q251181,Adrar,http://www.wikidata.org/entity/Q262,Algeria
+783,http://www.wikidata.org/entity/Q51679,Saipan,http://www.wikidata.org/entity/Q30,United States of America
+784,http://www.wikidata.org/entity/Q1714088,Nuevo Berlín,http://www.wikidata.org/entity/Q77,Uruguay
+788,http://www.wikidata.org/entity/Q1711521,Naska,http://www.wikidata.org/entity/Q419,Peru
+793,http://www.wikidata.org/entity/Q557397,Ankober,http://www.wikidata.org/entity/Q115,Ethiopia
+794,http://www.wikidata.org/entity/Q250531,Álamos,http://www.wikidata.org/entity/Q96,Mexico
+799,http://www.wikidata.org/entity/Q250733,Wa,http://www.wikidata.org/entity/Q117,Ghana
+800,http://www.wikidata.org/entity/Q1723411,Kamsar,http://www.wikidata.org/entity/Q1006,Guinea
+801,http://www.wikidata.org/entity/Q1724990,Oued Zem,http://www.wikidata.org/entity/Q1028,Morocco
+802,http://www.wikidata.org/entity/Q565568,Tébessa,http://www.wikidata.org/entity/Q262,Algeria
+803,http://www.wikidata.org/entity/Q1722889,Kambia,http://www.wikidata.org/entity/Q1044,Sierra Leone
+804,http://www.wikidata.org/entity/Q1656131,Ranya,http://www.wikidata.org/entity/Q796,Iraq
+805,http://www.wikidata.org/entity/Q250276,Rishton,http://www.wikidata.org/entity/Q265,Uzbekistan
+806,http://www.wikidata.org/entity/Q1651059,Stony Hill,http://www.wikidata.org/entity/Q766,Jamaica
+808,http://www.wikidata.org/entity/Q249994,Hsinchu,http://www.wikidata.org/entity/Q865,Taiwan
+811,http://www.wikidata.org/entity/Q1661081,Independencia,http://www.wikidata.org/entity/Q750,Bolivia
+814,http://www.wikidata.org/entity/Q249996,Keelung,http://www.wikidata.org/entity/Q865,Taiwan
+815,http://www.wikidata.org/entity/Q1681898,Mkoani,http://www.wikidata.org/entity/Q924,Tanzania
+816,http://www.wikidata.org/entity/Q1667693,Makoua,http://www.wikidata.org/entity/Q971,Republic of the Congo
+821,http://www.wikidata.org/entity/Q1673881,Iseyin,http://www.wikidata.org/entity/Q1033,Nigeria
+822,http://www.wikidata.org/entity/Q262579,Karaman,http://www.wikidata.org/entity/Q43,Turkey
+823,http://www.wikidata.org/entity/Q1681204,Tumbura,http://www.wikidata.org/entity/Q958,South Sudan
+824,http://www.wikidata.org/entity/Q1668870,Qandala,http://www.wikidata.org/entity/Q1045,Somalia
+825,http://www.wikidata.org/entity/Q1867,Taipei,http://www.wikidata.org/entity/Q865,Taiwan
+827,http://www.wikidata.org/entity/Q1709128,Marsabit,http://www.wikidata.org/entity/Q114,Kenya
+830,http://www.wikidata.org/entity/Q249226,Zangilan,http://www.wikidata.org/entity/Q227,Azerbaijan
+833,http://www.wikidata.org/entity/Q249175,Lahij,http://www.wikidata.org/entity/Q805,Yemen
+840,http://www.wikidata.org/entity/Q1858,Hanoi,http://www.wikidata.org/entity/Q881,Vietnam
+841,http://www.wikidata.org/entity/Q52603,Ksar el-Kebir,http://www.wikidata.org/entity/Q1028,Morocco
+847,http://www.wikidata.org/entity/Q563067,Anna Regina,http://www.wikidata.org/entity/Q734,Guyana
+850,http://www.wikidata.org/entity/Q557383,Deir al-Balah,http://www.wikidata.org/entity/Q219060,State of Palestine
+851,http://www.wikidata.org/entity/Q1710703,"San José, Andrés Ibáñez",http://www.wikidata.org/entity/Q750,Bolivia
+852,http://www.wikidata.org/entity/Q257326,La Higuera,http://www.wikidata.org/entity/Q750,Bolivia
+857,http://www.wikidata.org/entity/Q571215,Suakin,http://www.wikidata.org/entity/Q1049,Sudan
+858,http://www.wikidata.org/entity/Q1740554,Khandbari,http://www.wikidata.org/entity/Q837,Nepal
+859,http://www.wikidata.org/entity/Q1865,Kuala Lumpur,http://www.wikidata.org/entity/Q833,Malaysia
+860,http://www.wikidata.org/entity/Q2928324,Bure,http://www.wikidata.org/entity/Q115,Ethiopia
+861,http://www.wikidata.org/entity/Q2928812,Butajira,http://www.wikidata.org/entity/Q115,Ethiopia
+863,http://www.wikidata.org/entity/Q1740566,Khaar,http://www.wikidata.org/entity/Q843,Pakistan
+864,http://www.wikidata.org/entity/Q1740709,Risalpur,http://www.wikidata.org/entity/Q843,Pakistan
+865,http://www.wikidata.org/entity/Q51103,Cali,http://www.wikidata.org/entity/Q739,Colombia
+866,http://www.wikidata.org/entity/Q256060,Munshiganj,http://www.wikidata.org/entity/Q902,Bangladesh
+867,http://www.wikidata.org/entity/Q261892,Kratié,http://www.wikidata.org/entity/Q424,Cambodia
+871,http://www.wikidata.org/entity/Q2924791,Brezina,http://www.wikidata.org/entity/Q262,Algeria
+872,http://www.wikidata.org/entity/Q1741227,Kilamba Kiaxi,http://www.wikidata.org/entity/Q916,Angola
+873,http://www.wikidata.org/entity/Q1861,Bangkok,http://www.wikidata.org/entity/Q869,Thailand
+875,http://www.wikidata.org/entity/Q568137,Alotau,http://www.wikidata.org/entity/Q691,Papua New Guinea
+876,http://www.wikidata.org/entity/Q557529,Muramvya,http://www.wikidata.org/entity/Q967,Burundi
+878,http://www.wikidata.org/entity/Q2922199,Boundji,http://www.wikidata.org/entity/Q971,Republic of the Congo
+880,http://www.wikidata.org/entity/Q1725562,Pailón,http://www.wikidata.org/entity/Q750,Bolivia
+881,http://www.wikidata.org/entity/Q1766619,Chulumani,http://www.wikidata.org/entity/Q750,Bolivia
+882,http://www.wikidata.org/entity/Q1740681,Khorixas,http://www.wikidata.org/entity/Q1030,Namibia
+883,http://www.wikidata.org/entity/Q1740795,Kibeho,http://www.wikidata.org/entity/Q1037,Rwanda
+884,http://www.wikidata.org/entity/Q2922170,Bouna,http://www.wikidata.org/entity/Q1008,Ivory Coast
+885,http://www.wikidata.org/entity/Q2922207,Boundiali,http://www.wikidata.org/entity/Q1008,Ivory Coast
+887,http://www.wikidata.org/entity/Q1850,Phnom Penh,http://www.wikidata.org/entity/Q424,Cambodia
+889,http://www.wikidata.org/entity/Q567350,Annotto Bay,http://www.wikidata.org/entity/Q766,Jamaica
+890,http://www.wikidata.org/entity/Q261076,Margilan,http://www.wikidata.org/entity/Q265,Uzbekistan
+893,http://www.wikidata.org/entity/Q1729098,Yuscarán,http://www.wikidata.org/entity/Q783,Honduras
+894,http://www.wikidata.org/entity/Q263808,Urgut,http://www.wikidata.org/entity/Q265,Uzbekistan
+895,http://www.wikidata.org/entity/Q2922201,Bounkiling,http://www.wikidata.org/entity/Q1041,Senegal
+898,http://www.wikidata.org/entity/Q1754752,San Ignacio,http://www.wikidata.org/entity/Q96,Mexico
+899,http://www.wikidata.org/entity/Q1765809,Gulariya,http://www.wikidata.org/entity/Q837,Nepal
+900,http://www.wikidata.org/entity/Q1766076,Tulsipur,http://www.wikidata.org/entity/Q837,Nepal
+901,http://www.wikidata.org/entity/Q255008,Mfuwe,http://www.wikidata.org/entity/Q953,Zambia
+913,http://www.wikidata.org/entity/Q251929,"Bunagana, Democratic Republic of the Congo",http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo
+915,http://www.wikidata.org/entity/Q51111,Pereira,http://www.wikidata.org/entity/Q739,Colombia
+916,http://www.wikidata.org/entity/Q947069,Le Lamentin,http://www.wikidata.org/entity/Q142,France
+918,http://www.wikidata.org/entity/Q1752951,Al Bayda',http://www.wikidata.org/entity/Q805,Yemen
+919,http://www.wikidata.org/entity/Q1757609,Rivas,http://www.wikidata.org/entity/Q811,Nicaragua
+922,http://www.wikidata.org/entity/Q804117,Bayankhongor,http://www.wikidata.org/entity/Q711,Mongolia
+923,http://www.wikidata.org/entity/Q1757279,Sibut,http://www.wikidata.org/entity/Q929,Central African Republic
+925,http://www.wikidata.org/entity/Q803986,Beit Lahia,http://www.wikidata.org/entity/Q219060,State of Palestine
+926,http://www.wikidata.org/entity/Q803990,Beit Sahour,http://www.wikidata.org/entity/Q219060,State of Palestine
+927,http://www.wikidata.org/entity/Q2947580,Chagni,http://www.wikidata.org/entity/Q115,Ethiopia
+928,http://www.wikidata.org/entity/Q572951,Mörön,http://www.wikidata.org/entity/Q711,Mongolia
+931,http://www.wikidata.org/entity/Q260911,Chiclayo,http://www.wikidata.org/entity/Q419,Peru
+937,http://www.wikidata.org/entity/Q261705,Laakirchen,http://www.wikidata.org/entity/Q40,Austria
+939,http://www.wikidata.org/entity/Q261243,Dmanisi,http://www.wikidata.org/entity/Q230,Georgia
+940,http://www.wikidata.org/entity/Q574469,Taza,http://www.wikidata.org/entity/Q1028,Morocco
+942,http://www.wikidata.org/entity/Q807311,Barbacena,http://www.wikidata.org/entity/Q155,Brazil
+945,http://www.wikidata.org/entity/Q261711,Frankenmuth,http://www.wikidata.org/entity/Q30,United States of America
+948,http://www.wikidata.org/entity/Q261887,Kikwit,http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo
+949,http://www.wikidata.org/entity/Q1739016,Kenscoff,http://www.wikidata.org/entity/Q790,Haiti
+950,http://www.wikidata.org/entity/Q617535,Apamea,http://www.wikidata.org/entity/Q796,Iraq
+951,http://www.wikidata.org/entity/Q2962698,Chepén,http://www.wikidata.org/entity/Q419,Peru
+952,http://www.wikidata.org/entity/Q2964558,Chota,http://www.wikidata.org/entity/Q419,Peru
+953,http://www.wikidata.org/entity/Q572380,Jizzakh,http://www.wikidata.org/entity/Q265,Uzbekistan
+955,http://www.wikidata.org/entity/Q617618,Apapa,http://www.wikidata.org/entity/Q1033,Nigeria
+956,http://www.wikidata.org/entity/Q572237,Kać,http://www.wikidata.org/entity/Q403,Serbia
+957,http://www.wikidata.org/entity/Q1736959,Katzrin,http://www.wikidata.org/entity/Q801,Israel
+958,http://www.wikidata.org/entity/Q949746,Cox's Bazar,http://www.wikidata.org/entity/Q902,Bangladesh
+959,http://www.wikidata.org/entity/Q1740472,Khagrachari,http://www.wikidata.org/entity/Q902,Bangladesh
+960,http://www.wikidata.org/entity/Q572380,Jizzakh,http://www.wikidata.org/entity/Q15180,Soviet Union
+966,http://www.wikidata.org/entity/Q2963374,Chichiriviche,http://www.wikidata.org/entity/Q717,Venezuela
+967,http://www.wikidata.org/entity/Q2975618,Clarines,http://www.wikidata.org/entity/Q717,Venezuela
+968,http://www.wikidata.org/entity/Q581179,Kamina,http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo
+969,http://www.wikidata.org/entity/Q950347,Or Yehuda,http://www.wikidata.org/entity/Q801,Israel
+973,http://www.wikidata.org/entity/Q617032,Kibuye,http://www.wikidata.org/entity/Q1037,Rwanda
+974,http://www.wikidata.org/entity/Q948050,Seeb,http://www.wikidata.org/entity/Q842,Oman
+981,http://www.wikidata.org/entity/Q580017,Matucana,http://www.wikidata.org/entity/Q419,Peru
+983,http://www.wikidata.org/entity/Q2977093,Turbat,http://www.wikidata.org/entity/Q843,Pakistan
+984,http://www.wikidata.org/entity/Q614072,Tlaxcala,http://www.wikidata.org/entity/Q96,Mexico
+988,http://www.wikidata.org/entity/Q580533,Gwadar,http://www.wikidata.org/entity/Q843,Pakistan
+989,http://www.wikidata.org/entity/Q1758024,Nawa,http://www.wikidata.org/entity/Q858,Syria
+990,http://www.wikidata.org/entity/Q1758215,Outapi,http://www.wikidata.org/entity/Q1030,Namibia
+991,http://www.wikidata.org/entity/Q1748922,Lahan,http://www.wikidata.org/entity/Q837,Nepal
+992,http://www.wikidata.org/entity/Q1751446,Bhadrapur,http://www.wikidata.org/entity/Q837,Nepal
+993,http://www.wikidata.org/entity/Q1759360,La Oroya,http://www.wikidata.org/entity/Q419,Peru
+994,http://www.wikidata.org/entity/Q1759366,Tarma,http://www.wikidata.org/entity/Q419,Peru
+995,http://www.wikidata.org/entity/Q1719466,Panevėžys,http://www.wikidata.org/entity/Q37,Lithuania
+996,http://www.wikidata.org/entity/Q2944819,Waku-Kungo,http://www.wikidata.org/entity/Q916,Angola
+997,http://www.wikidata.org/entity/Q617624,Râmnicu Sărat,http://www.wikidata.org/entity/Q218,Romania
+999,http://www.wikidata.org/entity/Q613791,Nakonde,http://www.wikidata.org/entity/Q953,Zambia
+1001,http://www.wikidata.org/entity/Q1764282,Balasagun,http://www.wikidata.org/entity/Q813,Kyrgyzstan
+1002,http://www.wikidata.org/entity/Q945484,Pasvalys,http://www.wikidata.org/entity/Q37,Lithuania
+1003,http://www.wikidata.org/entity/Q613913,Al Aaroui,http://www.wikidata.org/entity/Q1028,Morocco
+1004,http://www.wikidata.org/entity/Q808981,Colinas de Carrasco,http://www.wikidata.org/entity/Q77,Uruguay
+1005,http://www.wikidata.org/entity/Q952273,Marcos Martínez,http://www.wikidata.org/entity/Q77,Uruguay
+1006,http://www.wikidata.org/entity/Q1721432,Kailahun,http://www.wikidata.org/entity/Q1044,Sierra Leone
+1008,http://www.wikidata.org/entity/Q2981942,Cojedes,http://www.wikidata.org/entity/Q717,Venezuela
+1009,http://www.wikidata.org/entity/Q3049894,Guittena,http://www.wikidata.org/entity/Q262,Algeria
+1012,http://www.wikidata.org/entity/Q568212,Kos (city),http://www.wikidata.org/entity/Q41,Greece
+1013,http://www.wikidata.org/entity/Q2978509,Muridke,http://www.wikidata.org/entity/Q843,Pakistan
+1016,http://www.wikidata.org/entity/Q568905,Yarim,http://www.wikidata.org/entity/Q805,Yemen
+1022,http://www.wikidata.org/entity/Q1009161,Homa Bay,http://www.wikidata.org/entity/Q114,Kenya
+1023,http://www.wikidata.org/entity/Q1009179,Moyale,http://www.wikidata.org/entity/Q114,Kenya
+1024,http://www.wikidata.org/entity/Q3049763,El Callao,http://www.wikidata.org/entity/Q717,Venezuela
+1025,http://www.wikidata.org/entity/Q3049816,El Consejo,http://www.wikidata.org/entity/Q717,Venezuela
+1026,http://www.wikidata.org/entity/Q2977263,Mweka,http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo
+1027,http://www.wikidata.org/entity/Q2981190,Meckhe,http://www.wikidata.org/entity/Q1041,Senegal
+1028,http://www.wikidata.org/entity/Q615006,Ho,http://www.wikidata.org/entity/Q117,Ghana
+1029,http://www.wikidata.org/entity/Q3049730,El Aioun Sidi Mellouk,http://www.wikidata.org/entity/Q1028,Morocco
+1030,http://www.wikidata.org/entity/Q951906,Khojaly,http://www.wikidata.org/entity/Q227,Azerbaijan
+1031,http://www.wikidata.org/entity/Q1009179,Moyale,http://www.wikidata.org/entity/Q115,Ethiopia
+1032,http://www.wikidata.org/entity/Q946959,Liquiçá,http://www.wikidata.org/entity/Q574,East Timor
+1034,http://www.wikidata.org/entity/Q946143,Sighnaghi,http://www.wikidata.org/entity/Q230,Georgia
+1035,http://www.wikidata.org/entity/Q3049021,Gujar Khan,http://www.wikidata.org/entity/Q843,Pakistan
+1036,http://www.wikidata.org/entity/Q805515,Balkhash,http://www.wikidata.org/entity/Q232,Kazakhstan
+1037,http://www.wikidata.org/entity/Q574555,Sayram,http://www.wikidata.org/entity/Q232,Kazakhstan
+1041,http://www.wikidata.org/entity/Q575774,Al-Safira,http://www.wikidata.org/entity/Q858,Syria
+1042,http://www.wikidata.org/entity/Q576368,Quneitra,http://www.wikidata.org/entity/Q858,Syria
+1044,http://www.wikidata.org/entity/Q263877,Huskvarna,http://www.wikidata.org/entity/Q34,Sweden
+1045,http://www.wikidata.org/entity/Q805876,Balykchy,http://www.wikidata.org/entity/Q813,Kyrgyzstan
+1046,http://www.wikidata.org/entity/Q624740,Araden,http://www.wikidata.org/entity/Q796,Iraq
+1050,http://www.wikidata.org/entity/Q805946,Bambari,http://www.wikidata.org/entity/Q929,Central African Republic
+1051,http://www.wikidata.org/entity/Q263922,Baniyas,http://www.wikidata.org/entity/Q858,Syria
+1056,http://www.wikidata.org/entity/Q803984,Beit Yala,http://www.wikidata.org/entity/Q219060,State of Palestine
+1060,http://www.wikidata.org/entity/Q1007647,Naivasha,http://www.wikidata.org/entity/Q114,Kenya
+1061,http://www.wikidata.org/entity/Q809657,Baruun-Urt,http://www.wikidata.org/entity/Q711,Mongolia
+1064,http://www.wikidata.org/entity/Q809428,Bartica,http://www.wikidata.org/entity/Q734,Guyana
+1066,http://www.wikidata.org/entity/Q579291,Bayt al-Faqih,http://www.wikidata.org/entity/Q805,Yemen
+1069,http://www.wikidata.org/entity/Q1007634,Estelí,http://www.wikidata.org/entity/Q811,Nicaragua
+1071,http://www.wikidata.org/entity/Q955771,Pestszentimre,http://www.wikidata.org/entity/Q28,Hungary
+1072,http://www.wikidata.org/entity/Q1770704,Hajjah,http://www.wikidata.org/entity/Q805,Yemen
+1073,http://www.wikidata.org/entity/Q621181,Varniai,http://www.wikidata.org/entity/Q37,Lithuania
+1075,http://www.wikidata.org/entity/Q1770214,Piedra Blanca,http://www.wikidata.org/entity/Q786,Dominican Republic
+1078,http://www.wikidata.org/entity/Q569904,Ouahigouya,http://www.wikidata.org/entity/Q965,Burkina Faso
+1080,http://www.wikidata.org/entity/Q956745,Caxito,http://www.wikidata.org/entity/Q916,Angola
+1081,http://www.wikidata.org/entity/Q955523,Dhamar,http://www.wikidata.org/entity/Q805,Yemen
+1082,http://www.wikidata.org/entity/Q2915071,Bukama,http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo
+1083,http://www.wikidata.org/entity/Q806478,Bangassou,http://www.wikidata.org/entity/Q929,Central African Republic
+1084,http://www.wikidata.org/entity/Q811130,Baucau,http://www.wikidata.org/entity/Q574,East Timor
+1085,http://www.wikidata.org/entity/Q806082,Banana,http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo
+1086,http://www.wikidata.org/entity/Q2991521,Cárdenas Municipality,http://www.wikidata.org/entity/Q96,Mexico
+1087,http://www.wikidata.org/entity/Q808100,"Barentu, Eritrea",http://www.wikidata.org/entity/Q986,Eritrea
+1089,http://www.wikidata.org/entity/Q811144,Bauchi,http://www.wikidata.org/entity/Q1033,Nigeria
+1090,http://www.wikidata.org/entity/Q2920063,Emfraz,http://www.wikidata.org/entity/Q115,Ethiopia
+1091,http://www.wikidata.org/entity/Q809787,Basarabeasca,http://www.wikidata.org/entity/Q217,Moldova
+1092,http://www.wikidata.org/entity/Q572152,Bissorã,http://www.wikidata.org/entity/Q1007,Guinea-Bissau
+1093,http://www.wikidata.org/entity/Q578396,Kriva Palanka,http://www.wikidata.org/entity/Q221,North Macedonia
+1094,http://www.wikidata.org/entity/Q2996307,Khudat,http://www.wikidata.org/entity/Q227,Azerbaijan
+1096,http://www.wikidata.org/entity/Q804607,Balaka Township,http://www.wikidata.org/entity/Q1020,Malawi
+1100,http://www.wikidata.org/entity/Q2915767,Al-Kiswah,http://www.wikidata.org/entity/Q858,Syria
+1101,http://www.wikidata.org/entity/Q946097,Ikere-Ekiti,http://www.wikidata.org/entity/Q1033,Nigeria
+1102,http://www.wikidata.org/entity/Q574593,Warri,http://www.wikidata.org/entity/Q1033,Nigeria
+1103,http://www.wikidata.org/entity/Q583619,Owerri,http://www.wikidata.org/entity/Q1033,Nigeria
+1104,http://www.wikidata.org/entity/Q2989619,Urcos,http://www.wikidata.org/entity/Q419,Peru
+1109,http://www.wikidata.org/entity/Q816845,Irapuato,http://www.wikidata.org/entity/Q96,Mexico
+1110,http://www.wikidata.org/entity/Q956922,Lanchkhuti,http://www.wikidata.org/entity/Q230,Georgia
+1111,http://www.wikidata.org/entity/Q956932,Sagarejo,http://www.wikidata.org/entity/Q230,Georgia
+1112,http://www.wikidata.org/entity/Q2918596,Bani Na'im,http://www.wikidata.org/entity/Q219060,State of Palestine
+1113,http://www.wikidata.org/entity/Q2919205,Idhna,http://www.wikidata.org/entity/Q219060,State of Palestine
+1115,http://www.wikidata.org/entity/Q816364,Bembla,http://www.wikidata.org/entity/Q948,Tunisia
+1116,http://www.wikidata.org/entity/Q804289,Bakel,http://www.wikidata.org/entity/Q1041,Senegal
+1117,http://www.wikidata.org/entity/Q614754,Bir Lehlou,http://www.wikidata.org/entity/Q6250,Western Sahara
+1119,http://www.wikidata.org/entity/Q817279,Beni Mellal,http://www.wikidata.org/entity/Q1028,Morocco
+1121,http://www.wikidata.org/entity/Q2916708,Cordero,http://www.wikidata.org/entity/Q2500365,Urbina
+1124,http://www.wikidata.org/entity/Q946384,Ibarra,http://www.wikidata.org/entity/Q736,Ecuador
+1126,http://www.wikidata.org/entity/Q817269,Beni,http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo
+1127,http://www.wikidata.org/entity/Q946150,Libertad,http://www.wikidata.org/entity/Q77,Uruguay
+1128,http://www.wikidata.org/entity/Q948343,"Naolinco, Veracruz",http://www.wikidata.org/entity/Q96,Mexico
+1133,http://www.wikidata.org/entity/Q821321,Karma,http://www.wikidata.org/entity/Q1049,Sudan
+1134,http://www.wikidata.org/entity/Q1009199,Kilifi,http://www.wikidata.org/entity/Q114,Kenya
+1141,http://www.wikidata.org/entity/Q948448,Burao,http://www.wikidata.org/entity/Q34754,Somaliland
+1146,http://www.wikidata.org/entity/Q622841,Ghardaia,http://www.wikidata.org/entity/Q262,Algeria
+1148,http://www.wikidata.org/entity/Q2986304,Pinosava,http://www.wikidata.org/entity/Q403,Serbia
+1151,http://www.wikidata.org/entity/Q819314,Limbe,http://www.wikidata.org/entity/Q1009,Cameroon
+1154,http://www.wikidata.org/entity/Q810710,Batallas,http://www.wikidata.org/entity/Q750,Bolivia
+1155,http://www.wikidata.org/entity/Q957530,Molėtai,http://www.wikidata.org/entity/Q37,Lithuania
+1156,http://www.wikidata.org/entity/Q819123,Kolmanskop,http://www.wikidata.org/entity/Q1030,Namibia
+1157,http://www.wikidata.org/entity/Q954300,Santa Rosa de Copán,http://www.wikidata.org/entity/Q783,Honduras
+1159,http://www.wikidata.org/entity/Q619594,Al-Ubulla,http://www.wikidata.org/entity/Q796,Iraq
+1161,http://www.wikidata.org/entity/Q621001,Malanje,http://www.wikidata.org/entity/Q916,Angola
+1164,http://www.wikidata.org/entity/Q952748,Comana,http://www.wikidata.org/entity/Q43,Turkey
+1165,http://www.wikidata.org/entity/Q818019,Settat,http://www.wikidata.org/entity/Q1028,Morocco
+1166,http://www.wikidata.org/entity/Q1007719,Kisii,http://www.wikidata.org/entity/Q114,Kenya
+1167,http://www.wikidata.org/entity/Q810474,Bassar,http://www.wikidata.org/entity/Q945,Togo
+1168,http://www.wikidata.org/entity/Q952665,Séguéla,http://www.wikidata.org/entity/Q1008,Ivory Coast
+1169,http://www.wikidata.org/entity/Q200036,Volos,http://www.wikidata.org/entity/Q41,Greece
+1170,http://www.wikidata.org/entity/Q3041503,Durame,http://www.wikidata.org/entity/Q115,Ethiopia
+1171,http://www.wikidata.org/entity/Q626861,Arba Minch,http://www.wikidata.org/entity/Q115,Ethiopia
+1172,http://www.wikidata.org/entity/Q621925,Tenkodogo,http://www.wikidata.org/entity/Q965,Burkina Faso
+1177,http://www.wikidata.org/entity/Q622780,Aksu,http://www.wikidata.org/entity/Q232,Kazakhstan
+1179,http://www.wikidata.org/entity/Q620625,Dikhil,http://www.wikidata.org/entity/Q977,Djibouti
+1180,http://www.wikidata.org/entity/Q583184,Antsirabe,http://www.wikidata.org/entity/Q1019,Madagascar
+1183,http://www.wikidata.org/entity/Q200078,Okayama,http://www.wikidata.org/entity/Q17,Japan
+1189,http://www.wikidata.org/entity/Q815370,Beledweyne,http://www.wikidata.org/entity/Q1045,Somalia
+1193,http://www.wikidata.org/entity/Q3058634,Esquipulas,http://www.wikidata.org/entity/Q774,Guatemala
+1201,http://www.wikidata.org/entity/Q200133,Chalkida,http://www.wikidata.org/entity/Q41,Greece
+1202,http://www.wikidata.org/entity/Q812717,Baños,http://www.wikidata.org/entity/Q736,Ecuador
+1204,http://www.wikidata.org/entity/Q956911,Otrar,http://www.wikidata.org/entity/Q232,Kazakhstan
+1205,http://www.wikidata.org/entity/Q811831,Baures,http://www.wikidata.org/entity/Q750,Bolivia
+1206,http://www.wikidata.org/entity/Q1010960,Gardabani,http://www.wikidata.org/entity/Q230,Georgia
+1209,http://www.wikidata.org/entity/Q200028,Hamilton,http://www.wikidata.org/entity/Q664,New Zealand
+1210,http://www.wikidata.org/entity/Q812706,Baía Farta,http://www.wikidata.org/entity/Q916,Angola
+1218,http://www.wikidata.org/entity/Q581379,Gulu,http://www.wikidata.org/entity/Q1036,Uganda
+1219,http://www.wikidata.org/entity/Q3008539,Octodurus,http://www.wikidata.org/entity/Q39,Switzerland
+1220,http://www.wikidata.org/entity/Q822808,Dalanzadgad,http://www.wikidata.org/entity/Q711,Mongolia
+1222,http://www.wikidata.org/entity/Q950532,Tyrnavos,http://www.wikidata.org/entity/Q41,Greece
+1228,http://www.wikidata.org/entity/Q815782,Bella Unión,http://www.wikidata.org/entity/Q77,Uruguay
+1229,http://www.wikidata.org/entity/Q822815,Ulaangom,http://www.wikidata.org/entity/Q711,Mongolia
+1230,http://www.wikidata.org/entity/Q1009864,Christiana,http://www.wikidata.org/entity/Q766,Jamaica
+1231,http://www.wikidata.org/entity/Q1008008,Hayes,http://www.wikidata.org/entity/Q766,Jamaica
+1232,http://www.wikidata.org/entity/Q637555,Montego Bay,http://www.wikidata.org/entity/Q766,Jamaica
+1234,http://www.wikidata.org/entity/Q615470,Las Piedras,http://www.wikidata.org/entity/Q77,Uruguay
+1239,http://www.wikidata.org/entity/Q623504,Rusayl,http://www.wikidata.org/entity/Q842,Oman
+1241,http://www.wikidata.org/entity/Q1010954,Somoto,http://www.wikidata.org/entity/Q811,Nicaragua
+1242,http://www.wikidata.org/entity/Q958586,Santa Cruz de Barahona,http://www.wikidata.org/entity/Q786,Dominican Republic
+1244,http://www.wikidata.org/entity/Q815777,Bella Vista,http://www.wikidata.org/entity/Q750,Bolivia
+1245,http://www.wikidata.org/entity/Q966990,Phongsali,http://www.wikidata.org/entity/Q819,Laos
+1246,http://www.wikidata.org/entity/Q1008456,Puerto Cabezas,http://www.wikidata.org/entity/Q811,Nicaragua
+1248,http://www.wikidata.org/entity/Q3022456,Dengel Ber,http://www.wikidata.org/entity/Q115,Ethiopia
+1250,http://www.wikidata.org/entity/Q958621,Chaghcharan,http://www.wikidata.org/entity/Q889,Afghanistan
+1252,http://www.wikidata.org/entity/Q1009549,Gabela,http://www.wikidata.org/entity/Q916,Angola
+1253,http://www.wikidata.org/entity/Q824043,Toliara,http://www.wikidata.org/entity/Q1019,Madagascar
+1254,http://www.wikidata.org/entity/Q584001,Redcliff,http://www.wikidata.org/entity/Q954,Zimbabwe
+1255,http://www.wikidata.org/entity/Q623298,Pujehun,http://www.wikidata.org/entity/Q1044,Sierra Leone
+1258,http://www.wikidata.org/entity/Q822679,Garowe,http://www.wikidata.org/entity/Q1045,Somalia
+1259,http://www.wikidata.org/entity/Q824594,Nador,http://www.wikidata.org/entity/Q1028,Morocco
+1261,http://www.wikidata.org/entity/Q806929,Banpo,http://www.wikidata.org/entity/Q148,People's Republic of China
+1262,http://www.wikidata.org/entity/Q624467,Hanseongbu,http://www.wikidata.org/entity/Q28179,Joseon
+1263,http://www.wikidata.org/entity/Q624467,Hanseongbu,http://www.wikidata.org/entity/Q28233,Korean Empire
+1264,http://www.wikidata.org/entity/Q822679,Garowe,http://www.wikidata.org/entity/Q485112,Puntland
+1265,http://www.wikidata.org/entity/Q622780,Aksu,http://www.wikidata.org/entity/Q15180,Soviet Union
+1266,http://www.wikidata.org/entity/Q635045,Ondjiva,http://www.wikidata.org/entity/Q916,Angola
+1267,http://www.wikidata.org/entity/Q616877,Louny,http://www.wikidata.org/entity/Q213,Czech Republic
+1268,http://www.wikidata.org/entity/Q638539,Ardanuç,http://www.wikidata.org/entity/Q34266,Russian Empire
+1270,http://www.wikidata.org/entity/Q814922,Beitbridge,http://www.wikidata.org/entity/Q954,Zimbabwe
+1271,http://www.wikidata.org/entity/Q633929,Nacaome,http://www.wikidata.org/entity/Q783,Honduras
+1272,http://www.wikidata.org/entity/Q622780,Aksu,http://www.wikidata.org/entity/Q34266,Russian Empire
+1273,http://www.wikidata.org/entity/Q950991,Qasigiannguit,http://www.wikidata.org/entity/Q223,Greenland
+1274,http://www.wikidata.org/entity/Q636209,Mufulira,http://www.wikidata.org/entity/Q953,Zambia
+1278,http://www.wikidata.org/entity/Q632361,Sidi Ifni,http://www.wikidata.org/entity/Q1028,Morocco
+1279,http://www.wikidata.org/entity/Q3027308,Marevo,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+1280,http://www.wikidata.org/entity/Q584605,Nuzi,http://www.wikidata.org/entity/Q796,Iraq
+1282,http://www.wikidata.org/entity/Q2996387,Saray-Jük,http://www.wikidata.org/entity/Q232,Kazakhstan
+1283,http://www.wikidata.org/entity/Q639674,Banfora,http://www.wikidata.org/entity/Q965,Burkina Faso
+1284,http://www.wikidata.org/entity/Q634698,Kenema,http://www.wikidata.org/entity/Q1044,Sierra Leone
+1287,http://www.wikidata.org/entity/Q3011860,Daga Post,http://www.wikidata.org/entity/Q958,South Sudan
+1291,http://www.wikidata.org/entity/Q634063,Dusmareb,http://www.wikidata.org/entity/Q1045,Somalia
+1292,http://www.wikidata.org/entity/Q200733,Nikšić,http://www.wikidata.org/entity/Q236,Montenegro
+1294,http://www.wikidata.org/entity/Q3022078,Dembéni,http://www.wikidata.org/entity/Q970,Comoros
+1297,http://www.wikidata.org/entity/Q3011589,Dabo,http://www.wikidata.org/entity/Q1041,Senegal
+1298,http://www.wikidata.org/entity/Q3012013,Dahra,http://www.wikidata.org/entity/Q1041,Senegal
+1299,http://www.wikidata.org/entity/Q956954,Kaspi,http://www.wikidata.org/entity/Q230,Georgia
+1300,http://www.wikidata.org/entity/Q956966,Lagodekhi,http://www.wikidata.org/entity/Q230,Georgia
+1301,http://www.wikidata.org/entity/Q820972,Tadjoura,http://www.wikidata.org/entity/Q977,Djibouti
+1302,http://www.wikidata.org/entity/Q3010697,Hibiscus Coast,http://www.wikidata.org/entity/Q664,New Zealand
+1307,http://www.wikidata.org/entity/Q969396,San Francisco Gotera,http://www.wikidata.org/entity/Q792,El Salvador
+1308,http://www.wikidata.org/entity/Q818690,Berastagi,http://www.wikidata.org/entity/Q252,Indonesia
+1313,http://www.wikidata.org/entity/Q957326,Magway,http://www.wikidata.org/entity/Q836,Myanmar
+1314,http://www.wikidata.org/entity/Q969880,Mwene-Ditu,http://www.wikidata.org/entity/Q974,Democratic Republic of the Congo
+1315,http://www.wikidata.org/entity/Q818765,Shinyanga,http://www.wikidata.org/entity/Q924,Tanzania
+1316,http://www.wikidata.org/entity/Q969144,"Nakfa, Eritrea",http://www.wikidata.org/entity/Q986,Eritrea
+1317,http://www.wikidata.org/entity/Q200061,Prizren,http://www.wikidata.org/entity/Q1246,Kosovo
+1318,http://www.wikidata.org/entity/Q818824,Maroua,http://www.wikidata.org/entity/Q1009,Cameroon
+1322,http://www.wikidata.org/entity/Q200030,Latakia,http://www.wikidata.org/entity/Q858,Syria
+1325,http://www.wikidata.org/entity/Q615791,Villa Florida,http://www.wikidata.org/entity/Q733,Paraguay
+1328,http://www.wikidata.org/entity/Q615633,Guastatoya,http://www.wikidata.org/entity/Q774,Guatemala
+1329,http://www.wikidata.org/entity/Q962774,Naranjito,http://www.wikidata.org/entity/Q736,Ecuador
+1331,http://www.wikidata.org/entity/Q835000,Tutin,http://www.wikidata.org/entity/Q403,Serbia
+1332,http://www.wikidata.org/entity/Q829886,Lindi,http://www.wikidata.org/entity/Q924,Tanzania
+1334,http://www.wikidata.org/entity/Q1011873,Manatuto,http://www.wikidata.org/entity/Q574,East Timor
+1335,http://www.wikidata.org/entity/Q1012924,Ceadîr-Lunga,http://www.wikidata.org/entity/Q217,Moldova
+1338,http://www.wikidata.org/entity/Q583445,Léogâne,http://www.wikidata.org/entity/Q790,Haiti
+1339,http://www.wikidata.org/entity/Q951602,Port-de-Paix,http://www.wikidata.org/entity/Q790,Haiti
+1340,http://www.wikidata.org/entity/Q1011863,Viqueque,http://www.wikidata.org/entity/Q574,East Timor
+1342,http://www.wikidata.org/entity/Q965360,Mbacké,http://www.wikidata.org/entity/Q1041,Senegal
+1343,http://www.wikidata.org/entity/Q1011669,Kélo,http://www.wikidata.org/entity/Q657,Chad
+1346,http://www.wikidata.org/entity/Q1010278,Torit,http://www.wikidata.org/entity/Q958,South Sudan
+1347,http://www.wikidata.org/entity/Q1010287,Kuajok,http://www.wikidata.org/entity/Q958,South Sudan
+1348,http://www.wikidata.org/entity/Q639467,Tsumeb,http://www.wikidata.org/entity/Q1030,Namibia
+1350,http://www.wikidata.org/entity/Q2997217,"Buston, Ghafurov",http://www.wikidata.org/entity/Q863,Tajikistan
+1352,http://www.wikidata.org/entity/Q1009336,Debundscha,http://www.wikidata.org/entity/Q1009,Cameroon
+1353,http://www.wikidata.org/entity/Q2996356,Hazar,http://www.wikidata.org/entity/Q874,Turkmenistan
+1357,http://www.wikidata.org/entity/Q2944558,Tômbwa,http://www.wikidata.org/entity/Q916,Angola
+1361,http://www.wikidata.org/entity/Q976223,Kampong Thom,http://www.wikidata.org/entity/Q424,Cambodia
+1362,http://www.wikidata.org/entity/Q3036277,Dongou,http://www.wikidata.org/entity/Q971,Republic of the Congo
+1366,http://www.wikidata.org/entity/Q616404,Quinhámel,http://www.wikidata.org/entity/Q1007,Guinea-Bissau
+1367,http://www.wikidata.org/entity/Q1010816,Jibla,http://www.wikidata.org/entity/Q805,Yemen
+1368,http://www.wikidata.org/entity/Q3026296,Dianra,http://www.wikidata.org/entity/Q1008,Ivory Coast
+1370,http://www.wikidata.org/entity/Q1890257,Mangochi,http://www.wikidata.org/entity/Q1020,Malawi
+1371,http://www.wikidata.org/entity/Q2929807,Bélabo,http://www.wikidata.org/entity/Q1009,Cameroon
+1372,http://www.wikidata.org/entity/Q3033077,Djoum,http://www.wikidata.org/entity/Q1009,Cameroon
+1373,http://www.wikidata.org/entity/Q975960,Zarcero,http://www.wikidata.org/entity/Q800,Costa Rica
+1374,http://www.wikidata.org/entity/Q1010806,Bidor,http://www.wikidata.org/entity/Q833,Malaysia
+1378,http://www.wikidata.org/entity/Q641130,"Triolet, Mauritius",http://www.wikidata.org/entity/Q1027,Mauritius
+1379,http://www.wikidata.org/entity/Q806552,Bangula,http://www.wikidata.org/entity/Q1020,Malawi
+1382,http://www.wikidata.org/entity/Q3026080,Diamniadio,http://www.wikidata.org/entity/Q1041,Senegal
+1383,http://www.wikidata.org/entity/Q3026301,Diaobé-Kabendou,http://www.wikidata.org/entity/Q1041,Senegal
+1384,http://www.wikidata.org/entity/Q640493,Kępno,http://www.wikidata.org/entity/Q1206012,German Reich
+1387,http://www.wikidata.org/entity/Q1895616,Tuaran,http://www.wikidata.org/entity/Q833,Malaysia
+1389,http://www.wikidata.org/entity/Q973781,Melissa,http://www.wikidata.org/entity/Q30,United States of America
+1390,http://www.wikidata.org/entity/Q973908,Murphy,http://www.wikidata.org/entity/Q30,United States of America
+1392,http://www.wikidata.org/entity/Q627885,Ouésso,http://www.wikidata.org/entity/Q971,Republic of the Congo
+1397,http://www.wikidata.org/entity/Q1892829,Beda Fomm,http://www.wikidata.org/entity/Q1016,Libya
+1398,http://www.wikidata.org/entity/Q618060,Bafilo,http://www.wikidata.org/entity/Q945,Togo
+1402,http://www.wikidata.org/entity/Q817118,Höfn,http://www.wikidata.org/entity/Q189,Iceland
+1404,http://www.wikidata.org/entity/Q618643,Luena,http://www.wikidata.org/entity/Q916,Angola
+1405,http://www.wikidata.org/entity/Q972113,Falsterbo,http://www.wikidata.org/entity/Q34,Sweden
+1408,http://www.wikidata.org/entity/Q1896161,Omaruru,http://www.wikidata.org/entity/Q1030,Namibia
+1409,http://www.wikidata.org/entity/Q1892445,Zama Regia,http://www.wikidata.org/entity/Q2429397,Ancient Carthage
+1410,http://www.wikidata.org/entity/Q200908,Rethymno,http://www.wikidata.org/entity/Q41,Greece
+1413,http://www.wikidata.org/entity/Q215080,Machala,http://www.wikidata.org/entity/Q736,Ecuador
+1414,http://www.wikidata.org/entity/Q1014285,Alexandreia,http://www.wikidata.org/entity/Q41,Greece
+1416,http://www.wikidata.org/entity/Q1014367,Călărași,http://www.wikidata.org/entity/Q217,Moldova
+1417,http://www.wikidata.org/entity/Q1014235,Portsmouth,http://www.wikidata.org/entity/Q784,Dominica
+1419,http://www.wikidata.org/entity/Q1014231,Palaio Faliro,http://www.wikidata.org/entity/Q41,Greece
+1425,http://www.wikidata.org/entity/Q995163,Tawau,http://www.wikidata.org/entity/Q833,Malaysia
+1426,http://www.wikidata.org/entity/Q994514,Rangpur,http://www.wikidata.org/entity/Q902,Bangladesh
+1427,http://www.wikidata.org/entity/Q1014248,Sonsonate,http://www.wikidata.org/entity/Q792,El Salvador
+1430,http://www.wikidata.org/entity/Q827047,Berovo,http://www.wikidata.org/entity/Q221,North Macedonia
+1433,http://www.wikidata.org/entity/Q1014468,Caranavi,http://www.wikidata.org/entity/Q750,Bolivia
+1434,http://www.wikidata.org/entity/Q826112,Punakha,http://www.wikidata.org/entity/Q917,Bhutan
+1435,http://www.wikidata.org/entity/Q1014493,Monte Cristi,http://www.wikidata.org/entity/Q736,Ecuador
+1446,http://www.wikidata.org/entity/Q638704,Béchar,http://www.wikidata.org/entity/Q262,Algeria
+1454,http://www.wikidata.org/entity/Q1013526,Puerto Ayora,http://www.wikidata.org/entity/Q736,Ecuador
+1458,http://www.wikidata.org/entity/Q1013946,Ruacana,http://www.wikidata.org/entity/Q1030,Namibia
+1459,http://www.wikidata.org/entity/Q1013965,Otavi,http://www.wikidata.org/entity/Q1030,Namibia
+1462,http://www.wikidata.org/entity/Q974239,Negril,http://www.wikidata.org/entity/Q766,Jamaica
+1465,http://www.wikidata.org/entity/Q1014375,Kholm,http://www.wikidata.org/entity/Q889,Afghanistan
+1470,http://www.wikidata.org/entity/Q630692,Saint Ann's Bay,http://www.wikidata.org/entity/Q766,Jamaica
+1474,http://www.wikidata.org/entity/Q1014390,Vélingara,http://www.wikidata.org/entity/Q1041,Senegal
+1475,http://www.wikidata.org/entity/Q974354,Chinandega,http://www.wikidata.org/entity/Q811,Nicaragua
+1476,http://www.wikidata.org/entity/Q1012868,Vulcănești,http://www.wikidata.org/entity/Q217,Moldova
+1477,http://www.wikidata.org/entity/Q638509,Chimoio,http://www.wikidata.org/entity/Q1029,Mozambique
+1480,http://www.wikidata.org/entity/Q214681,Panaji,http://www.wikidata.org/entity/Q323904,Portuguese India
+1482,http://www.wikidata.org/entity/Q1014010,Tarim,http://www.wikidata.org/entity/Q805,Yemen
+1483,http://www.wikidata.org/entity/Q1915327,Nizwa,http://www.wikidata.org/entity/Q842,Oman
+1488,http://www.wikidata.org/entity/Q1913957,Koani,http://www.wikidata.org/entity/Q924,Tanzania
+1489,http://www.wikidata.org/entity/Q643112,Tabora,http://www.wikidata.org/entity/Q924,Tanzania
+1490,http://www.wikidata.org/entity/Q1897952,Kushtia,http://www.wikidata.org/entity/Q902,Bangladesh
+1492,http://www.wikidata.org/entity/Q834189,Komki-Ipala,http://www.wikidata.org/entity/Q965,Burkina Faso
+1493,http://www.wikidata.org/entity/Q216307,Pyrgos,http://www.wikidata.org/entity/Q41,Greece
+1497,http://www.wikidata.org/entity/Q1011882,Gaoua,http://www.wikidata.org/entity/Q965,Burkina Faso
+1500,http://www.wikidata.org/entity/Q994245,Podujevo,http://www.wikidata.org/entity/Q1246,Kosovo
+1502,http://www.wikidata.org/entity/Q1011890,Kolda,http://www.wikidata.org/entity/Q1041,Senegal
+1503,http://www.wikidata.org/entity/Q994217,Sjenica,http://www.wikidata.org/entity/Q403,Serbia
+1504,http://www.wikidata.org/entity/Q1011972,Chibuto,http://www.wikidata.org/entity/Q1029,Mozambique
+1505,http://www.wikidata.org/entity/Q630805,Panjakent,http://www.wikidata.org/entity/Q863,Tajikistan
+1510,http://www.wikidata.org/entity/Q965924,Al-Madinat al-Zahira,http://www.wikidata.org/entity/Q171740,Caliphate of Córdoba
+1517,http://www.wikidata.org/entity/Q216363,Rîbnița,http://www.wikidata.org/entity/Q34266,Russian Empire
+1519,http://www.wikidata.org/entity/Q216363,Rîbnița,http://www.wikidata.org/entity/Q12560,Ottoman Empire
+1520,http://www.wikidata.org/entity/Q216363,Rîbnița,http://www.wikidata.org/entity/Q217,Moldova
+1522,http://www.wikidata.org/entity/Q216363,Rîbnița,http://www.wikidata.org/entity/Q15180,Soviet Union
+1524,http://www.wikidata.org/entity/Q994085,Lokoja,http://www.wikidata.org/entity/Q1033,Nigeria
+1525,http://www.wikidata.org/entity/Q1899332,Qabatiya,http://www.wikidata.org/entity/Q407199,Palestinian territories
+1528,http://www.wikidata.org/entity/Q830631,Gisenyi,http://www.wikidata.org/entity/Q1037,Rwanda
+1530,http://www.wikidata.org/entity/Q216363,Rîbnița,http://www.wikidata.org/entity/Q203493,Kingdom of Romania
+1531,http://www.wikidata.org/entity/Q216363,Rîbnița,http://www.wikidata.org/entity/Q907112,Transnistria
+1534,http://www.wikidata.org/entity/Q216363,Rîbnița,http://www.wikidata.org/entity/Q243610,Ukrainian People's Republic
+1535,http://www.wikidata.org/entity/Q215826,Grevenmacher,http://www.wikidata.org/entity/Q32,Luxembourg
+1536,http://www.wikidata.org/entity/Q1907375,Massaguet,http://www.wikidata.org/entity/Q657,Chad
+1542,http://www.wikidata.org/entity/Q216363,Rîbnița,http://www.wikidata.org/entity/Q133356,Ukrainian Soviet Socialist Republic
+1546,http://www.wikidata.org/entity/Q216363,Rîbnița,http://www.wikidata.org/entity/Q172107,Polish–Lithuanian Commonwealth
+1547,http://www.wikidata.org/entity/Q216363,Rîbnița,http://www.wikidata.org/entity/Q1508143,Ukrainian State
+1548,http://www.wikidata.org/entity/Q216363,Rîbnița,http://www.wikidata.org/entity/Q2305208,Russian Socialist Federative Soviet Republic
+1551,http://www.wikidata.org/entity/Q216363,Rîbnița,http://www.wikidata.org/entity/Q139319,Russian Republic
+1552,http://www.wikidata.org/entity/Q1014554,Macas,http://www.wikidata.org/entity/Q736,Ecuador
+1553,http://www.wikidata.org/entity/Q1014564,Puerto Francisco de Orellana,http://www.wikidata.org/entity/Q736,Ecuador
+1559,http://www.wikidata.org/entity/Q642787,Atafu,http://www.wikidata.org/entity/Q36823,Tokelau
+1563,http://www.wikidata.org/entity/Q201051,Rishon LeZion,http://www.wikidata.org/entity/Q801,Israel
+1564,http://www.wikidata.org/entity/Q994255,Orašje,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+1565,http://www.wikidata.org/entity/Q994203,Cazin,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+1574,http://www.wikidata.org/entity/Q201613,Maebashi,http://www.wikidata.org/entity/Q17,Japan
+1585,http://www.wikidata.org/entity/Q1014430,Daule,http://www.wikidata.org/entity/Q736,Ecuador
+1593,http://www.wikidata.org/entity/Q642109,Khyrdalan,http://www.wikidata.org/entity/Q227,Azerbaijan
+1594,http://www.wikidata.org/entity/Q642164,Beylagan,http://www.wikidata.org/entity/Q227,Azerbaijan
+1597,http://www.wikidata.org/entity/Q202453,Novi Pazar,http://www.wikidata.org/entity/Q403,Serbia
+1610,http://www.wikidata.org/entity/Q1901003,Dondușeni,http://www.wikidata.org/entity/Q217,Moldova
+1611,http://www.wikidata.org/entity/Q995707,Lodwar,http://www.wikidata.org/entity/Q114,Kenya
+1612,http://www.wikidata.org/entity/Q995249,Tukuyu,http://www.wikidata.org/entity/Q924,Tanzania
+1619,http://www.wikidata.org/entity/Q1013454,Julfa,http://www.wikidata.org/entity/Q227,Azerbaijan
+1620,http://www.wikidata.org/entity/Q217040,Tamale,http://www.wikidata.org/entity/Q117,Ghana
+1622,http://www.wikidata.org/entity/Q995172,Idenau,http://www.wikidata.org/entity/Q1009,Cameroon
+1627,http://www.wikidata.org/entity/Q995413,Kpalimé,http://www.wikidata.org/entity/Q945,Togo
+1630,http://www.wikidata.org/entity/Q863795,Bingerville,http://www.wikidata.org/entity/Q1008,Ivory Coast
+1631,http://www.wikidata.org/entity/Q201442,Kruševac,http://www.wikidata.org/entity/Q403,Serbia
+1633,http://www.wikidata.org/entity/Q215277,Jaffna,http://www.wikidata.org/entity/Q854,Sri Lanka
+1635,http://www.wikidata.org/entity/Q997121,Kribi,http://www.wikidata.org/entity/Q1009,Cameroon
+1636,http://www.wikidata.org/entity/Q1015146,Poipet,http://www.wikidata.org/entity/Q424,Cambodia
+1637,http://www.wikidata.org/entity/Q216075,Cần Thơ,http://www.wikidata.org/entity/Q881,Vietnam
+1639,http://www.wikidata.org/entity/Q864100,Katima Mulilo,http://www.wikidata.org/entity/Q1030,Namibia
+1642,http://www.wikidata.org/entity/Q203380,Napier,http://www.wikidata.org/entity/Q664,New Zealand
+1645,http://www.wikidata.org/entity/Q997821,Delmas,http://www.wikidata.org/entity/Q790,Haiti
+1647,http://www.wikidata.org/entity/Q201342,Niamtougou,http://www.wikidata.org/entity/Q945,Togo
+1655,http://www.wikidata.org/entity/Q1013379,Mafeteng,http://www.wikidata.org/entity/Q1013,Lesotho
+1656,http://www.wikidata.org/entity/Q1013428,Mokhotlong,http://www.wikidata.org/entity/Q1013,Lesotho
+1661,http://www.wikidata.org/entity/Q1901003,Dondușeni,http://www.wikidata.org/entity/Q15180,Soviet Union
+1675,http://www.wikidata.org/entity/Q1901003,Dondușeni,http://www.wikidata.org/entity/Q34266,Russian Empire
+1677,http://www.wikidata.org/entity/Q1901003,Dondușeni,http://www.wikidata.org/entity/Q964024,Moldavian Democratic Republic
+1680,http://www.wikidata.org/entity/Q1901003,Dondușeni,http://www.wikidata.org/entity/Q139319,Russian Republic
+1681,http://www.wikidata.org/entity/Q1901003,Dondușeni,http://www.wikidata.org/entity/Q203493,Kingdom of Romania
+1697,http://www.wikidata.org/entity/Q997402,Buba,http://www.wikidata.org/entity/Q1007,Guinea-Bissau
+1698,http://www.wikidata.org/entity/Q1925129,Manikganj,http://www.wikidata.org/entity/Q902,Bangladesh
+1699,http://www.wikidata.org/entity/Q997314,Bu'ale,http://www.wikidata.org/entity/Q1045,Somalia
+1703,http://www.wikidata.org/entity/Q203197,Kandy,http://www.wikidata.org/entity/Q854,Sri Lanka
+1708,http://www.wikidata.org/entity/Q998813,Narok,http://www.wikidata.org/entity/Q114,Kenya
+1712,http://www.wikidata.org/entity/Q203476,Port Blair,http://www.wikidata.org/entity/Q129286,British Raj
+1715,http://www.wikidata.org/entity/Q997069,Mansa,http://www.wikidata.org/entity/Q953,Zambia
+1717,http://www.wikidata.org/entity/Q999070,Nkongsamba,http://www.wikidata.org/entity/Q1009,Cameroon
+1719,http://www.wikidata.org/entity/Q216847,Cúcuta,http://www.wikidata.org/entity/Q739,Colombia
+1720,http://www.wikidata.org/entity/Q997047,Kumba,http://www.wikidata.org/entity/Q1009,Cameroon
+1721,http://www.wikidata.org/entity/Q219117,Zomba,http://www.wikidata.org/entity/Q1020,Malawi
+1722,http://www.wikidata.org/entity/Q216835,Cap-Haïtien,http://www.wikidata.org/entity/Q790,Haiti
+1729,http://www.wikidata.org/entity/Q204434,Bihać,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+1735,http://www.wikidata.org/entity/Q204391,Zinjibar,http://www.wikidata.org/entity/Q805,Yemen
+1741,http://www.wikidata.org/entity/Q204472,Šabac,http://www.wikidata.org/entity/Q403,Serbia
+1742,http://www.wikidata.org/entity/Q219417,Húsavík,http://www.wikidata.org/entity/Q189,Iceland
+1743,http://www.wikidata.org/entity/Q204365,Zinder,http://www.wikidata.org/entity/Q1032,Niger
+1744,http://www.wikidata.org/entity/Q1001440,Pétion-Ville,http://www.wikidata.org/entity/Q790,Haiti
+1745,http://www.wikidata.org/entity/Q867102,Gharyan,http://www.wikidata.org/entity/Q1016,Libya
+1748,http://www.wikidata.org/entity/Q221447,Ramla,http://www.wikidata.org/entity/Q801,Israel
+1749,http://www.wikidata.org/entity/Q219547,Dnestrovsc,http://www.wikidata.org/entity/Q217,Moldova
+1754,http://www.wikidata.org/entity/Q1000839,Ordubad,http://www.wikidata.org/entity/Q227,Azerbaijan
+1755,http://www.wikidata.org/entity/Q1000844,Martuni,http://www.wikidata.org/entity/Q227,Azerbaijan
+1756,http://www.wikidata.org/entity/Q1000883,Lachin,http://www.wikidata.org/entity/Q227,Azerbaijan
+1762,http://www.wikidata.org/entity/Q216902,Kabwe,http://www.wikidata.org/entity/Q953,Zambia
+1763,http://www.wikidata.org/entity/Q219671,Ndola,http://www.wikidata.org/entity/Q953,Zambia
+1764,http://www.wikidata.org/entity/Q220049,Malakal,http://www.wikidata.org/entity/Q958,South Sudan
+1766,http://www.wikidata.org/entity/Q859708,Orapa,http://www.wikidata.org/entity/Q963,Botswana
+1774,http://www.wikidata.org/entity/Q860179,Obock,http://www.wikidata.org/entity/Q977,Djibouti
+1777,http://www.wikidata.org/entity/Q870475,Chamchamal,http://www.wikidata.org/entity/Q796,Iraq
+1784,http://www.wikidata.org/entity/Q864655,Serhetabat,http://www.wikidata.org/entity/Q874,Turkmenistan
+1785,http://www.wikidata.org/entity/Q871209,Solwezi,http://www.wikidata.org/entity/Q953,Zambia
+1787,http://www.wikidata.org/entity/Q864655,Serhetabat,http://www.wikidata.org/entity/Q15180,Soviet Union
+1789,http://www.wikidata.org/entity/Q1964065,Gopalganj,http://www.wikidata.org/entity/Q902,Bangladesh
+1791,http://www.wikidata.org/entity/Q864655,Serhetabat,http://www.wikidata.org/entity/Q34266,Russian Empire
+1792,http://www.wikidata.org/entity/Q219547,Dnestrovsc,http://www.wikidata.org/entity/Q907112,Transnistria
+1800,http://www.wikidata.org/entity/Q3199354,Koutine,http://www.wikidata.org/entity/Q948,Tunisia
+1802,http://www.wikidata.org/entity/Q218768,Rabaul,http://www.wikidata.org/entity/Q691,Papua New Guinea
+1804,http://www.wikidata.org/entity/Q205648,Granada,http://www.wikidata.org/entity/Q811,Nicaragua
+1805,http://www.wikidata.org/entity/Q3287440,Marandallah,http://www.wikidata.org/entity/Q1008,Ivory Coast
+1814,http://www.wikidata.org/entity/Q862041,Paro,http://www.wikidata.org/entity/Q917,Bhutan
+1819,http://www.wikidata.org/entity/Q223761,Bobo-Dioulasso,http://www.wikidata.org/entity/Q965,Burkina Faso
+1821,http://www.wikidata.org/entity/Q1000887,Yehud,http://www.wikidata.org/entity/Q801,Israel
+1822,http://www.wikidata.org/entity/Q218954,Vohemar,http://www.wikidata.org/entity/Q1019,Madagascar
+1824,http://www.wikidata.org/entity/Q223761,Bobo-Dioulasso,http://www.wikidata.org/entity/Q797422,Republic of Upper Volta (current Burkina Faso)
+1825,http://www.wikidata.org/entity/Q863727,Bindura,http://www.wikidata.org/entity/Q954,Zimbabwe
+1826,http://www.wikidata.org/entity/Q863461,Bimbo,http://www.wikidata.org/entity/Q929,Central African Republic
+1833,http://www.wikidata.org/entity/Q223761,Bobo-Dioulasso,http://www.wikidata.org/entity/Q797440,French Upper Volta
+1836,http://www.wikidata.org/entity/Q217426,Soweto,http://www.wikidata.org/entity/Q258,South Africa
+1837,http://www.wikidata.org/entity/Q864965,Petaling Jaya,http://www.wikidata.org/entity/Q833,Malaysia
+1840,http://www.wikidata.org/entity/Q204266,Toyama,http://www.wikidata.org/entity/Q17,Japan
+1845,http://www.wikidata.org/entity/Q1939876,Nsanje,http://www.wikidata.org/entity/Q1020,Malawi
+1846,http://www.wikidata.org/entity/Q221734,Rason,http://www.wikidata.org/entity/Q423,North Korea
+1847,http://www.wikidata.org/entity/Q3244848,"Warrap, South Sudan",http://www.wikidata.org/entity/Q958,South Sudan
+1851,http://www.wikidata.org/entity/Q207223,Drogheda,http://www.wikidata.org/entity/Q27,Republic of Ireland
+1852,http://www.wikidata.org/entity/Q204317,Echternach,http://www.wikidata.org/entity/Q32,Luxembourg
+1854,http://www.wikidata.org/entity/Q207259,Zliten,http://www.wikidata.org/entity/Q1016,Libya
+1862,http://www.wikidata.org/entity/Q1951490,Mrauk U,http://www.wikidata.org/entity/Q836,Myanmar
+1863,http://www.wikidata.org/entity/Q870103,Pathein,http://www.wikidata.org/entity/Q836,Myanmar
+1869,http://www.wikidata.org/entity/Q3235662,Namanga,http://www.wikidata.org/entity/Q114,Kenya
+1873,http://www.wikidata.org/entity/Q3232289,Bomassa,http://www.wikidata.org/entity/Q971,Republic of the Congo
+1878,http://www.wikidata.org/entity/Q3233176,Namaacha,http://www.wikidata.org/entity/Q1029,Mozambique
+1879,http://www.wikidata.org/entity/Q1001817,Buenos Aires,http://www.wikidata.org/entity/Q800,Costa Rica
+1881,http://www.wikidata.org/entity/Q1001914,Masaya,http://www.wikidata.org/entity/Q811,Nicaragua
+1885,http://www.wikidata.org/entity/Q3267362,Hillsborough,http://www.wikidata.org/entity/Q769,Grenada
+1886,http://www.wikidata.org/entity/Q865586,Galkayo,http://www.wikidata.org/entity/Q1045,Somalia
+1887,http://www.wikidata.org/entity/Q1001897,San Antonio de Palé,http://www.wikidata.org/entity/Q983,Equatorial Guinea
+1888,http://www.wikidata.org/entity/Q3263949,Cofradia,http://www.wikidata.org/entity/Q783,Honduras
+1900,http://www.wikidata.org/entity/Q999498,Manga,http://www.wikidata.org/entity/Q965,Burkina Faso
+1901,http://www.wikidata.org/entity/Q222755,Ibagué,http://www.wikidata.org/entity/Q739,Colombia
+1904,http://www.wikidata.org/entity/Q3260216,Loudima,http://www.wikidata.org/entity/Q971,Republic of the Congo
+1907,http://www.wikidata.org/entity/Q867573,Freeport,http://www.wikidata.org/entity/Q778,The Bahamas
+1911,http://www.wikidata.org/entity/Q867586,Salt,http://www.wikidata.org/entity/Q810,Jordan
+1919,http://www.wikidata.org/entity/Q1000373,Mandalgovi,http://www.wikidata.org/entity/Q711,Mongolia
+1922,http://www.wikidata.org/entity/Q3281038,Goroumo,http://www.wikidata.org/entity/Q929,Central African Republic
+1923,http://www.wikidata.org/entity/Q205956,Candon,http://www.wikidata.org/entity/Q928,Philippines
+1926,http://www.wikidata.org/entity/Q3280636,Makabana,http://www.wikidata.org/entity/Q971,Republic of the Congo
+1929,http://www.wikidata.org/entity/Q223920,Pointe-Noire,http://www.wikidata.org/entity/Q971,Republic of the Congo
+1935,http://www.wikidata.org/entity/Q207350,Rehovot,http://www.wikidata.org/entity/Q801,Israel
+1939,http://www.wikidata.org/entity/Q207470,Bijelo Polje,http://www.wikidata.org/entity/Q236,Montenegro
+1941,http://www.wikidata.org/entity/Q3235603,Hlatikulu,http://www.wikidata.org/entity/Q1050,Eswatini
+1953,http://www.wikidata.org/entity/Q206687,Nelson,http://www.wikidata.org/entity/Q664,New Zealand
+1954,http://www.wikidata.org/entity/Q1020276,Búðardalur,http://www.wikidata.org/entity/Q189,Iceland
+1955,http://www.wikidata.org/entity/Q500080,Mojkovac,http://www.wikidata.org/entity/Q236,Montenegro
+1960,http://www.wikidata.org/entity/Q500111,Arua,http://www.wikidata.org/entity/Q1036,Uganda
+1964,http://www.wikidata.org/entity/Q3236564,Ancuabe,http://www.wikidata.org/entity/Q1029,Mozambique
+1967,http://www.wikidata.org/entity/Q230628,Erdenet,http://www.wikidata.org/entity/Q711,Mongolia
+1973,http://www.wikidata.org/entity/Q223314,Qaanaaq,http://www.wikidata.org/entity/Q223,Greenland
+1988,http://www.wikidata.org/entity/Q888971,Bocas del Toro,http://www.wikidata.org/entity/Q804,Panama
+1991,http://www.wikidata.org/entity/Q206760,Kyrenia,http://www.wikidata.org/entity/Q229,Cyprus
+1992,http://www.wikidata.org/entity/Q912235,Toplița,http://www.wikidata.org/entity/Q218,Romania
+1994,http://www.wikidata.org/entity/Q498192,Goroka,http://www.wikidata.org/entity/Q691,Papua New Guinea
+1995,http://www.wikidata.org/entity/Q498048,Pemba,http://www.wikidata.org/entity/Q1029,Mozambique
+1996,http://www.wikidata.org/entity/Q499375,Daru,http://www.wikidata.org/entity/Q691,Papua New Guinea
+1998,http://www.wikidata.org/entity/Q498968,Espargos,http://www.wikidata.org/entity/Q1011,Cape Verde
+2007,http://www.wikidata.org/entity/Q233467,Gisborne,http://www.wikidata.org/entity/Q664,New Zealand
+2009,http://www.wikidata.org/entity/Q882907,Corozal Town,http://www.wikidata.org/entity/Q242,Belize
+2017,http://www.wikidata.org/entity/Q880512,Black River,http://www.wikidata.org/entity/Q766,Jamaica
+2023,http://www.wikidata.org/entity/Q876549,Kampot,http://www.wikidata.org/entity/Q424,Cambodia
+2024,http://www.wikidata.org/entity/Q894513,Bossangoa,http://www.wikidata.org/entity/Q929,Central African Republic
+2025,http://www.wikidata.org/entity/Q231167,Zuwara,http://www.wikidata.org/entity/Q1016,Libya
+2026,http://www.wikidata.org/entity/Q887147,Blönduós,http://www.wikidata.org/entity/Q189,Iceland
+2027,http://www.wikidata.org/entity/Q501543,Kiryat Malakhi,http://www.wikidata.org/entity/Q801,Israel
+2035,http://www.wikidata.org/entity/Q3315681,Palma,http://www.wikidata.org/entity/Q1029,Mozambique
+2036,http://www.wikidata.org/entity/Q229677,Zumbo,http://www.wikidata.org/entity/Q1029,Mozambique
+2038,http://www.wikidata.org/entity/Q3312840,Lavumisa,http://www.wikidata.org/entity/Q1050,Eswatini
+2047,http://www.wikidata.org/entity/Q893092,Borama,http://www.wikidata.org/entity/Q34754,Somaliland
+2048,http://www.wikidata.org/entity/Q502272,Ma'ale Adumim,http://www.wikidata.org/entity/Q801,Israel
+2049,http://www.wikidata.org/entity/Q502216,Mzuzu,http://www.wikidata.org/entity/Q1020,Malawi
+2051,http://www.wikidata.org/entity/Q236673,Gali,http://www.wikidata.org/entity/Q31354462,Republic of Abkhazia
+2052,http://www.wikidata.org/entity/Q883362,Punta Gorda,http://www.wikidata.org/entity/Q242,Belize
+2053,http://www.wikidata.org/entity/Q888300,Dangriga,http://www.wikidata.org/entity/Q242,Belize
+2056,http://www.wikidata.org/entity/Q148062,Zarqa,http://www.wikidata.org/entity/Q810,Jordan
+2060,http://www.wikidata.org/entity/Q502272,Ma'ale Adumim,http://www.wikidata.org/entity/Q36678,West Bank
+2061,http://www.wikidata.org/entity/Q148062,Zarqa,http://www.wikidata.org/entity/Q1121819,Emirate of Transjordan
+2062,http://www.wikidata.org/entity/Q1020010,Florø,http://www.wikidata.org/entity/Q20,Norway
+2068,http://www.wikidata.org/entity/Q1019534,Trongsa,http://www.wikidata.org/entity/Q917,Bhutan
+2072,http://www.wikidata.org/entity/Q1020338,Maliana,http://www.wikidata.org/entity/Q574,East Timor
+2073,http://www.wikidata.org/entity/Q1019991,Marondera,http://www.wikidata.org/entity/Q954,Zimbabwe
+2077,http://www.wikidata.org/entity/Q1020320,San Carlos,http://www.wikidata.org/entity/Q811,Nicaragua
+2078,http://www.wikidata.org/entity/Q235571,Darkhan,http://www.wikidata.org/entity/Q711,Mongolia
+2087,http://www.wikidata.org/entity/Q3233991,Rose Hall,http://www.wikidata.org/entity/Q734,Guyana
+2088,http://www.wikidata.org/entity/Q891664,Bolungarvík,http://www.wikidata.org/entity/Q189,Iceland
+2100,http://www.wikidata.org/entity/Q885996,Bluefields,http://www.wikidata.org/entity/Q811,Nicaragua
+2101,http://www.wikidata.org/entity/Q887488,Boaco,http://www.wikidata.org/entity/Q811,Nicaragua
+2104,http://www.wikidata.org/entity/Q3312677,Ngwenya,http://www.wikidata.org/entity/Q1050,Eswatini
+2110,http://www.wikidata.org/entity/Q876876,Subang Jaya,http://www.wikidata.org/entity/Q833,Malaysia
+2113,http://www.wikidata.org/entity/Q891241,Bol,http://www.wikidata.org/entity/Q657,Chad
+2114,http://www.wikidata.org/entity/Q897320,Brahmanbaria,http://www.wikidata.org/entity/Q902,Bangladesh
+2115,http://www.wikidata.org/entity/Q897446,Nidaros,http://www.wikidata.org/entity/Q20,Norway
+2120,http://www.wikidata.org/entity/Q227509,Az Zubayr,http://www.wikidata.org/entity/Q796,Iraq
+2121,http://www.wikidata.org/entity/Q1020484,Satpayev,http://www.wikidata.org/entity/Q232,Kazakhstan
+2123,http://www.wikidata.org/entity/Q896185,Bozoum,http://www.wikidata.org/entity/Q929,Central African Republic
+2127,http://www.wikidata.org/entity/Q1020309,Pakxan,http://www.wikidata.org/entity/Q819,Laos
+2128,http://www.wikidata.org/entity/Q147243,Štip,http://www.wikidata.org/entity/Q221,North Macedonia
+2131,http://www.wikidata.org/entity/Q877229,Huining Prefecture,http://www.wikidata.org/entity/Q5066,Jin dynasty
+2132,http://www.wikidata.org/entity/Q227072,Zouérat,http://www.wikidata.org/entity/Q1025,Mauritania
+2133,http://www.wikidata.org/entity/Q1020481,Mahdia,http://www.wikidata.org/entity/Q734,Guyana
+2143,http://www.wikidata.org/entity/Q1020261,Higüey,http://www.wikidata.org/entity/Q786,Dominican Republic
+2145,http://www.wikidata.org/entity/Q1020477,Dekemhare,http://www.wikidata.org/entity/Q986,Eritrea
+2146,http://www.wikidata.org/entity/Q506775,Rožaje,http://www.wikidata.org/entity/Q236,Montenegro
+2147,http://www.wikidata.org/entity/Q892441,Bongor,http://www.wikidata.org/entity/Q657,Chad
+2149,http://www.wikidata.org/entity/Q892886,Bonthe,http://www.wikidata.org/entity/Q1044,Sierra Leone
+2150,http://www.wikidata.org/entity/Q1020384,LABÉ,http://www.wikidata.org/entity/Q1006,Guinea
+2153,http://www.wikidata.org/entity/Q506578,Baidoa,http://www.wikidata.org/entity/Q1045,Somalia
+2154,http://www.wikidata.org/entity/Q1020484,Satpayev,http://www.wikidata.org/entity/Q15180,Soviet Union
+2163,http://www.wikidata.org/entity/Q274584,San Pedro Sula,http://www.wikidata.org/entity/Q783,Honduras
+2166,http://www.wikidata.org/entity/Q737270,Sur,http://www.wikidata.org/entity/Q842,Oman
+2167,http://www.wikidata.org/entity/Q911358,Ebibeyin,http://www.wikidata.org/entity/Q983,Equatorial Guinea
+2169,http://www.wikidata.org/entity/Q507144,Mullaitivu,http://www.wikidata.org/entity/Q854,Sri Lanka
+2170,http://www.wikidata.org/entity/Q1021903,Chivhu,http://www.wikidata.org/entity/Q954,Zimbabwe
+2172,http://www.wikidata.org/entity/Q1022131,Rîșcani,http://www.wikidata.org/entity/Q217,Moldova
+2173,http://www.wikidata.org/entity/Q501715,Port-Gentil,http://www.wikidata.org/entity/Q1000,Gabon
+2174,http://www.wikidata.org/entity/Q738159,Dunavarsány,http://www.wikidata.org/entity/Q28,Hungary
+2175,http://www.wikidata.org/entity/Q740853,Szigetszentmiklós,http://www.wikidata.org/entity/Q28,Hungary
+2181,http://www.wikidata.org/entity/Q1022131,Rîșcani,http://www.wikidata.org/entity/Q15180,Soviet Union
+2182,http://www.wikidata.org/entity/Q501656,Sal Rei,http://www.wikidata.org/entity/Q1011,Cape Verde
+2183,http://www.wikidata.org/entity/Q1020649,"Aybak, Samangan",http://www.wikidata.org/entity/Q889,Afghanistan
+2184,http://www.wikidata.org/entity/Q276537,Borgarnes,http://www.wikidata.org/entity/Q189,Iceland
+2187,http://www.wikidata.org/entity/Q1022131,Rîșcani,http://www.wikidata.org/entity/Q203493,Kingdom of Romania
+2188,http://www.wikidata.org/entity/Q1022131,Rîșcani,http://www.wikidata.org/entity/Q34266,Russian Empire
+2191,http://www.wikidata.org/entity/Q1022131,Rîșcani,http://www.wikidata.org/entity/Q964024,Moldavian Democratic Republic
+2192,http://www.wikidata.org/entity/Q1022131,Rîșcani,http://www.wikidata.org/entity/Q10957559,Principality of Moldavia
+2201,http://www.wikidata.org/entity/Q234600,Al Ain,http://www.wikidata.org/entity/Q878,United Arab Emirates
+2207,http://www.wikidata.org/entity/Q506811,Odienné,http://www.wikidata.org/entity/Q1008,Ivory Coast
+2212,http://www.wikidata.org/entity/Q277505,Diriyah,http://www.wikidata.org/entity/Q851,Saudi Arabia
+2214,http://www.wikidata.org/entity/Q509739,Butare,http://www.wikidata.org/entity/Q1037,Rwanda
+2222,http://www.wikidata.org/entity/Q277372,Babel,http://www.wikidata.org/entity/Q11767,Mesopotamia
+2224,http://www.wikidata.org/entity/Q289693,Sharjah,http://www.wikidata.org/entity/Q878,United Arab Emirates
+2228,http://www.wikidata.org/entity/Q735645,Atar,http://www.wikidata.org/entity/Q1025,Mauritania
+2229,http://www.wikidata.org/entity/Q289267,Dschang,http://www.wikidata.org/entity/Q1009,Cameroon
+2230,http://www.wikidata.org/entity/Q1020997,Wadi Al-Seer,http://www.wikidata.org/entity/Q810,Jordan
+2233,http://www.wikidata.org/entity/Q516769,Faya-Largeau,http://www.wikidata.org/entity/Q657,Chad
+2238,http://www.wikidata.org/entity/Q1021638,Port Mathurin,http://www.wikidata.org/entity/Q1027,Mauritius
+2243,http://www.wikidata.org/entity/Q739664,Santa Ana,http://www.wikidata.org/entity/Q792,El Salvador
+2247,http://www.wikidata.org/entity/Q739808,Gjilan,http://www.wikidata.org/entity/Q1246,Kosovo
+2249,http://www.wikidata.org/entity/Q526822,Murzuk,http://www.wikidata.org/entity/Q1016,Libya
+2253,http://www.wikidata.org/entity/Q1022152,Chavuma,http://www.wikidata.org/entity/Q953,Zambia
+2254,http://www.wikidata.org/entity/Q740246,Kyōto,http://www.wikidata.org/entity/Q17,Japan
+2260,http://www.wikidata.org/entity/Q1022523,Ekwendeni,http://www.wikidata.org/entity/Q1020,Malawi
+2261,http://www.wikidata.org/entity/Q1022529,Chiradzulu,http://www.wikidata.org/entity/Q1020,Malawi
+2262,http://www.wikidata.org/entity/Q1022535,Rumphi,http://www.wikidata.org/entity/Q1020,Malawi
+2264,http://www.wikidata.org/entity/Q740687,Guéckédougou,http://www.wikidata.org/entity/Q1006,Guinea
+2269,http://www.wikidata.org/entity/Q744239,Whangārei,http://www.wikidata.org/entity/Q664,New Zealand
+2275,http://www.wikidata.org/entity/Q1022170,Chokwe,http://www.wikidata.org/entity/Q1029,Mozambique
+2276,http://www.wikidata.org/entity/Q525118,Maxixe,http://www.wikidata.org/entity/Q1029,Mozambique
+2283,http://www.wikidata.org/entity/Q740865,Wadi Halfa,http://www.wikidata.org/entity/Q1049,Sudan
+2292,http://www.wikidata.org/entity/Q284529,San Cristóbal Verapaz,http://www.wikidata.org/entity/Q774,Guatemala
+2314,http://www.wikidata.org/entity/Q515229,Ngerulmud,http://www.wikidata.org/entity/Q695,Palau
+2316,http://www.wikidata.org/entity/Q738901,Ferizaj,http://www.wikidata.org/entity/Q1246,Kosovo
+2317,http://www.wikidata.org/entity/Q521702,Carnot,http://www.wikidata.org/entity/Q929,Central African Republic
+2318,http://www.wikidata.org/entity/Q522912,"Nola, Central African Republic",http://www.wikidata.org/entity/Q929,Central African Republic
+2321,http://www.wikidata.org/entity/Q530171,Ajman,http://www.wikidata.org/entity/Q878,United Arab Emirates
+2325,http://www.wikidata.org/entity/Q521322,Aboisso,http://www.wikidata.org/entity/Q1008,Ivory Coast
+2327,http://www.wikidata.org/entity/Q1023290,Kara-Suu,http://www.wikidata.org/entity/Q813,Kyrgyzstan
+2328,http://www.wikidata.org/entity/Q275630,Danilovgrad,http://www.wikidata.org/entity/Q236,Montenegro
+2329,http://www.wikidata.org/entity/Q1022984,Farim,http://www.wikidata.org/entity/Q1007,Guinea-Bissau
+2333,http://www.wikidata.org/entity/Q275635,Massawa,http://www.wikidata.org/entity/Q986,Eritrea
+2336,http://www.wikidata.org/entity/Q155530,Miarinarivo,http://www.wikidata.org/entity/Q1019,Madagascar
+2344,http://www.wikidata.org/entity/Q310114,Khartoum North,http://www.wikidata.org/entity/Q1049,Sudan
+2350,http://www.wikidata.org/entity/Q524851,Benque Viejo del Carmen,http://www.wikidata.org/entity/Q242,Belize
+2351,http://www.wikidata.org/entity/Q157050,Veles,http://www.wikidata.org/entity/Q221,North Macedonia
+2358,http://www.wikidata.org/entity/Q157032,Prilep,http://www.wikidata.org/entity/Q221,North Macedonia
+2359,http://www.wikidata.org/entity/Q157034,Kruševo,http://www.wikidata.org/entity/Q221,North Macedonia
+2360,http://www.wikidata.org/entity/Q279009,David,http://www.wikidata.org/entity/Q804,Panama
+2362,http://www.wikidata.org/entity/Q523618,Edd,http://www.wikidata.org/entity/Q986,Eritrea
+2366,http://www.wikidata.org/entity/Q528679,"Nyanza, Rwanda",http://www.wikidata.org/entity/Q1037,Rwanda
+2370,http://www.wikidata.org/entity/Q747362,Tsuru,http://www.wikidata.org/entity/Q17,Japan
+2371,http://www.wikidata.org/entity/Q534409,Keren,http://www.wikidata.org/entity/Q986,Eritrea
+2374,http://www.wikidata.org/entity/Q156858,Struga,http://www.wikidata.org/entity/Q221,North Macedonia
+2384,http://www.wikidata.org/entity/Q747898,Uummannaq,http://www.wikidata.org/entity/Q223,Greenland
+2387,http://www.wikidata.org/entity/Q157246,Bitola,http://www.wikidata.org/entity/Q221,North Macedonia
+2388,http://www.wikidata.org/entity/Q158242,Adamov,http://www.wikidata.org/entity/Q213,Czech Republic
+2390,http://www.wikidata.org/entity/Q527318,Qalat,http://www.wikidata.org/entity/Q889,Afghanistan
+2401,http://www.wikidata.org/entity/Q149155,Semenivka,http://www.wikidata.org/entity/Q212,Ukraine
+2406,http://www.wikidata.org/entity/Q305508,Savanna-la-Mar,http://www.wikidata.org/entity/Q766,Jamaica
+2407,http://www.wikidata.org/entity/Q740832,Jezkazgan,http://www.wikidata.org/entity/Q232,Kazakhstan
+2408,http://www.wikidata.org/entity/Q539154,Beilul,http://www.wikidata.org/entity/Q986,Eritrea
+2409,http://www.wikidata.org/entity/Q302745,Hall in Tirol,http://www.wikidata.org/entity/Q40,Austria
+2419,http://www.wikidata.org/entity/Q305542,Abaradira,http://www.wikidata.org/entity/Q1747689,Ancient Rome
+2422,http://www.wikidata.org/entity/Q1025283,Hambantota,http://www.wikidata.org/entity/Q854,Sri Lanka
+2424,http://www.wikidata.org/entity/Q171101,Lecheng,http://www.wikidata.org/entity/Q963,Botswana
+2425,http://www.wikidata.org/entity/Q1023712,San Fernando,http://www.wikidata.org/entity/Q754,Trinidad and Tobago
+2431,http://www.wikidata.org/entity/Q156974,Ústí nad Labem,http://www.wikidata.org/entity/Q213,Czech Republic
+2434,http://www.wikidata.org/entity/Q303160,Upernavik,http://www.wikidata.org/entity/Q223,Greenland
+2439,http://www.wikidata.org/entity/Q527748,Koror,http://www.wikidata.org/entity/Q695,Palau
+2443,http://www.wikidata.org/entity/Q754724,Gheorgheni,http://www.wikidata.org/entity/Q218,Romania
+2446,http://www.wikidata.org/entity/Q1024653,Senafe,http://www.wikidata.org/entity/Q986,Eritrea
+2447,http://www.wikidata.org/entity/Q741134,Linden,http://www.wikidata.org/entity/Q734,Guyana
+2449,http://www.wikidata.org/entity/Q753906,Atbarah,http://www.wikidata.org/entity/Q1049,Sudan
+2458,http://www.wikidata.org/entity/Q1023655,Salamá,http://www.wikidata.org/entity/Q774,Guatemala
+2465,http://www.wikidata.org/entity/Q750679,Samawah,http://www.wikidata.org/entity/Q796,Iraq
+2466,http://www.wikidata.org/entity/Q738563,Hakha,http://www.wikidata.org/entity/Q836,Myanmar
+2467,http://www.wikidata.org/entity/Q738748,Sittwe,http://www.wikidata.org/entity/Q836,Myanmar
+2472,http://www.wikidata.org/entity/Q1023619,Magdanly,http://www.wikidata.org/entity/Q874,Turkmenistan
+2475,http://www.wikidata.org/entity/Q526539,Mongomo,http://www.wikidata.org/entity/Q983,Equatorial Guinea
+2482,http://www.wikidata.org/entity/Q291912,Sidra,http://www.wikidata.org/entity/Q1016,Libya
+2483,http://www.wikidata.org/entity/Q526568,Tôlanaro,http://www.wikidata.org/entity/Q1019,Madagascar
+2490,http://www.wikidata.org/entity/Q171223,Nyíregyháza,http://www.wikidata.org/entity/Q28,Hungary
+2491,http://www.wikidata.org/entity/Q158467,Gwalior,http://www.wikidata.org/entity/Q33296,Mughal Empire
+2493,http://www.wikidata.org/entity/Q155993,Kladno,http://www.wikidata.org/entity/Q213,Czech Republic
+2497,http://www.wikidata.org/entity/Q93347,Mostar,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+2500,http://www.wikidata.org/entity/Q171219,Dornbirn,http://www.wikidata.org/entity/Q40,Austria
+2501,http://www.wikidata.org/entity/Q156713,Zhytomyr,http://www.wikidata.org/entity/Q212,Ukraine
+2503,http://www.wikidata.org/entity/Q755791,Ati,http://www.wikidata.org/entity/Q657,Chad
+2508,http://www.wikidata.org/entity/Q746041,Petroșani,http://www.wikidata.org/entity/Q218,Romania
+2510,http://www.wikidata.org/entity/Q173037,Nikolayevsk-on-Amur,http://www.wikidata.org/entity/Q159,Russia
+2512,http://www.wikidata.org/entity/Q172996,George Town,http://www.wikidata.org/entity/Q5785,Cayman Islands
+2519,http://www.wikidata.org/entity/Q748336,Battambang,http://www.wikidata.org/entity/Q424,Cambodia
+2524,http://www.wikidata.org/entity/Q750443,Savannakhet,http://www.wikidata.org/entity/Q819,Laos
+2528,http://www.wikidata.org/entity/Q310893,Al Wakrah,http://www.wikidata.org/entity/Q846,Qatar
+2529,http://www.wikidata.org/entity/Q309475,Al-Ubayyid,http://www.wikidata.org/entity/Q1049,Sudan
+2534,http://www.wikidata.org/entity/Q173310,Kirkuk,http://www.wikidata.org/entity/Q796,Iraq
+2541,http://www.wikidata.org/entity/Q1023359,Jalapa,http://www.wikidata.org/entity/Q774,Guatemala
+2542,http://www.wikidata.org/entity/Q1023393,Retalhuleu,http://www.wikidata.org/entity/Q774,Guatemala
+2543,http://www.wikidata.org/entity/Q311946,Naryn,http://www.wikidata.org/entity/Q813,Kyrgyzstan
+2549,http://www.wikidata.org/entity/Q100188,Cluj-Napoca,http://www.wikidata.org/entity/Q218,Romania
+2556,http://www.wikidata.org/entity/Q101418,Lobamba,http://www.wikidata.org/entity/Q1050,Eswatini
+2564,http://www.wikidata.org/entity/Q102397,Miskolc,http://www.wikidata.org/entity/Q28,Hungary
+2567,http://www.wikidata.org/entity/Q318418,Vilvoorde,http://www.wikidata.org/entity/Q31,Belgium
+2574,http://www.wikidata.org/entity/Q311199,Al Qadarif,http://www.wikidata.org/entity/Q1049,Sudan
+2579,http://www.wikidata.org/entity/Q757905,Attapeu,http://www.wikidata.org/entity/Q819,Laos
+2583,http://www.wikidata.org/entity/Q320792,Bata,http://www.wikidata.org/entity/Q983,Equatorial Guinea
+2588,http://www.wikidata.org/entity/Q743282,Napata,http://www.wikidata.org/entity/Q1049,Sudan
+2593,http://www.wikidata.org/entity/Q760235,Tokmak,http://www.wikidata.org/entity/Q212,Ukraine
+2600,http://www.wikidata.org/entity/Q761408,Springs,http://www.wikidata.org/entity/Q258,South Africa
+2604,http://www.wikidata.org/entity/Q321279,Ittoqqortoormiit,http://www.wikidata.org/entity/Q223,Greenland
+2618,http://www.wikidata.org/entity/Q173338,Cetinje,http://www.wikidata.org/entity/Q236,Montenegro
+2623,http://www.wikidata.org/entity/Q103725,Hafnarfjörður,http://www.wikidata.org/entity/Q189,Iceland
+2628,http://www.wikidata.org/entity/Q173532,Byblos,http://www.wikidata.org/entity/Q822,Lebanon
+2633,http://www.wikidata.org/entity/Q163352,Kongoussi,http://www.wikidata.org/entity/Q965,Burkina Faso
+2634,http://www.wikidata.org/entity/Q178168,Mitrovica,http://www.wikidata.org/entity/Q1246,Kosovo
+2636,http://www.wikidata.org/entity/Q395201,Agogo,http://www.wikidata.org/entity/Q117,Ghana
+2640,http://www.wikidata.org/entity/Q173731,Ghazni,http://www.wikidata.org/entity/Q889,Afghanistan
+2644,http://www.wikidata.org/entity/Q395433,Agordat,http://www.wikidata.org/entity/Q986,Eritrea
+2646,http://www.wikidata.org/entity/Q391747,Byumba,http://www.wikidata.org/entity/Q1037,Rwanda
+2661,http://www.wikidata.org/entity/Q174684,Tuzla,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina
+2667,http://www.wikidata.org/entity/Q174237,Budva,http://www.wikidata.org/entity/Q236,Montenegro
+2668,http://www.wikidata.org/entity/Q174684,Tuzla,http://www.wikidata.org/entity/Q28513,Austria-Hungary
+2670,http://www.wikidata.org/entity/Q163607,Angkor,http://www.wikidata.org/entity/Q424,Cambodia
+2675,http://www.wikidata.org/entity/Q163490,Sidon,http://www.wikidata.org/entity/Q822,Lebanon
+2677,http://www.wikidata.org/entity/Q174262,Saint Peter Port,http://www.wikidata.org/entity/Q25230,Guernsey
+2681,http://www.wikidata.org/entity/Q319729,Urayasu,http://www.wikidata.org/entity/Q17,Japan
+2682,http://www.wikidata.org/entity/Q319366,Galle,http://www.wikidata.org/entity/Q854,Sri Lanka
+2686,http://www.wikidata.org/entity/Q399316,Gweru,http://www.wikidata.org/entity/Q954,Zimbabwe
+2687,http://www.wikidata.org/entity/Q399322,Mutare,http://www.wikidata.org/entity/Q954,Zimbabwe
+2693,http://www.wikidata.org/entity/Q399083,Kwekwe,http://www.wikidata.org/entity/Q954,Zimbabwe
+2697,http://www.wikidata.org/entity/Q418402,Akim Oda,http://www.wikidata.org/entity/Q117,Ghana
+2700,http://www.wikidata.org/entity/Q913429,Atil,http://www.wikidata.org/entity/Q2090473,Khazar Khaganate
+2710,http://www.wikidata.org/entity/Q174266,Villa Canales,http://www.wikidata.org/entity/Q774,Guatemala
+2711,http://www.wikidata.org/entity/Q415943,Akarassos,http://www.wikidata.org/entity/Q1747689,Ancient Rome
+2724,http://www.wikidata.org/entity/Q323873,Trincomalee,http://www.wikidata.org/entity/Q854,Sri Lanka
+2733,http://www.wikidata.org/entity/Q923811,New Amsterdam,http://www.wikidata.org/entity/Q734,Guyana
+2734,http://www.wikidata.org/entity/Q917330,Santo Tirso,http://www.wikidata.org/entity/Q45,Portugal
+2747,http://www.wikidata.org/entity/Q175191,Novopavlovsk,http://www.wikidata.org/entity/Q159,Russia
+2748,http://www.wikidata.org/entity/Q913292,Moyamba,http://www.wikidata.org/entity/Q1044,Sierra Leone
+2750,http://www.wikidata.org/entity/Q180921,Omdurman,http://www.wikidata.org/entity/Q1049,Sudan
+2752,http://www.wikidata.org/entity/Q109494,Odda,http://www.wikidata.org/entity/Q20,Norway
+2759,http://www.wikidata.org/entity/Q178582,Wels,http://www.wikidata.org/entity/Q40,Austria
+2772,http://www.wikidata.org/entity/Q426891,Kakata,http://www.wikidata.org/entity/Q1014,Liberia
+2798,http://www.wikidata.org/entity/Q108223,Belize City,http://www.wikidata.org/entity/Q242,Belize
+2801,http://www.wikidata.org/entity/Q109386,Nampho,http://www.wikidata.org/entity/Q423,North Korea
+2809,http://www.wikidata.org/entity/Q178835,Baalbek,http://www.wikidata.org/entity/Q822,Lebanon
+2812,http://www.wikidata.org/entity/Q432397,Narsaq,http://www.wikidata.org/entity/Q223,Greenland
+2814,http://www.wikidata.org/entity/Q178067,Toamasina,http://www.wikidata.org/entity/Q1019,Madagascar
+2827,http://www.wikidata.org/entity/Q175617,Obluchye,http://www.wikidata.org/entity/Q159,Russia
+2830,http://www.wikidata.org/entity/Q181557,Kaohsiung,http://www.wikidata.org/entity/Q865,Taiwan
+2832,http://www.wikidata.org/entity/Q175596,Ayoun el Atrous,http://www.wikidata.org/entity/Q1025,Mauritania
+2833,http://www.wikidata.org/entity/Q924793,"Machinda, Equatorial Guinea",http://www.wikidata.org/entity/Q983,Equatorial Guinea
+2846,http://www.wikidata.org/entity/Q429059,Dvin,http://www.wikidata.org/entity/Q399,Armenia
+2852,http://www.wikidata.org/entity/Q112657,Peja,http://www.wikidata.org/entity/Q1246,Kosovo
+2853,http://www.wikidata.org/entity/Q916536,La Ceiba,http://www.wikidata.org/entity/Q783,Honduras
+2854,http://www.wikidata.org/entity/Q429059,Dvin,http://www.wikidata.org/entity/Q2071857,Persarmenia
+2855,http://www.wikidata.org/entity/Q429059,Dvin,http://www.wikidata.org/entity/Q2571688,Persian Armenia
+2857,http://www.wikidata.org/entity/Q182049,Rustenburg,http://www.wikidata.org/entity/Q258,South Africa
+2864,http://www.wikidata.org/entity/Q333074,Moundou,http://www.wikidata.org/entity/Q657,Chad
+2868,http://www.wikidata.org/entity/Q180139,Hradec Králové,http://www.wikidata.org/entity/Q213,Czech Republic
+2871,http://www.wikidata.org/entity/Q182059,Kumasi,http://www.wikidata.org/entity/Q117,Ghana
+2883,http://www.wikidata.org/entity/Q929689,Ngozi,http://www.wikidata.org/entity/Q967,Burundi
+2888,http://www.wikidata.org/entity/Q109092,Kilkenny,http://www.wikidata.org/entity/Q27,Republic of Ireland
+2889,http://www.wikidata.org/entity/Q927541,Hořice,http://www.wikidata.org/entity/Q213,Czech Republic
+2932,http://www.wikidata.org/entity/Q333476,Ségou,http://www.wikidata.org/entity/Q912,Mali
+2946,http://www.wikidata.org/entity/Q932640,Same,http://www.wikidata.org/entity/Q574,East Timor
+2956,http://www.wikidata.org/entity/Q934436,Dédougou,http://www.wikidata.org/entity/Q965,Burkina Faso
+2962,http://www.wikidata.org/entity/Q115276,Bar,http://www.wikidata.org/entity/Q236,Montenegro
+2963,http://www.wikidata.org/entity/Q182092,Tobruk,http://www.wikidata.org/entity/Q1016,Libya
+2965,http://www.wikidata.org/entity/Q115256,Taoyuan,http://www.wikidata.org/entity/Q865,Taiwan
+2974,http://www.wikidata.org/entity/Q935886,Lusail,http://www.wikidata.org/entity/Q846,Qatar
+2980,http://www.wikidata.org/entity/Q936510,Istarawshan,http://www.wikidata.org/entity/Q863,Tajikistan
+2986,http://www.wikidata.org/entity/Q181966,Naha,http://www.wikidata.org/entity/Q17,Japan
+2987,http://www.wikidata.org/entity/Q116524,Koupéla,http://www.wikidata.org/entity/Q965,Burkina Faso
+2996,http://www.wikidata.org/entity/Q930789,Kabala,http://www.wikidata.org/entity/Q1044,Sierra Leone
+2997,http://www.wikidata.org/entity/Q938739,San Lorenzo,http://www.wikidata.org/entity/Q733,Paraguay
+3000,http://www.wikidata.org/entity/Q938589,Blitta,http://www.wikidata.org/entity/Q945,Togo
+3003,http://www.wikidata.org/entity/Q183551,Waterford,http://www.wikidata.org/entity/Q27,Republic of Ireland
+3010,http://www.wikidata.org/entity/Q459369,Franceville,http://www.wikidata.org/entity/Q1000,Gabon
+3018,http://www.wikidata.org/entity/Q456642,Ambanja,http://www.wikidata.org/entity/Q1019,Madagascar
+3022,http://www.wikidata.org/entity/Q1015672,Whanganui,http://www.wikidata.org/entity/Q664,New Zealand
+3025,http://www.wikidata.org/entity/Q1015618,Serdar,http://www.wikidata.org/entity/Q874,Turkmenistan
+3027,http://www.wikidata.org/entity/Q451529,Am Timan,http://www.wikidata.org/entity/Q657,Chad
+3031,http://www.wikidata.org/entity/Q451589,Pakwach,http://www.wikidata.org/entity/Q1036,Uganda
+3043,http://www.wikidata.org/entity/Q337751,Nehardea,http://www.wikidata.org/entity/Q83891,Sasanian Empire
+3047,http://www.wikidata.org/entity/Q943270,Sohar,http://www.wikidata.org/entity/Q842,Oman
+3063,http://www.wikidata.org/entity/Q125434,Port Elizabeth,http://www.wikidata.org/entity/Q258,South Africa
+3067,http://www.wikidata.org/entity/Q183104,Feldkirch,http://www.wikidata.org/entity/Q40,Austria
+3078,http://www.wikidata.org/entity/Q59101,Narvik,http://www.wikidata.org/entity/Q20,Norway
+3081,http://www.wikidata.org/entity/Q1017160,Hudur,http://www.wikidata.org/entity/Q1045,Somalia
+3082,http://www.wikidata.org/entity/Q1017167,Garbahaareey,http://www.wikidata.org/entity/Q1045,Somalia
+3085,http://www.wikidata.org/entity/Q59086,Suva Reka,http://www.wikidata.org/entity/Q1246,Kosovo
+3117,http://www.wikidata.org/entity/Q58462,Ra's Lanuf,http://www.wikidata.org/entity/Q1016,Libya
+3122,http://www.wikidata.org/entity/Q1015681,Lower Hutt,http://www.wikidata.org/entity/Q664,New Zealand
+3123,http://www.wikidata.org/entity/Q1015690,Hastings,http://www.wikidata.org/entity/Q664,New Zealand
+3126,http://www.wikidata.org/entity/Q460925,Michalovce,http://www.wikidata.org/entity/Q214,Slovakia
+3132,http://www.wikidata.org/entity/Q1015699,Lira,http://www.wikidata.org/entity/Q1036,Uganda
+3138,http://www.wikidata.org/entity/Q34820,Santo Domingo,http://www.wikidata.org/entity/Q786,Dominican Republic
+3139,http://www.wikidata.org/entity/Q1969407,Dajabón,http://www.wikidata.org/entity/Q786,Dominican Republic
+3142,http://www.wikidata.org/entity/Q1017369,Kokopo,http://www.wikidata.org/entity/Q691,Papua New Guinea
+3143,http://www.wikidata.org/entity/Q1017376,Popondetta,http://www.wikidata.org/entity/Q691,Papua New Guinea
+3146,http://www.wikidata.org/entity/Q1017314,Cholpon-Ata,http://www.wikidata.org/entity/Q813,Kyrgyzstan
+3147,http://www.wikidata.org/entity/Q1968268,Kegalle,http://www.wikidata.org/entity/Q854,Sri Lanka
+3157,http://www.wikidata.org/entity/Q1015752,Konibodom,http://www.wikidata.org/entity/Q863,Tajikistan
+3160,http://www.wikidata.org/entity/Q183303,Jalalabad,http://www.wikidata.org/entity/Q889,Afghanistan
+3161,http://www.wikidata.org/entity/Q268247,Parika,http://www.wikidata.org/entity/Q734,Guyana
+3163,http://www.wikidata.org/entity/Q62823,Barranquilla,http://www.wikidata.org/entity/Q739,Colombia
+3165,http://www.wikidata.org/entity/Q1017098,Lospalos,http://www.wikidata.org/entity/Q574,East Timor
+3167,http://www.wikidata.org/entity/Q542678,Rustaq,http://www.wikidata.org/entity/Q842,Oman
+3168,http://www.wikidata.org/entity/Q1017120,Mendi,http://www.wikidata.org/entity/Q691,Papua New Guinea
+3171,http://www.wikidata.org/entity/Q269222,Buchanan,http://www.wikidata.org/entity/Q1014,Liberia
+3175,http://www.wikidata.org/entity/Q1015727,Mbale,http://www.wikidata.org/entity/Q1036,Uganda
+3177,http://www.wikidata.org/entity/Q3343338,Nondara,http://www.wikidata.org/entity/Q1008,Ivory Coast
+3178,http://www.wikidata.org/entity/Q271083,Åndalsnes,http://www.wikidata.org/entity/Q20,Norway
+3196,http://www.wikidata.org/entity/Q35178,Kuwait City,http://www.wikidata.org/entity/Q817,Kuwait
+3197,http://www.wikidata.org/entity/Q61092,Georgetown,http://www.wikidata.org/entity/Q833,Malaysia
+3211,http://www.wikidata.org/entity/Q61089,Malacca,http://www.wikidata.org/entity/Q833,Malaysia
+3212,http://www.wikidata.org/entity/Q35381,Colombo,http://www.wikidata.org/entity/Q854,Sri Lanka
+3215,http://www.wikidata.org/entity/Q3366952,Alta,http://www.wikidata.org/entity/Q20,Norway
+3227,http://www.wikidata.org/entity/Q1017673,Isa Town,http://www.wikidata.org/entity/Q398,Bahrain
+3228,http://www.wikidata.org/entity/Q1015891,Gabú,http://www.wikidata.org/entity/Q1007,Guinea-Bissau
+3239,http://www.wikidata.org/entity/Q3358051,Oued Zarga,http://www.wikidata.org/entity/Q948,Tunisia
+3256,http://www.wikidata.org/entity/Q1017430,Lorengau,http://www.wikidata.org/entity/Q691,Papua New Guinea
+3257,http://www.wikidata.org/entity/Q1017183,Erigavo,http://www.wikidata.org/entity/Q34754,Somaliland
+3258,http://www.wikidata.org/entity/Q3335220,Al Nairyah,http://www.wikidata.org/entity/Q851,Saudi Arabia
+3262,http://www.wikidata.org/entity/Q270500,البحرين,http://www.wikidata.org/entity/Q398,Bahrain
+3266,http://www.wikidata.org/entity/Q270535,Tkvarcheli,http://www.wikidata.org/entity/Q31354462,Republic of Abkhazia
+3267,http://www.wikidata.org/entity/Q34647,Johannesburg,http://www.wikidata.org/entity/Q258,South Africa
+3280,http://www.wikidata.org/entity/Q1017331,Westport,http://www.wikidata.org/entity/Q27,Republic of Ireland
+3281,http://www.wikidata.org/entity/Q1017358,Kavieng,http://www.wikidata.org/entity/Q691,Papua New Guinea
+3282,http://www.wikidata.org/entity/Q1017362,Mount Hagen,http://www.wikidata.org/entity/Q691,Papua New Guinea
+3290,http://www.wikidata.org/entity/Q36168,Bridgetown,http://www.wikidata.org/entity/Q244,Barbados
+3291,http://www.wikidata.org/entity/Q1018877,Vreed en Hoop,http://www.wikidata.org/entity/Q734,Guyana
+3292,http://www.wikidata.org/entity/Q1972938,Ruwa,http://www.wikidata.org/entity/Q954,Zimbabwe
+3296,http://www.wikidata.org/entity/Q1019120,Tajrish,http://www.wikidata.org/entity/Q794,Iran
+3311,http://www.wikidata.org/entity/Q3347804,O Smach,http://www.wikidata.org/entity/Q424,Cambodia
+3312,http://www.wikidata.org/entity/Q1018872,Gleno,http://www.wikidata.org/entity/Q574,East Timor
+3326,http://www.wikidata.org/entity/Q36647,Cork,http://www.wikidata.org/entity/Q27,Republic of Ireland
+3346,http://www.wikidata.org/entity/Q1018524,Merak,http://www.wikidata.org/entity/Q252,Indonesia
+3348,http://www.wikidata.org/entity/Q1018584,Villa Nueva City,http://www.wikidata.org/entity/Q774,Guatemala
+3349,http://www.wikidata.org/entity/Q68144,Zug,http://www.wikidata.org/entity/Q39,Switzerland
+3352,http://www.wikidata.org/entity/Q1018092,Usulután,http://www.wikidata.org/entity/Q792,El Salvador
+3360,http://www.wikidata.org/entity/Q1018501,Lahad Datu,http://www.wikidata.org/entity/Q833,Malaysia
+3364,http://www.wikidata.org/entity/Q1018163,Myeik,http://www.wikidata.org/entity/Q836,Myanmar
+3372,http://www.wikidata.org/entity/Q36260,Apia,http://www.wikidata.org/entity/Q683,Samoa
+3373,http://www.wikidata.org/entity/Q1018201,Norak,http://www.wikidata.org/entity/Q863,Tajikistan
+3374,http://www.wikidata.org/entity/Q2009853,Petit-Goâve,http://www.wikidata.org/entity/Q790,Haiti
+3378,http://www.wikidata.org/entity/Q1018574,Aného,http://www.wikidata.org/entity/Q945,Togo
+3379,http://www.wikidata.org/entity/Q1018369,Corriverton,http://www.wikidata.org/entity/Q734,Guyana
+3390,http://www.wikidata.org/entity/Q1018116,Ruyigi,http://www.wikidata.org/entity/Q967,Burundi
+3400,http://www.wikidata.org/entity/Q1004686,Sandnessjøen,http://www.wikidata.org/entity/Q20,Norway
+3410,http://www.wikidata.org/entity/Q1003318,Quthing,http://www.wikidata.org/entity/Q1013,Lesotho
+3411,http://www.wikidata.org/entity/Q81137,Olomouc,http://www.wikidata.org/entity/Q213,Czech Republic
+3418,http://www.wikidata.org/entity/Q36281,Roseau,http://www.wikidata.org/entity/Q784,Dominica
+3421,http://www.wikidata.org/entity/Q1017971,Loikaw,http://www.wikidata.org/entity/Q836,Myanmar
+3422,http://www.wikidata.org/entity/Q1018167,Dawei,http://www.wikidata.org/entity/Q836,Myanmar
+3427,http://www.wikidata.org/entity/Q37701,Bloemfontein,http://www.wikidata.org/entity/Q258,South Africa
+3436,http://www.wikidata.org/entity/Q79863,Tskhinvali,http://www.wikidata.org/entity/Q23427,South Ossetia
+3440,http://www.wikidata.org/entity/Q1988320,Evinayong,http://www.wikidata.org/entity/Q983,Equatorial Guinea
+3441,http://www.wikidata.org/entity/Q37104,Alajuela,http://www.wikidata.org/entity/Q800,Costa Rica
+3442,http://www.wikidata.org/entity/Q2003711,Mariluz,http://www.wikidata.org/entity/Q155,Brazil
+3453,http://www.wikidata.org/entity/Q1002580,Koidu,http://www.wikidata.org/entity/Q1044,Sierra Leone
+3457,http://www.wikidata.org/entity/Q72571,Shoshong,http://www.wikidata.org/entity/Q963,Botswana
+3458,http://www.wikidata.org/entity/Q72818,Haiphong,http://www.wikidata.org/entity/Q881,Vietnam
+3464,http://www.wikidata.org/entity/Q79808,Constanța,http://www.wikidata.org/entity/Q218,Romania
+3465,http://www.wikidata.org/entity/Q2005381,Sadhora,http://www.wikidata.org/entity/Q212,Ukraine
+3476,http://www.wikidata.org/entity/Q1018701,Thakhek,http://www.wikidata.org/entity/Q819,Laos
+3477,http://www.wikidata.org/entity/Q2005381,Sadhora,http://www.wikidata.org/entity/Q15180,Soviet Union
+3479,http://www.wikidata.org/entity/Q2029702,Nhlangano,http://www.wikidata.org/entity/Q1050,Eswatini
+3480,http://www.wikidata.org/entity/Q2005381,Sadhora,http://www.wikidata.org/entity/Q28513,Austria-Hungary
+3482,http://www.wikidata.org/entity/Q1018693,Pasir Gudang,http://www.wikidata.org/entity/Q833,Malaysia
+3485,http://www.wikidata.org/entity/Q2022508,La Unión,http://www.wikidata.org/entity/Q739,Colombia
+3486,http://www.wikidata.org/entity/Q2005381,Sadhora,http://www.wikidata.org/entity/Q131964,Austrian Empire
+3487,http://www.wikidata.org/entity/Q2005381,Sadhora,http://www.wikidata.org/entity/Q203493,Kingdom of Romania
+3489,http://www.wikidata.org/entity/Q2005381,Sadhora,http://www.wikidata.org/entity/Q10957559,Principality of Moldavia
+3491,http://www.wikidata.org/entity/Q1771398,Riffa,http://www.wikidata.org/entity/Q398,Bahrain
+3502,http://www.wikidata.org/entity/Q36262,Saint John's,http://www.wikidata.org/entity/Q781,Antigua and Barbuda
+3518,http://www.wikidata.org/entity/Q2006076,Muyinga,http://www.wikidata.org/entity/Q967,Burundi
+3524,http://www.wikidata.org/entity/Q1002776,Carrickmacross,http://www.wikidata.org/entity/Q27,Republic of Ireland
+3529,http://www.wikidata.org/entity/Q81046,Charleroi,http://www.wikidata.org/entity/Q31,Belgium
+3530,http://www.wikidata.org/entity/Q1002823,Fomboni,http://www.wikidata.org/entity/Q970,Comoros
+3535,http://www.wikidata.org/entity/Q1002807,Cacheu,http://www.wikidata.org/entity/Q1007,Guinea-Bissau
+3564,http://www.wikidata.org/entity/Q81581,Szeged,http://www.wikidata.org/entity/Q28,Hungary
+3588,http://www.wikidata.org/entity/Q38855,Gabane,http://www.wikidata.org/entity/Q963,Botswana
+3589,http://www.wikidata.org/entity/Q38902,Thamaga,http://www.wikidata.org/entity/Q963,Botswana
+3591,http://www.wikidata.org/entity/Q36989,Pardubice,http://www.wikidata.org/entity/Q213,Czech Republic
+3598,http://www.wikidata.org/entity/Q38807,Suva,http://www.wikidata.org/entity/Q712,Fiji
+3599,http://www.wikidata.org/entity/Q1773148,Choluteca,http://www.wikidata.org/entity/Q783,Honduras
+3602,http://www.wikidata.org/entity/Q38834,Nuku'alofa,http://www.wikidata.org/entity/Q678,Tonga
+3603,http://www.wikidata.org/entity/Q37806,Port Vila,http://www.wikidata.org/entity/Q686,Vanuatu
+3608,http://www.wikidata.org/entity/Q39178,Port of Spain,http://www.wikidata.org/entity/Q754,Trinidad and Tobago
+3618,http://www.wikidata.org/entity/Q2020432,Bubanza,http://www.wikidata.org/entity/Q967,Burundi
+3629,http://www.wikidata.org/entity/Q83531,Bitlis,http://www.wikidata.org/entity/Q878818,Principality of Bitlis
+3645,http://www.wikidata.org/entity/Q39583,Birkirkara,http://www.wikidata.org/entity/Q233,Malta
+3663,http://www.wikidata.org/entity/Q82070,Tyre,http://www.wikidata.org/entity/Q822,Lebanon
+3685,http://www.wikidata.org/entity/Q184184,Nouadhibou,http://www.wikidata.org/entity/Q1025,Mauritania
+3686,http://www.wikidata.org/entity/Q842810,Smara,http://www.wikidata.org/entity/Q6250,Western Sahara
+3690,http://www.wikidata.org/entity/Q40811,Sukhumi,http://www.wikidata.org/entity/Q12560,Ottoman Empire
+3691,http://www.wikidata.org/entity/Q1801267,SoE,http://www.wikidata.org/entity/Q252,Indonesia
+3693,http://www.wikidata.org/entity/Q837035,Totonicapán,http://www.wikidata.org/entity/Q774,Guatemala
+3695,http://www.wikidata.org/entity/Q186935,Ahuachapán,http://www.wikidata.org/entity/Q792,El Salvador
+3696,http://www.wikidata.org/entity/Q40811,Sukhumi,http://www.wikidata.org/entity/Q34266,Russian Empire
+3698,http://www.wikidata.org/entity/Q40811,Sukhumi,http://www.wikidata.org/entity/Q154667,Kingdom of Georgia
+3701,http://www.wikidata.org/entity/Q40811,Sukhumi,http://www.wikidata.org/entity/Q139319,Russian Republic
+3707,http://www.wikidata.org/entity/Q40811,Sukhumi,http://www.wikidata.org/entity/Q325493,Kingdom of Abkhazia
+3708,http://www.wikidata.org/entity/Q40811,Sukhumi,http://www.wikidata.org/entity/Q330756,Transcaucasian Democratic Federative Republic
+3710,http://www.wikidata.org/entity/Q40811,Sukhumi,http://www.wikidata.org/entity/Q245160,Democratic Republic of Georgia
+3711,http://www.wikidata.org/entity/Q40811,Sukhumi,http://www.wikidata.org/entity/Q307041,Socialist Soviet Republic of Abkhazia
+3714,http://www.wikidata.org/entity/Q185689,Maros,http://www.wikidata.org/entity/Q252,Indonesia
+3716,http://www.wikidata.org/entity/Q40811,Sukhumi,http://www.wikidata.org/entity/Q545205,Transcaucasian Socialist Federative Soviet Republic
+3717,http://www.wikidata.org/entity/Q842810,Smara,http://www.wikidata.org/entity/Q689837,Spanish Sahara
+3722,http://www.wikidata.org/entity/Q40811,Sukhumi,http://www.wikidata.org/entity/Q1069959,Kingdom of Imereti
+3723,http://www.wikidata.org/entity/Q40811,Sukhumi,http://www.wikidata.org/entity/Q55659450,Socialist Soviet Republic Of Georgia
+3735,http://www.wikidata.org/entity/Q82500,St. Pölten,http://www.wikidata.org/entity/Q40,Austria
+3751,http://www.wikidata.org/entity/Q840962,Concepción,http://www.wikidata.org/entity/Q733,Paraguay
+3768,http://www.wikidata.org/entity/Q1818610,Lastoursville,http://www.wikidata.org/entity/Q1000,Gabon
+3781,http://www.wikidata.org/entity/Q838954,Sheberghan,http://www.wikidata.org/entity/Q889,Afghanistan
+3784,http://www.wikidata.org/entity/Q40811,Sukhumi,http://www.wikidata.org/entity/Q12544,Byzantine Empire
+3785,http://www.wikidata.org/entity/Q1883766,Magburaka,http://www.wikidata.org/entity/Q1044,Sierra Leone
+3794,http://www.wikidata.org/entity/Q3094251,Gades,http://www.wikidata.org/entity/Q41642,Phoenicia
+3795,http://www.wikidata.org/entity/Q1873660,Geok Tepe,http://www.wikidata.org/entity/Q874,Turkmenistan
+3799,http://www.wikidata.org/entity/Q188336,Safed,http://www.wikidata.org/entity/Q12560,Ottoman Empire
+3802,http://www.wikidata.org/entity/Q837807,Zhaoge,http://www.wikidata.org/entity/Q128938,Shang dynasty
+3803,http://www.wikidata.org/entity/Q837807,Zhaoge,http://www.wikidata.org/entity/Q1147897,Wey
+3804,http://www.wikidata.org/entity/Q188336,Safed,http://www.wikidata.org/entity/Q193714,Mandatory Palestine
+3807,http://www.wikidata.org/entity/Q845097,Sokodé,http://www.wikidata.org/entity/Q945,Togo
+3811,http://www.wikidata.org/entity/Q92237,Hsinking,http://www.wikidata.org/entity/Q30623,Manchukuo
+3824,http://www.wikidata.org/entity/Q844430,Phuket,http://www.wikidata.org/entity/Q869,Thailand
+3825,http://www.wikidata.org/entity/Q847691,Maniitsoq,http://www.wikidata.org/entity/Q223,Greenland
+3837,http://www.wikidata.org/entity/Q849292,Pedro Juan Caballero,http://www.wikidata.org/entity/Q733,Paraguay
+3839,http://www.wikidata.org/entity/Q844423,Teyateyaneng,http://www.wikidata.org/entity/Q1013,Lesotho
+3840,http://www.wikidata.org/entity/Q185280,Baia Mare,http://www.wikidata.org/entity/Q218,Romania
+3846,http://www.wikidata.org/entity/Q470445,Prostějov,http://www.wikidata.org/entity/Q213,Czech Republic
+3848,http://www.wikidata.org/entity/Q847668,Qeqertarsuaq,http://www.wikidata.org/entity/Q223,Greenland
+3849,http://www.wikidata.org/entity/Q842854,Ali Sabieh,http://www.wikidata.org/entity/Q977,Djibouti
+3867,http://www.wikidata.org/entity/Q3110404,Zoutpansberg,http://www.wikidata.org/entity/Q258,South Africa
+3874,http://www.wikidata.org/entity/Q40921,Honiara,http://www.wikidata.org/entity/Q685,Solomon Islands
+3879,http://www.wikidata.org/entity/Q3104850,Ghezala,http://www.wikidata.org/entity/Q948,Tunisia
+3883,http://www.wikidata.org/entity/Q3109029,Mitsamihuli,http://www.wikidata.org/entity/Q970,Comoros
+3888,http://www.wikidata.org/entity/Q3116519,Grenville,http://www.wikidata.org/entity/Q769,Grenada
+3897,http://www.wikidata.org/entity/Q3132397,Kago Kaju,http://www.wikidata.org/entity/Q958,South Sudan
+3906,http://www.wikidata.org/entity/Q855330,Donegal,http://www.wikidata.org/entity/Q27,Republic of Ireland
+3907,http://www.wikidata.org/entity/Q3148695,Illaga,http://www.wikidata.org/entity/Q252,Indonesia
+3912,http://www.wikidata.org/entity/Q478031,Batken,http://www.wikidata.org/entity/Q813,Kyrgyzstan
+3916,http://www.wikidata.org/entity/Q854333,Tokmok,http://www.wikidata.org/entity/Q813,Kyrgyzstan
+3918,http://www.wikidata.org/entity/Q483522,Villach,http://www.wikidata.org/entity/Q40,Austria
+3922,http://www.wikidata.org/entity/Q189546,Bizerte,http://www.wikidata.org/entity/Q948,Tunisia
+3926,http://www.wikidata.org/entity/Q165413,Baikonur,http://www.wikidata.org/entity/Q159,Russia
+3930,http://www.wikidata.org/entity/Q3077739,Fort Lamy,http://www.wikidata.org/entity/Q210682,French West Africa
+3933,http://www.wikidata.org/entity/Q845266,Yanjing,http://www.wikidata.org/entity/Q1055713,Yan
+3941,http://www.wikidata.org/entity/Q41295,Basseterre,http://www.wikidata.org/entity/Q763,Saint Kitts and Nevis
+3945,http://www.wikidata.org/entity/Q189685,Abomey,http://www.wikidata.org/entity/Q962,Benin
+3949,http://www.wikidata.org/entity/Q41278,Ulsan,http://www.wikidata.org/entity/Q884,South Korea
+3950,http://www.wikidata.org/entity/Q42751,Palikir,http://www.wikidata.org/entity/Q702,Federated States of Micronesia
+3951,http://www.wikidata.org/entity/Q476688,Lebedyn,http://www.wikidata.org/entity/Q212,Ukraine
+3955,http://www.wikidata.org/entity/Q42117,Ansan,http://www.wikidata.org/entity/Q884,South Korea
+3956,http://www.wikidata.org/entity/Q42120,Anyang,http://www.wikidata.org/entity/Q884,South Korea
+3963,http://www.wikidata.org/entity/Q3173182,Notsé,http://www.wikidata.org/entity/Q945,Togo
+3967,http://www.wikidata.org/entity/Q3191685,Kabuga,http://www.wikidata.org/entity/Q1037,Rwanda
+3982,http://www.wikidata.org/entity/Q41474,Kingstown,http://www.wikidata.org/entity/Q757,Saint Vincent and the Grenadines
+3985,http://www.wikidata.org/entity/Q41547,St. George's,http://www.wikidata.org/entity/Q769,Grenada
+3992,http://www.wikidata.org/entity/Q42146,Cheonan,http://www.wikidata.org/entity/Q884,South Korea
+3993,http://www.wikidata.org/entity/Q42160,Hwaseong,http://www.wikidata.org/entity/Q884,South Korea
+3995,http://www.wikidata.org/entity/Q855634,Serowe,http://www.wikidata.org/entity/Q963,Botswana
+3997,http://www.wikidata.org/entity/Q474651,Gjakova,http://www.wikidata.org/entity/Q1246,Kosovo
+4002,http://www.wikidata.org/entity/Q855717,Sisophon,http://www.wikidata.org/entity/Q424,Cambodia
+4005,http://www.wikidata.org/entity/Q852698,Bádonfa,http://www.wikidata.org/entity/Q28,Hungary
+4006,http://www.wikidata.org/entity/Q3130855,Puerto Armuelles,http://www.wikidata.org/entity/Q804,Panama
+4009,http://www.wikidata.org/entity/Q852550,Gonaïves,http://www.wikidata.org/entity/Q790,Haiti
+4010,http://www.wikidata.org/entity/Q477152,Sarai,http://www.wikidata.org/entity/Q79965,Golden Horde
+4020,http://www.wikidata.org/entity/Q167551,Gitega,http://www.wikidata.org/entity/Q967,Burundi
+4021,http://www.wikidata.org/entity/Q188894,Kütahya,http://www.wikidata.org/entity/Q12560,Ottoman Empire
+4028,http://www.wikidata.org/entity/Q165988,Bobonong,http://www.wikidata.org/entity/Q963,Botswana
+4029,http://www.wikidata.org/entity/Q165422,Francistown,http://www.wikidata.org/entity/Q963,Botswana
+4052,http://www.wikidata.org/entity/Q167301,Letlhakane,http://www.wikidata.org/entity/Q963,Botswana
+4059,http://www.wikidata.org/entity/Q856662,Lautoka,http://www.wikidata.org/entity/Q712,Fiji
+4064,http://www.wikidata.org/entity/Q856162,Phuntsholing,http://www.wikidata.org/entity/Q917,Bhutan
+4067,http://www.wikidata.org/entity/Q190113,Tongeren,http://www.wikidata.org/entity/Q31,Belgium
+4071,http://www.wikidata.org/entity/Q166427,Al-Buraimi,http://www.wikidata.org/entity/Q842,Oman
+4080,http://www.wikidata.org/entity/Q467501,Khorugh,http://www.wikidata.org/entity/Q863,Tajikistan
+4081,http://www.wikidata.org/entity/Q489776,Porto Inglês,http://www.wikidata.org/entity/Q1011,Cape Verde
+4097,http://www.wikidata.org/entity/Q3135733,Mitzic,http://www.wikidata.org/entity/Q1000,Gabon
+4109,http://www.wikidata.org/entity/Q858120,Caaguazú District,http://www.wikidata.org/entity/Q733,Paraguay
+4110,http://www.wikidata.org/entity/Q191718,Berbera,http://www.wikidata.org/entity/Q34754,Somaliland
+4112,http://www.wikidata.org/entity/Q42763,Santiago de los Caballeros,http://www.wikidata.org/entity/Q786,Dominican Republic
+4114,http://www.wikidata.org/entity/Q41699,Castries,http://www.wikidata.org/entity/Q760,Saint Lucia
+4128,http://www.wikidata.org/entity/Q190165,Luang Prabang,http://www.wikidata.org/entity/Q819,Laos
+4134,http://www.wikidata.org/entity/Q859319,Ghanzi,http://www.wikidata.org/entity/Q963,Botswana
+4135,http://www.wikidata.org/entity/Q487672,Daşoguz,http://www.wikidata.org/entity/Q874,Turkmenistan
+4136,http://www.wikidata.org/entity/Q487684,Türkmenabat,http://www.wikidata.org/entity/Q874,Turkmenistan
+4140,http://www.wikidata.org/entity/Q857612,Calvar,http://www.wikidata.org/entity/Q5406,Hittites
+4149,http://www.wikidata.org/entity/Q168824,Kandé,http://www.wikidata.org/entity/Q945,Togo
+4153,http://www.wikidata.org/entity/Q129610,Galway,http://www.wikidata.org/entity/Q27,Republic of Ireland
+4162,http://www.wikidata.org/entity/Q488052,Olivenza,http://www.wikidata.org/entity/Q45,Portugal
+4175,http://www.wikidata.org/entity/Q487689,Jalal-Abad,http://www.wikidata.org/entity/Q813,Kyrgyzstan
+4178,http://www.wikidata.org/entity/Q598658,Tangalle,http://www.wikidata.org/entity/Q854,Sri Lanka
+4186,http://www.wikidata.org/entity/Q593652,Borj Cédria,http://www.wikidata.org/entity/Q948,Tunisia
+4189,http://www.wikidata.org/entity/Q599897,Boujdour,http://www.wikidata.org/entity/Q6250,Western Sahara
+4198,http://www.wikidata.org/entity/Q128147,Kingston upon Hull,http://www.wikidata.org/entity/Q179876,Kingdom of England
+4220,http://www.wikidata.org/entity/Q130212,Székesfehérvár,http://www.wikidata.org/entity/Q28,Hungary
+4223,http://www.wikidata.org/entity/Q168954,Tripoli,http://www.wikidata.org/entity/Q822,Lebanon
+4236,http://www.wikidata.org/entity/Q496442,Ekibastuz,http://www.wikidata.org/entity/Q34266,Russian Empire
+4256,http://www.wikidata.org/entity/Q192213,Holon,http://www.wikidata.org/entity/Q193714,Mandatory Palestine
+4261,http://www.wikidata.org/entity/Q605167,Potchefstroom,http://www.wikidata.org/entity/Q258,South Africa
+4270,http://www.wikidata.org/entity/Q131128,Braunau am Inn,http://www.wikidata.org/entity/Q40,Austria
+4279,http://www.wikidata.org/entity/Q131233,South Tarawa,http://www.wikidata.org/entity/Q710,Kiribati
+4286,http://www.wikidata.org/entity/Q129352,Stepanakert,http://www.wikidata.org/entity/Q244165,Republic of Artsakh
+4287,http://www.wikidata.org/entity/Q131323,Misrata,http://www.wikidata.org/entity/Q12560,Ottoman Empire
+4303,http://www.wikidata.org/entity/Q648567,Bokhtar,http://www.wikidata.org/entity/Q863,Tajikistan
+4304,http://www.wikidata.org/entity/Q648709,Tursunzoda,http://www.wikidata.org/entity/Q863,Tajikistan
+4305,http://www.wikidata.org/entity/Q192235,Ciudad del Este,http://www.wikidata.org/entity/Q733,Paraguay
+4318,http://www.wikidata.org/entity/Q1025577,Milford,http://www.wikidata.org/entity/Q27,Republic of Ireland
+4326,http://www.wikidata.org/entity/Q130238,Cap Malheureux,http://www.wikidata.org/entity/Q1027,Mauritius
+4334,http://www.wikidata.org/entity/Q490573,Assomada,http://www.wikidata.org/entity/Q1011,Cape Verde
+4335,http://www.wikidata.org/entity/Q490579,Pedra Badejo,http://www.wikidata.org/entity/Q1011,Cape Verde
+4352,http://www.wikidata.org/entity/Q491829,Qacha's Nek,http://www.wikidata.org/entity/Q1013,Lesotho
+4355,http://www.wikidata.org/entity/Q650018,Domburg,http://www.wikidata.org/entity/Q730,Suriname
+4360,http://www.wikidata.org/entity/Q170616,Chiba,http://www.wikidata.org/entity/Q17,Japan
+4369,http://www.wikidata.org/entity/Q131243,Oranjestad,http://www.wikidata.org/entity/Q21203,Aruba
+4393,http://www.wikidata.org/entity/Q193250,Bulawayo,http://www.wikidata.org/entity/Q890120,Zimbabwe Rhodesia
+4400,http://www.wikidata.org/entity/Q495387,Masan,http://www.wikidata.org/entity/Q884,South Korea
+4407,http://www.wikidata.org/entity/Q654169,"Penonomé, Coclé",http://www.wikidata.org/entity/Q804,Panama
+4408,http://www.wikidata.org/entity/Q193250,Bulawayo,http://www.wikidata.org/entity/Q217169,Rhodesia
+4409,http://www.wikidata.org/entity/Q193250,Bulawayo,http://www.wikidata.org/entity/Q750583,Southern Rhodesia
+4410,http://www.wikidata.org/entity/Q495547,Mindelo,http://www.wikidata.org/entity/Q1011,Cape Verde
+4417,http://www.wikidata.org/entity/Q655771,Hisar,http://www.wikidata.org/entity/Q863,Tajikistan
+4418,http://www.wikidata.org/entity/Q495730,Manzini,http://www.wikidata.org/entity/Q1050,Eswatini
+4423,http://www.wikidata.org/entity/Q170919,Pattaya,http://www.wikidata.org/entity/Q869,Thailand
+4440,http://www.wikidata.org/entity/Q657763,Chitré,http://www.wikidata.org/entity/Q804,Panama
+4454,http://www.wikidata.org/entity/Q132189,Saint-Marc,http://www.wikidata.org/entity/Q790,Haiti
+4455,http://www.wikidata.org/entity/Q134121,Namur,http://www.wikidata.org/entity/Q31,Belgium
+4487,http://www.wikidata.org/entity/Q691016,Mutsamudu,http://www.wikidata.org/entity/Q970,Comoros
+4488,http://www.wikidata.org/entity/Q193478,Buda,http://www.wikidata.org/entity/Q28,Hungary
+4505,http://www.wikidata.org/entity/Q132679,Willemstad,http://www.wikidata.org/entity/Q25279,Curaçao
+4541,http://www.wikidata.org/entity/Q696193,Ecbatana,http://www.wikidata.org/entity/Q794,Iran
+4546,http://www.wikidata.org/entity/Q199500,Gyumri,http://www.wikidata.org/entity/Q399,Armenia
+4549,http://www.wikidata.org/entity/Q195215,Changhua City,http://www.wikidata.org/entity/Q865,Taiwan
+4559,http://www.wikidata.org/entity/Q667576,Hua Hin,http://www.wikidata.org/entity/Q869,Thailand
+4570,http://www.wikidata.org/entity/Q668180,Muhanga,http://www.wikidata.org/entity/Q1037,Rwanda
+4575,http://www.wikidata.org/entity/Q1026957,Muang Xay,http://www.wikidata.org/entity/Q819,Laos
+4581,http://www.wikidata.org/entity/Q713088,Aubange,http://www.wikidata.org/entity/Q31,Belgium
+4584,http://www.wikidata.org/entity/Q701651,Miaoli City,http://www.wikidata.org/entity/Q865,Taiwan
+4591,http://www.wikidata.org/entity/Q194452,Karakol,http://www.wikidata.org/entity/Q813,Kyrgyzstan
+4622,http://www.wikidata.org/entity/Q681999,San Francisco de Macorís,http://www.wikidata.org/entity/Q786,Dominican Republic
+4633,http://www.wikidata.org/entity/Q672458,San Miguel,http://www.wikidata.org/entity/Q792,El Salvador
+4634,http://www.wikidata.org/entity/Q677300,San Pedro Town,http://www.wikidata.org/entity/Q242,Belize
+4636,http://www.wikidata.org/entity/Q705884,عرتا,http://www.wikidata.org/entity/Q977,Djibouti
+4637,http://www.wikidata.org/entity/Q713381,Taitung City,http://www.wikidata.org/entity/Q865,Taiwan
+4657,http://www.wikidata.org/entity/Q717399,Strzelce Krajeńskie,http://www.wikidata.org/entity/Q7318,Nazi Germany
+4659,http://www.wikidata.org/entity/Q717399,Strzelce Krajeńskie,http://www.wikidata.org/entity/Q41304,Weimar Republic
+4662,http://www.wikidata.org/entity/Q717399,Strzelce Krajeńskie,http://www.wikidata.org/entity/Q43287,German Empire
+4664,http://www.wikidata.org/entity/Q135983,Salto del Guairá,http://www.wikidata.org/entity/Q733,Paraguay
+4665,http://www.wikidata.org/entity/Q135993,San Pedro de Ycuamandiyú,http://www.wikidata.org/entity/Q733,Paraguay
+4703,http://www.wikidata.org/entity/Q679169,Comayagua,http://www.wikidata.org/entity/Q783,Honduras
+4711,http://www.wikidata.org/entity/Q664550,Maradi,http://www.wikidata.org/entity/Q1032,Niger
+4714,http://www.wikidata.org/entity/Q680596,San Pedro de Macorís,http://www.wikidata.org/entity/Q786,Dominican Republic
+4719,http://www.wikidata.org/entity/Q770184,Quartier-Militaire,http://www.wikidata.org/entity/Q1027,Mauritius
+4766,http://www.wikidata.org/entity/Q685509,Santiago de Veraguas,http://www.wikidata.org/entity/Q804,Panama
+4777,http://www.wikidata.org/entity/Q763770,Kamenica,http://www.wikidata.org/entity/Q1246,Kosovo
+4804,http://www.wikidata.org/entity/Q139248,Zacatecoluca,http://www.wikidata.org/entity/Q792,El Salvador
+4810,http://www.wikidata.org/entity/Q717371,Ban Houayxay,http://www.wikidata.org/entity/Q819,Laos
+4822,http://www.wikidata.org/entity/Q145002,Trenčín,http://www.wikidata.org/entity/Q214,Slovakia
+4861,http://www.wikidata.org/entity/Q979980,Socorro (Santander ),http://www.wikidata.org/entity/Q739,Colombia
+4866,http://www.wikidata.org/entity/Q722827,Sikasso,http://www.wikidata.org/entity/Q912,Mali
+4871,http://www.wikidata.org/entity/Q777028,Thaba-Tseka,http://www.wikidata.org/entity/Q1013,Lesotho
+4882,http://www.wikidata.org/entity/Q980895,Mbini,http://www.wikidata.org/entity/Q983,Equatorial Guinea
+4884,http://www.wikidata.org/entity/Q730806,Bongoville,http://www.wikidata.org/entity/Q1000,Gabon
+4891,http://www.wikidata.org/entity/Q1054191,Centre de Flacq,http://www.wikidata.org/entity/Q1027,Mauritius
+4897,http://www.wikidata.org/entity/Q985548,Luba,http://www.wikidata.org/entity/Q983,Equatorial Guinea
+4899,http://www.wikidata.org/entity/Q729978,Mediolanum,http://www.wikidata.org/entity/Q1747689,Ancient Rome
+4902,http://www.wikidata.org/entity/Q985614,Koulamoutou,http://www.wikidata.org/entity/Q1000,Gabon
+4904,http://www.wikidata.org/entity/Q25491022,Gerasa,http://www.wikidata.org/entity/Q1003997,Judaea
+4914,http://www.wikidata.org/entity/Q724815,San Ignacio,http://www.wikidata.org/entity/Q242,Belize
+4920,http://www.wikidata.org/entity/Q774405,La Chorrera,http://www.wikidata.org/entity/Q804,Panama
+4928,http://www.wikidata.org/entity/Q723246,Santa Tecla,http://www.wikidata.org/entity/Q792,El Salvador
+4934,http://www.wikidata.org/entity/Q986207,Carrefour,http://www.wikidata.org/entity/Q790,Haiti
+4935,http://www.wikidata.org/entity/Q773764,Juticalpa,http://www.wikidata.org/entity/Q783,Honduras
+4952,http://www.wikidata.org/entity/Q144845,Dazaifu,http://www.wikidata.org/entity/Q17,Japan
+4971,http://www.wikidata.org/entity/Q734284,Remich,http://www.wikidata.org/entity/Q32,Luxembourg
+4976,http://www.wikidata.org/entity/Q792509,Axim,http://www.wikidata.org/entity/Q117,Ghana
+4999,http://www.wikidata.org/entity/Q145764,Selat Panjang,http://www.wikidata.org/entity/Q252,Indonesia
+5039,http://www.wikidata.org/entity/Q992247,Bururi,http://www.wikidata.org/entity/Q967,Burundi
+5065,http://www.wikidata.org/entity/Q2305839,Kayanza,http://www.wikidata.org/entity/Q967,Burundi
+5067,http://www.wikidata.org/entity/Q799788,Bafatá,http://www.wikidata.org/entity/Q1007,Guinea-Bissau
+5103,http://www.wikidata.org/entity/Q3414795,Qurayyat,http://www.wikidata.org/entity/Q842,Oman
+5106,http://www.wikidata.org/entity/Q2344474,Sainyabuli,http://www.wikidata.org/entity/Q819,Laos
+5108,http://www.wikidata.org/entity/Q791685,"Aweil, South Sudan",http://www.wikidata.org/entity/Q958,South Sudan
+5111,http://www.wikidata.org/entity/Q27530903,Altona,http://www.wikidata.org/entity/Q7318,Nazi Germany
+5125,http://www.wikidata.org/entity/Q27530903,Altona,http://www.wikidata.org/entity/Q12548,Holy Roman Empire
+5135,http://www.wikidata.org/entity/Q27530903,Altona,http://www.wikidata.org/entity/Q41304,Weimar Republic
+5139,http://www.wikidata.org/entity/Q27530903,Altona,http://www.wikidata.org/entity/Q43287,German Empire
+5142,http://www.wikidata.org/entity/Q27530903,Altona,http://www.wikidata.org/entity/Q151624,German Confederation
+5150,http://www.wikidata.org/entity/Q27530903,Altona,http://www.wikidata.org/entity/Q150981,North German Confederation
+5154,http://www.wikidata.org/entity/Q208715,Monastir,http://www.wikidata.org/entity/Q948,Tunisia
+5166,http://www.wikidata.org/entity/Q799794,Bafoulabé,http://www.wikidata.org/entity/Q912,Mali
+5203,http://www.wikidata.org/entity/Q28220931,Balta,http://www.wikidata.org/entity/Q948,Tunisia
+5226,http://www.wikidata.org/entity/Q3464234,Sainte-Croix,http://www.wikidata.org/entity/Q1027,Mauritius
+5228,http://www.wikidata.org/entity/Q7278471,Raba,http://www.wikidata.org/entity/Q252,Indonesia
+5254,http://www.wikidata.org/entity/Q7449126,Semarapura,http://www.wikidata.org/entity/Q252,Indonesia
+5271,http://www.wikidata.org/entity/Q3483194,Sidi Bennour (Tunisia),http://www.wikidata.org/entity/Q948,Tunisia
+5304,http://www.wikidata.org/entity/Q3505782,Salmiya,http://www.wikidata.org/entity/Q817,Kuwait
+5314,http://www.wikidata.org/entity/Q2335680,Sensuntepeque,http://www.wikidata.org/entity/Q792,El Salvador
+5322,http://www.wikidata.org/entity/Q992173,Trujillo,http://www.wikidata.org/entity/Q783,Honduras
+5324,http://www.wikidata.org/entity/Q992154,Grand Baie,http://www.wikidata.org/entity/Q1027,Mauritius
+5327,http://www.wikidata.org/entity/Q14203238,Bailey Town,http://www.wikidata.org/entity/Q778,The Bahamas
+5328,http://www.wikidata.org/entity/Q14207530,Deep Creek,http://www.wikidata.org/entity/Q778,The Bahamas
+5335,http://www.wikidata.org/entity/Q14206889,Coolidge,http://www.wikidata.org/entity/Q781,Antigua and Barbuda
+5339,http://www.wikidata.org/entity/Q2357934,Kerki,http://www.wikidata.org/entity/Q746558,Emirate of Bukhara
+5341,http://www.wikidata.org/entity/Q12825018,Colón City,http://www.wikidata.org/entity/Q804,Panama
+5344,http://www.wikidata.org/entity/Q3556823,Santiago,http://www.wikidata.org/entity/Q800,Costa Rica
+5345,http://www.wikidata.org/entity/Q1649287,Tsiroanomandidy,http://www.wikidata.org/entity/Q1019,Madagascar
+5355,http://www.wikidata.org/entity/Q2378079,Acalayong,http://www.wikidata.org/entity/Q983,Equatorial Guinea
+5356,http://www.wikidata.org/entity/Q3574797,Zaouiet Sousse,http://www.wikidata.org/entity/Q948,Tunisia
+5361,http://www.wikidata.org/entity/Q3557909,Tremetousia,http://www.wikidata.org/entity/Q23681,Turkish Republic of Northern Cyprus
+5362,http://www.wikidata.org/entity/Q688539,Rapperswil,http://www.wikidata.org/entity/Q39,Switzerland
+5371,http://www.wikidata.org/entity/Q13957085,São Filipe,http://www.wikidata.org/entity/Q1011,Cape Verde
+5372,http://www.wikidata.org/entity/Q2360265,Xianyang,http://www.wikidata.org/entity/Q34756,Qin
+5384,http://www.wikidata.org/entity/Q12828789,Nukat,http://www.wikidata.org/entity/Q4453007,Tashkent Khanate
+5392,http://www.wikidata.org/entity/Q14214454,Lowlands,http://www.wikidata.org/entity/Q754,Trinidad and Tobago
+5395,http://www.wikidata.org/entity/Q2558868,Arimathea,http://www.wikidata.org/entity/Q2277,Roman Empire
+5401,http://www.wikidata.org/entity/Q2357510,Harbour Island,http://www.wikidata.org/entity/Q778,The Bahamas
+5404,http://www.wikidata.org/entity/Q3607447,Al-Khaburah,http://www.wikidata.org/entity/Q842,Oman
+5408,http://www.wikidata.org/entity/Q1102993,Simunye,http://www.wikidata.org/entity/Q1050,Eswatini
+5421,http://www.wikidata.org/entity/Q1057594,River Cess,http://www.wikidata.org/entity/Q1014,Liberia
+5423,http://www.wikidata.org/entity/Q3528033,Tianjing,http://www.wikidata.org/entity/Q3486676,Taiping Heavenly Kingdom
+5457,http://www.wikidata.org/entity/Q2560293,Mhlume,http://www.wikidata.org/entity/Q1050,Eswatini
+5459,http://www.wikidata.org/entity/Q18654954,Usine Gustave Boël,http://www.wikidata.org/entity/Q31,Belgium
+5462,http://www.wikidata.org/entity/Q7960673,Waiwerang,http://www.wikidata.org/entity/Q252,Indonesia
+5473,http://www.wikidata.org/entity/Q2360265,Xianyang,http://www.wikidata.org/entity/Q7183,Qin dynasty
+5476,http://www.wikidata.org/entity/Q12845287,Rəzi,http://www.wikidata.org/entity/Q794,Iran
+5490,http://www.wikidata.org/entity/Q3544851,Natá de los Caballeros,http://www.wikidata.org/entity/Q804,Panama
+5499,http://www.wikidata.org/entity/Q8073157,Zoan,http://www.wikidata.org/entity/Q11768,Ancient Egypt
+5500,http://www.wikidata.org/entity/Q12877252,Epiphaneia in Bithynia,http://www.wikidata.org/entity/Q1747689,Ancient Rome
+5503,http://www.wikidata.org/entity/Q8536073,Azimuntium,http://www.wikidata.org/entity/Q1747689,Ancient Rome
+5504,http://www.wikidata.org/entity/Q9092331,Valentia Edetanorum,http://www.wikidata.org/entity/Q1747689,Ancient Rome
+5506,http://www.wikidata.org/entity/Q7925281,Vicina,http://www.wikidata.org/entity/Q12544,Byzantine Empire
+5509,http://www.wikidata.org/entity/Q7967865,Wanggeom-seong,http://www.wikidata.org/entity/Q28405,Gojoseon
+5512,http://www.wikidata.org/entity/Q12609184,Uljin-eup,http://www.wikidata.org/entity/Q884,South Korea
+5518,http://www.wikidata.org/entity/Q1076707,"Beyla, Guinea",http://www.wikidata.org/entity/Q1006,Guinea
+5524,http://www.wikidata.org/entity/Q12634651,Koki,http://www.wikidata.org/entity/Q970,Comoros
+5550,http://www.wikidata.org/entity/Q19900870,Graethem,http://www.wikidata.org/entity/Q31,Belgium
+5562,http://www.wikidata.org/entity/Q10378793,Teaoraereke,http://www.wikidata.org/entity/Q710,Kiribati
+5603,http://www.wikidata.org/entity/Q10382434,Tifsa,http://www.wikidata.org/entity/Q3185305,Kingdom of Israel
+5622,http://www.wikidata.org/entity/Q13094637,Lebak,http://www.wikidata.org/entity/Q252,Indonesia
+5627,http://www.wikidata.org/entity/Q1368576,Mansôa,http://www.wikidata.org/entity/Q1007,Guinea-Bissau
+5636,http://www.wikidata.org/entity/Q2565407,Cojutepeque,http://www.wikidata.org/entity/Q792,El Salvador
+5652,http://www.wikidata.org/entity/Q13139122,Hajiabad,http://www.wikidata.org/entity/Q794,Iran
+5672,http://www.wikidata.org/entity/Q1098057,Thuận An,http://www.wikidata.org/entity/Q881,Vietnam
+5678,http://www.wikidata.org/entity/Q2566827,Dogbo-Tota,http://www.wikidata.org/entity/Q962,Benin
+5685,http://www.wikidata.org/entity/Q1100799,Minvoul,http://www.wikidata.org/entity/Q1000,Gabon
+5687,http://www.wikidata.org/entity/Q1100303,Siguiri,http://www.wikidata.org/entity/Q1006,Guinea
+5688,http://www.wikidata.org/entity/Q1100543,Dabola,http://www.wikidata.org/entity/Q1006,Guinea
+5722,http://www.wikidata.org/entity/Q1096108,Kutha,http://www.wikidata.org/entity/Q47690,Babylonia
+5723,http://www.wikidata.org/entity/Q1294439,Salalah,http://www.wikidata.org/entity/Q842,Oman
+5747,http://www.wikidata.org/entity/Q2568887,Arraba,http://www.wikidata.org/entity/Q23792,Palestine
+5781,http://www.wikidata.org/entity/Q2375936,Christiania/Kristiania,http://www.wikidata.org/entity/Q62589,Union between Sweden and Norway
+5782,http://www.wikidata.org/entity/Q7697381,Tell Ashtara,http://www.wikidata.org/entity/Q163329,Canaan
+5793,http://www.wikidata.org/entity/Q1329990,Lapathus,http://www.wikidata.org/entity/Q229,Cyprus
+5822,http://www.wikidata.org/entity/Q1106169,Fougamou,http://www.wikidata.org/entity/Q1000,Gabon
+5841,http://www.wikidata.org/entity/Q9712078,Caucaia do Alto,http://www.wikidata.org/entity/Q155,Brazil
+5846,http://www.wikidata.org/entity/Q2582611,Mongar,http://www.wikidata.org/entity/Q917,Bhutan
+5850,http://www.wikidata.org/entity/Q1115195,Bakoumba,http://www.wikidata.org/entity/Q1000,Gabon
+5852,http://www.wikidata.org/entity/Q1318022,Canchungo,http://www.wikidata.org/entity/Q1007,Guinea-Bissau
+5854,http://www.wikidata.org/entity/Q1358885,Kissidougou,http://www.wikidata.org/entity/Q1006,Guinea
+5856,http://www.wikidata.org/entity/Q10306899,Jibeil,http://www.wikidata.org/entity/Q822,Lebanon
+5865,http://www.wikidata.org/entity/Q10054424,Fengtian Fu,http://www.wikidata.org/entity/Q8733,Qing dynasty
+5866,http://www.wikidata.org/entity/Q9560982,Abkua,http://www.wikidata.org/entity/Q1475713,Sennar Sultanate
+5868,http://www.wikidata.org/entity/Q9560053,Abala,http://www.wikidata.org/entity/Q207521,Ethiopian Empire
+5869,http://www.wikidata.org/entity/Q9295498,Hypaipa,http://www.wikidata.org/entity/Q620765,Lydia
+5872,http://www.wikidata.org/entity/Q211318,Pitsunda,http://www.wikidata.org/entity/Q31354462,Republic of Abkhazia
+5889,http://www.wikidata.org/entity/Q1302971,Gundeshapur,http://www.wikidata.org/entity/Q794,Iran
+5903,http://www.wikidata.org/entity/Q1318103,Sauteurs,http://www.wikidata.org/entity/Q769,Grenada
+5912,http://www.wikidata.org/entity/Q1321311,Île Sainte-Marie,http://www.wikidata.org/entity/Q1019,Madagascar
+5933,http://www.wikidata.org/entity/Q2088687,Hamad Town,http://www.wikidata.org/entity/Q398,Bahrain
+5940,http://www.wikidata.org/entity/Q2630835,Layou,http://www.wikidata.org/entity/Q757,Saint Vincent and the Grenadines
+5943,http://www.wikidata.org/entity/Q2629026,Koro,http://www.wikidata.org/entity/Q912,Mali
+5956,http://www.wikidata.org/entity/Q2087489,Cotuí,http://www.wikidata.org/entity/Q786,Dominican Republic
+5976,http://www.wikidata.org/entity/Q1149819,Trashigang,http://www.wikidata.org/entity/Q917,Bhutan
+6023,http://www.wikidata.org/entity/Q2049431,Pangkham,http://www.wikidata.org/entity/Q2306303,Wa State
+6024,http://www.wikidata.org/entity/Q211970,Entebbe,http://www.wikidata.org/entity/Q1036,Uganda
+6025,http://www.wikidata.org/entity/Q42316051,Baala,http://www.wikidata.org/entity/Q1006,Guinea
+6058,http://www.wikidata.org/entity/Q2113430,Protaras,http://www.wikidata.org/entity/Q229,Cyprus
+6068,http://www.wikidata.org/entity/Q1374967,Euroea in Phoenicia,http://www.wikidata.org/entity/Q1747689,Ancient Rome
+6070,http://www.wikidata.org/entity/Q21760204,Wavre,http://www.wikidata.org/entity/Q31,Belgium
+6080,http://www.wikidata.org/entity/Q56077649,Piracicaba,http://www.wikidata.org/entity/Q155,Brazil
+6086,http://www.wikidata.org/entity/Q2078085,Fălești,http://www.wikidata.org/entity/Q203493,Kingdom of Romania
+6087,http://www.wikidata.org/entity/Q2078085,Fălești,http://www.wikidata.org/entity/Q964024,Moldavian Democratic Republic
+6088,http://www.wikidata.org/entity/Q2078085,Fălești,http://www.wikidata.org/entity/Q10957559,Principality of Moldavia
+6093,http://www.wikidata.org/entity/Q12218533,East Hidd City,http://www.wikidata.org/entity/Q398,Bahrain
+6139,http://www.wikidata.org/entity/Q48880737,Nanjing,http://www.wikidata.org/entity/Q9903,Ming dynasty
+6142,http://www.wikidata.org/entity/Q20966341,Ettelbruck,http://www.wikidata.org/entity/Q32,Luxembourg
+6143,http://www.wikidata.org/entity/Q20969217,Vianden,http://www.wikidata.org/entity/Q32,Luxembourg
+6144,http://www.wikidata.org/entity/Q20969331,Dudelange,http://www.wikidata.org/entity/Q32,Luxembourg
+6146,http://www.wikidata.org/entity/Q46451010,Tientsin,http://www.wikidata.org/entity/Q13426199,Republic of China
+6172,http://www.wikidata.org/entity/Q20976571,Adabokrom,http://www.wikidata.org/entity/Q117,Ghana
+6173,http://www.wikidata.org/entity/Q20976908,Mpohor,http://www.wikidata.org/entity/Q117,Ghana
+6225,http://www.wikidata.org/entity/Q1441919,San Jacinto,http://www.wikidata.org/entity/Q739,Colombia
+6229,http://www.wikidata.org/entity/Q4132923,Grevenmacher,http://www.wikidata.org/entity/Q32,Luxembourg
+6233,http://www.wikidata.org/entity/Q10480578,Ekenäs,http://www.wikidata.org/entity/Q34,Sweden
+6234,http://www.wikidata.org/entity/Q1444575,Chaguanas,http://www.wikidata.org/entity/Q754,Trinidad and Tobago
+6277,http://www.wikidata.org/entity/Q98381550,Enoch,http://www.wikidata.org/entity/Q1929769,Land of Nod
+6282,http://www.wikidata.org/entity/Q12256462,Eburoi,http://www.wikidata.org/entity/Q2277,Roman Empire
+6315,http://www.wikidata.org/entity/Q22018317,Monteiro,http://www.wikidata.org/entity/Q155,Brazil
+6316,http://www.wikidata.org/entity/Q22020210,Floriano,http://www.wikidata.org/entity/Q155,Brazil
+6317,http://www.wikidata.org/entity/Q22038711,Osório,http://www.wikidata.org/entity/Q155,Brazil
+6318,http://www.wikidata.org/entity/Q22042365,Ibiraçu,http://www.wikidata.org/entity/Q155,Brazil
+6325,http://www.wikidata.org/entity/Q11904142,Ad Salices,http://www.wikidata.org/entity/Q219,Bulgaria
+6334,http://www.wikidata.org/entity/Q11792967,Norsup,http://www.wikidata.org/entity/Q686,Vanuatu
+6349,http://www.wikidata.org/entity/Q11904209,Hadrianopolis,http://www.wikidata.org/entity/Q1747689,Ancient Rome
+6350,http://www.wikidata.org/entity/Q11907308,Ausa,http://www.wikidata.org/entity/Q1747689,Ancient Rome
+6351,http://www.wikidata.org/entity/Q11445500,Mukden,http://www.wikidata.org/entity/Q30623,Manchukuo
+6362,http://www.wikidata.org/entity/Q51338366,Kabara,http://www.wikidata.org/entity/Q912,Mali
+6408,http://www.wikidata.org/entity/Q5905318,Hunza,http://www.wikidata.org/entity/Q739,Colombia
+6423,http://www.wikidata.org/entity/Q12489692,Karta,http://www.wikidata.org/entity/Q402145,Mataram Sultanate
+6424,http://www.wikidata.org/entity/Q2126436,Ras al-Khaimah,http://www.wikidata.org/entity/Q878,United Arab Emirates
+6432,http://www.wikidata.org/entity/Q23017954,Pea,http://www.wikidata.org/entity/Q678,Tonga
+6435,http://www.wikidata.org/entity/Q2663949,Airai,http://www.wikidata.org/entity/Q695,Palau
+6441,http://www.wikidata.org/entity/Q21788742,Savé,http://www.wikidata.org/entity/Q962,Benin
+6459,http://www.wikidata.org/entity/Q22002188,Ambatofahavalo,http://www.wikidata.org/entity/Q1019,Madagascar
+6477,http://www.wikidata.org/entity/Q4681407,Addu City,http://www.wikidata.org/entity/Q826,Maldives
+6491,http://www.wikidata.org/entity/Q4312918,Liao Nanjing,http://www.wikidata.org/entity/Q4958,Liao dynasty
+6492,http://www.wikidata.org/entity/Q345204,Dakhla,http://www.wikidata.org/entity/Q6250,Western Sahara
+6498,http://www.wikidata.org/entity/Q10867816,"Shanghai Municipality, Republic of China",http://www.wikidata.org/entity/Q13426199,Republic of China
+6500,http://www.wikidata.org/entity/Q345204,Dakhla,http://www.wikidata.org/entity/Q689837,Spanish Sahara
+6546,http://www.wikidata.org/entity/Q21994179,Kasaka LCI,http://www.wikidata.org/entity/Q1036,Uganda
+6547,http://www.wikidata.org/entity/Q2141024,Soroti,http://www.wikidata.org/entity/Q1036,Uganda
+6563,http://www.wikidata.org/entity/Q11929668,Karkh,http://www.wikidata.org/entity/Q12536,Abbasid Caliphate
+6571,http://www.wikidata.org/entity/Q11926192,Hurna,http://www.wikidata.org/entity/Q13053139,Hittite Empire
+6572,http://www.wikidata.org/entity/Q21979688,Allenstein,http://www.wikidata.org/entity/Q38872,Prussia
+6618,http://www.wikidata.org/entity/Q374465,Mediaș,http://www.wikidata.org/entity/Q218,Romania
+6631,http://www.wikidata.org/entity/Q4167668,Hluti,http://www.wikidata.org/entity/Q1050,Eswatini
+6637,http://www.wikidata.org/entity/Q2708419,Krasnoye,http://www.wikidata.org/entity/Q907112,Transnistria
+6643,http://www.wikidata.org/entity/Q375507,Gouyave,http://www.wikidata.org/entity/Q769,Grenada
+6648,http://www.wikidata.org/entity/Q2708449,New Tiraspol,http://www.wikidata.org/entity/Q907112,Transnistria
+6653,http://www.wikidata.org/entity/Q11048692,Melut,http://www.wikidata.org/entity/Q958,South Sudan
+6668,http://www.wikidata.org/entity/Q11133430,Luoyang,http://www.wikidata.org/entity/Q1147037,Eastern Han
+6671,http://www.wikidata.org/entity/Q2718745,São Domingos,http://www.wikidata.org/entity/Q1011,Cape Verde
+6675,http://www.wikidata.org/entity/Q11133430,Luoyang,http://www.wikidata.org/entity/Q320930,Cao Wei
+6676,http://www.wikidata.org/entity/Q11133430,Luoyang,http://www.wikidata.org/entity/Q875305,Northern Wei
+6678,http://www.wikidata.org/entity/Q993076,Hlotse,http://www.wikidata.org/entity/Q1013,Lesotho
+6693,http://www.wikidata.org/entity/Q2699709,Hope Town,http://www.wikidata.org/entity/Q778,The Bahamas
+6705,http://www.wikidata.org/entity/Q105076326,Saigon,http://www.wikidata.org/entity/Q180573,Republic of Vietnam
+6708,http://www.wikidata.org/entity/Q4795376,Arnos Vale,http://www.wikidata.org/entity/Q757,Saint Vincent and the Grenadines
+6717,http://www.wikidata.org/entity/Q106510487,Bellamarin,http://www.wikidata.org/entity/Q582861,Marinid dynasty
+6727,http://www.wikidata.org/entity/Q12241857,Madinat Zayed,http://www.wikidata.org/entity/Q878,United Arab Emirates
+6736,http://www.wikidata.org/entity/Q22948561,Al Shamal,http://www.wikidata.org/entity/Q846,Qatar
+6747,http://www.wikidata.org/entity/Q4490010,Bohechío,http://www.wikidata.org/entity/Q786,Dominican Republic
+6760,http://www.wikidata.org/entity/Q104050371,Thành Phố Thủ Đức,http://www.wikidata.org/entity/Q881,Vietnam
+6763,http://www.wikidata.org/entity/Q2159862,Shahrbabak,http://www.wikidata.org/entity/Q794,Iran
+6771,http://www.wikidata.org/entity/Q4515514,Zhongdu,http://www.wikidata.org/entity/Q5066,Jin dynasty
+6793,http://www.wikidata.org/entity/Q2235493,Myronivka,http://www.wikidata.org/entity/Q212,Ukraine
+6802,http://www.wikidata.org/entity/Q100234030,"De Quincey, Mahé",http://www.wikidata.org/entity/Q1042,Seychelles
+6803,http://www.wikidata.org/entity/Q101186473,Khanbaliq,http://www.wikidata.org/entity/Q7313,Yuan dynasty
+6804,http://www.wikidata.org/entity/Q100707303,Washka,http://www.wikidata.org/entity/Q123559,al-Andalus
+6829,http://www.wikidata.org/entity/Q5994951,Iim,http://www.wikidata.org/entity/Q48685,Judah
+6830,http://www.wikidata.org/entity/Q6041307,Neuros,http://www.wikidata.org/entity/Q845909,Scythia
+6841,http://www.wikidata.org/entity/Q11942554,Praisos,http://www.wikidata.org/entity/Q4752820,Ancient Crete
+6847,http://www.wikidata.org/entity/Q2260811,Lilibaeum,http://www.wikidata.org/entity/Q2429397,Ancient Carthage
+6870,http://www.wikidata.org/entity/Q1471615,Ódorog,http://www.wikidata.org/entity/Q171150,Kingdom of Hungary
+6871,http://www.wikidata.org/entity/Q4120525,Al-Shahaniya,http://www.wikidata.org/entity/Q846,Qatar
+6881,http://www.wikidata.org/entity/Q2292609,Glodeni,http://www.wikidata.org/entity/Q203493,Kingdom of Romania
+6884,http://www.wikidata.org/entity/Q2292609,Glodeni,http://www.wikidata.org/entity/Q964024,Moldavian Democratic Republic
+6888,http://www.wikidata.org/entity/Q2292609,Glodeni,http://www.wikidata.org/entity/Q10957559,Principality of Moldavia
+6903,http://www.wikidata.org/entity/Q111190407,Kiev,http://www.wikidata.org/entity/Q212,Ukraine
+6910,http://www.wikidata.org/entity/Q108908310,Ainaro,http://www.wikidata.org/entity/Q574,East Timor
+6985,http://www.wikidata.org/entity/Q24573853,Ettal Village,http://www.wikidata.org/entity/Q702,Federated States of Micronesia
+7013,http://www.wikidata.org/entity/Q114554928,Cat Island,http://www.wikidata.org/entity/Q778,The Bahamas
+7050,http://www.wikidata.org/entity/Q390162,Huși,http://www.wikidata.org/entity/Q218,Romania
+7064,http://www.wikidata.org/entity/Q2252605,Sironko,http://www.wikidata.org/entity/Q1036,Uganda
+7070,http://www.wikidata.org/entity/Q112309778,Segusio,http://www.wikidata.org/entity/Q2277,Roman Empire
+7071,http://www.wikidata.org/entity/Q2762100,North Nicosia,http://www.wikidata.org/entity/Q23681,Turkish Republic of Northern Cyprus
+7072,http://www.wikidata.org/entity/Q2215428,"Souillac, Mauritius",http://www.wikidata.org/entity/Q1027,Mauritius
+7082,http://www.wikidata.org/entity/Q383622,Pakse,http://www.wikidata.org/entity/Q870055,Kingdom of Laos
+7083,http://www.wikidata.org/entity/Q383622,Pakse,http://www.wikidata.org/entity/Q1320058,French Protectorate of Laos
+7101,http://www.wikidata.org/entity/Q24828295,Makassar,http://www.wikidata.org/entity/Q188161,Dutch East Indies
+7102,http://www.wikidata.org/entity/Q2671184,Mauritsstad,http://www.wikidata.org/entity/Q221357,Dutch Brazil
+7103,http://www.wikidata.org/entity/Q111174565,Neukölln,http://www.wikidata.org/entity/Q1206012,German Reich
+7166,http://www.wikidata.org/entity/Q1529020,Gladbach-Rheydt,http://www.wikidata.org/entity/Q1206012,German Reich
+7168,http://www.wikidata.org/entity/Q14222058,True Blue,http://www.wikidata.org/entity/Q769,Grenada
+7169,http://www.wikidata.org/entity/Q382249,Butha-Buthe,http://www.wikidata.org/entity/Q1013,Lesotho
+7177,http://www.wikidata.org/entity/Q1635802,Trindade,http://www.wikidata.org/entity/Q1039,São Tomé and Príncipe
+7191,http://www.wikidata.org/entity/Q6972345,Kendul,http://www.wikidata.org/entity/Q794,Iran
+7205,http://www.wikidata.org/entity/Q1515541,Pamplemousses,http://www.wikidata.org/entity/Q1027,Mauritius
+7214,http://www.wikidata.org/entity/Q2881532,Balsa,http://www.wikidata.org/entity/Q45,Portugal
+7301,http://www.wikidata.org/entity/Q7095260,Odweine,http://www.wikidata.org/entity/Q34754,Somaliland
+7303,http://www.wikidata.org/entity/Q6974233,"National Marian Shrine, Mariamabad",http://www.wikidata.org/entity/Q129286,British Raj
+7304,http://www.wikidata.org/entity/Q6974233,"National Marian Shrine, Mariamabad",http://www.wikidata.org/entity/Q2006542,Dominion of Pakistan
+7337,http://www.wikidata.org/entity/Q5115146,Chu Lai,http://www.wikidata.org/entity/Q881,Vietnam
+7340,http://www.wikidata.org/entity/Q16526959,Al Ghuwariyah,http://www.wikidata.org/entity/Q846,Qatar
+7344,http://www.wikidata.org/entity/Q5124170,Nueva Cáceres,http://www.wikidata.org/entity/Q928,Philippines
+7348,http://www.wikidata.org/entity/Q16898113,Oradea,http://www.wikidata.org/entity/Q218,Romania
+7355,http://www.wikidata.org/entity/Q5221425,Danyang,http://www.wikidata.org/entity/Q504759,Chu
+7377,http://www.wikidata.org/entity/Q1249939,Khushab,http://www.wikidata.org/entity/Q129286,British Raj
+7412,http://www.wikidata.org/entity/Q1208250,Hankou,http://www.wikidata.org/entity/Q8733,Qing dynasty
+7415,http://www.wikidata.org/entity/Q1208250,Hankou,http://www.wikidata.org/entity/Q696242,Wang Jingwei regime
+7416,http://www.wikidata.org/entity/Q1208250,Hankou,http://www.wikidata.org/entity/Q708865,Reformed Government of the Republic of China
+7417,http://www.wikidata.org/entity/Q16510368,Daliang,http://www.wikidata.org/entity/Q912052,Wei
+7423,http://www.wikidata.org/entity/Q1208250,Hankou,http://www.wikidata.org/entity/Q13426199,Republic of China
+7456,http://www.wikidata.org/entity/Q15411978,Lamap,http://www.wikidata.org/entity/Q686,Vanuatu
+7467,http://www.wikidata.org/entity/Q3643900,Bribri,http://www.wikidata.org/entity/Q800,Costa Rica
+7474,http://www.wikidata.org/entity/Q2421186,Hoa Lu,http://www.wikidata.org/entity/Q881,Vietnam
+7493,http://www.wikidata.org/entity/Q85098690,Djoliba,http://www.wikidata.org/entity/Q912,Mali
+7494,http://www.wikidata.org/entity/Q15806224,Dokimeion,http://www.wikidata.org/entity/Q32579,Phrygia
+7520,http://www.wikidata.org/entity/Q1274372,Ye,http://www.wikidata.org/entity/Q175379,Empire of China
+7523,http://www.wikidata.org/entity/Q14900639,Santa Rosa,http://www.wikidata.org/entity/Q25279,Curaçao
+7526,http://www.wikidata.org/entity/Q1163924,Celaenae,http://www.wikidata.org/entity/Q83311,Persian Empire
+7549,http://www.wikidata.org/entity/Q88696397,Rucunshu,http://www.wikidata.org/entity/Q889884,Kingdom of Rwanda
+7555,http://www.wikidata.org/entity/Q81923050,Sergiopolis,http://www.wikidata.org/entity/Q12544,Byzantine Empire
+7557,http://www.wikidata.org/entity/Q17026198,Site of Capital of Kingdom Zheng and Han,http://www.wikidata.org/entity/Q1574130,Han
+7576,http://www.wikidata.org/entity/Q4108354,Verkhnee,http://www.wikidata.org/entity/Q212,Ukraine
+7617,http://www.wikidata.org/entity/Q31866158,Abrantes,http://www.wikidata.org/entity/Q45,Portugal
+7639,http://www.wikidata.org/entity/Q2887425,Bassila,http://www.wikidata.org/entity/Q962,Benin
+7642,http://www.wikidata.org/entity/Q2449703,Kuype of Brussels,http://www.wikidata.org/entity/Q159856,Duchy of Brabant
+7699,http://www.wikidata.org/entity/Q12193915,Al-Ain Region,http://www.wikidata.org/entity/Q878,United Arab Emirates
+7709,http://www.wikidata.org/entity/Q33503054,São João da Madeira,http://www.wikidata.org/entity/Q45,Portugal
+7710,http://www.wikidata.org/entity/Q33678050,Góis,http://www.wikidata.org/entity/Q45,Portugal
+7711,http://www.wikidata.org/entity/Q35722090,Machico,http://www.wikidata.org/entity/Q45,Portugal
+7742,http://www.wikidata.org/entity/Q61941883,İske Qazan,http://www.wikidata.org/entity/Q185488,Volga Bulgaria
+7785,http://www.wikidata.org/entity/Q2427450,Hashtpar,http://www.wikidata.org/entity/Q794,Iran
+7808,http://www.wikidata.org/entity/Q3696182,Dibba Al-Fujairah,http://www.wikidata.org/entity/Q878,United Arab Emirates
+7857,http://www.wikidata.org/entity/Q12115162,Kriukiv,http://www.wikidata.org/entity/Q212,Ukraine
+7896,http://www.wikidata.org/entity/Q11954442,Venasa,http://www.wikidata.org/entity/Q33490,Cappadocia
+7898,http://www.wikidata.org/entity/Q3788017,Hyria,http://www.wikidata.org/entity/Q3234653,Messapia
