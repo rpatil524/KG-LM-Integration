@@ -8,3 +8,4 @@ wandb/
 models/
 
 !/generate_test_data/*.csv
+!/generate_test_data/*.jsonl
