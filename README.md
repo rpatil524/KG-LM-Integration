@@ -17,4 +17,4 @@ All the experimental results can be reproduced by the jupyter notebook KIG-Bert.
 1. GPU is needed for training and evaluation.
 2. Git Large File Storage package is needed. Please find the intrustion on the installing it in [installing-git-large-file-storage](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)
 3. Python version: `3.10`
-4. Install pip packages with `pip3 install -r requirements.txt` (update this)
+4. Install pip packages with `pip3 install -r requirements.txt`
