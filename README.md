@@ -2,7 +2,7 @@
 This is the implementation of **K**nowledge **I**nte**G**rated BERT (KIG-BERT) proposed by Aisha and Xiangru for CS 848 (Knowledge Graph) course project.
 
 ## Paper
-Find our paper with training and evaluation details in [link-to-paper](link-to-paper)
+Find our paper with training and evaluation details in [link-to-paper](https://github.com/tanny411/KG-LM-Integration/blob/master/Language_Model_Knowledge_Graph_Integration.pdf)
 
 **Abstract**: Recent developments in large language modeling have greatly accelerated the performances of NLP applications. Yet they remain largely dependent on their training data and thus prone to being factually inaccurate and socially biased. It is hard to correct the models after the fact due to their large size requiring high compute and large amounts of supervised training data. This paper proposes a minimal compute, no-pretrain framework for improving language model factual accuracy by incorporating knowledge graph information. Unlike human-written text, facts in knowledge graphs like Wikidata are accurate and free from bias. Comparison with baselines shows that our methods have promise in making language models factually accurate as well as retaining language understanding. We also build a facts dataset to test our work using template sentences and Wikidata entities to further evaluate the proposed system. 
 
